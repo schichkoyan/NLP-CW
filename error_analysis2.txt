@@ -1,0 +1,1153 @@
+False Positives (Predicted Positive, Actual Negative):
+Sample: {'entiti': 5, 'said': 1, 'judg': 1, 'anoth': 1, 'biblic': 1, 'truism': 1, 'reap': 1, 'sow': 1, 'http': 1, 'tco9e4vpntozd': 1}, Actual: negative, Predicted: positive
+Sample: {'get': 1, 'mad': 1, 'entiti': 3, 'imperson': 1, 'beyond': 1, 'admir': 1, 'wa': 1, 'said': 1, 'repeat': 1, 'speech': 1, 'teamgigi': 1}, Actual: negative, Predicted: positive
+Sample: {'time': 1, 'entiti': 5, 'arriv': 1, 'wa': 1, 'wait': 1, 'airport': 1, 'facilit': 1, 'defec': 1, 'http': 1, 'tco0gxelmockp': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'pick': 1, 'lower': 1, 'fourth': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'poison': 1, 'dim': 1, 'sun': 1, 'unveil': 1, 'new': 1, 'patent': 1, 'seed': 1, 'toler': 1, 'sunlight': 1, 'depriv': 1}, Actual: negative, Predicted: positive
+Sample: {'realli': 1, 'hope': 1, 'entiti': 4, 'start': 1, 'instead': 1, 'liter': 1, 'age': 1, 'number': 1, 'year': 1, 'summer': 1}, Actual: negative, Predicted: positive
+Sample: {'nt': 1, 'seen': 1, 'best': 1, 'friend': 1, 'sinc': 1, 'entiti': 1, 'parad': 1, 'live': 1, 'le': 1, 'number': 1, 'minut': 1, 'away': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 7, 'ha': 1, 'drop': 1, 'biggest': 1, 'hint': 1, 'yet': 1, 'go': 1, 'hous': 1, 'http': 1, 'tcoah93wbe7v9': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 1, 'packag': 1, 'wa': 1, 'suppos': 1, 'deliv': 1, 'today': 1, '8pm': 2, 'guess': 1, 'mean': 1, 'get': 1, 'tomorrow': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 1, 'lole': 1, 'one': 1, 'right': 1, 'awaygeograph': 1, 'challeng': 1, 'tweep': 1}, Actual: negative, Predicted: positive
+Sample: {'jayz': 1, 'stole': 1, 'entiti': 1, 'actual': 1, 'word': 1, 'damn': 1, 'near': 1, 'da': 1, '1st': 1, 'number': 1, 'bar': 1, 'wan': 1, 'na': 1, 'love': 1, 'give': 1, 'http': 1, 'tcoxss5q3alzi': 1}, Actual: negative, Predicted: positive
+Sample: {'hell': 1, 'gon': 1, 'na': 2, 'pitch': 1, 'tomorrow': 1, 'entiti': 2, 'guy': 1, 'wan': 1, 'go': 2, 'u': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'nt': 1, 'get': 1, 'chanc': 1, 'post': 1, 'day': 1, 'return': 1, 'ghost': 1, 'guid': 1, 'young': 1, 'artist': 1, 'starwar': 1}, Actual: negative, Predicted: positive
+Sample: {'wa': 1, 'final': 1, 'warm': 1, '3rd': 1, 'fight': 1, 'entiti': 4, 'go': 1, 'throw': 1, 'ball': 1, 'nt': 1, 'get': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'complet': 1, 'fallen': 1, 'apart': 1, '10th': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'need': 1, 'stop': 1, 'brag': 1, 'govern': 1, '12th': 1, 'largest': 1, 'economi': 1, 'world': 1, 'like': 1, 'ha': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'wa': 2, '1st': 1, 'time': 1, 'nt': 2, 'stay': 1, 'film': 2, 'post': 1, 'credit': 1, 'scene': 1, 'one': 1, 'big': 1, 'teaser': 1, 'need': 1, 'see': 1, 'anoth': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 8, 'could': 1, 'better': 1, 'consider': 1, 'http': 1, 'tcoqc0oyr4u0j': 1}, Actual: negative, Predicted: positive
+Sample: {'kendalldawn13': 1, 'time': 1, 'call': 1, 'entiti': 2, 'go': 1}, Actual: negative, Predicted: positive
+Sample: {'apwestgarth': 1, 'case': 1, 'nt': 1, 'spot': 1, 'entiti': 4, 'back': 1, 'next': 1, 'number': 1, 'live': 1, 'stack72': 1}, Actual: negative, Predicted: positive
+Sample: {'chrislhay': 1, 'entiti': 9, 'http': 1, 'tcobujest32ta': 1}, Actual: negative, Predicted: positive
+Sample: {'justinkaoma': 1, 'entiti': 3, 'night': 1, 'sangz1': 1, 'tell': 1, 'delet': 1, 'pic': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'reunifi': 1, 'ca': 1, 'nt': 1}, Actual: negative, Predicted: positive
+Sample: {'castlescrumbln': 1, 'respons': 1, 'entiti': 2, 'may': 1, 'make': 1, 'album': 1, 'ugli': 1}, Actual: negative, Predicted: positive
+Sample: {'head': 1, 'import': 1, 'chang': 1, 'entiti': 4, 'effect': 1, 'number': 1, 'limit': 1, 'share': 1, 'free': 1, 'http': 1, 'tcobndstpovjq': 1, 'debtblag': 1}, Actual: negative, Predicted: positive
+Sample: {'overheard': 1, 'gay': 1, 'church': 1, 'sunday': 1, 'back': 1, 'bitch': 1, 'lot': 1, 'say': 1, 'http': 1, 'tco357ftbum6a': 1}, Actual: negative, Predicted: positive
+Sample: {'go': 1, 'fight': 1, 'entiti': 1, 'tomorrow': 1, 'lunch': 1, 'idc': 2, 'dc': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'fight': 2, 'erupt': 1, 'chadian': 2, 'armi': 2, 'pit': 1, 'http': 1, 'tcon1ak3z7c9j': 1}, Actual: negative, Predicted: positive
+Sample: {'gerfingerpoken2': 1, 'entiti': 3}, Actual: negative, Predicted: positive
+Sample: {'cjtfoir': 1, 'near': 1, 'entiti': 5, '6strike': 1, 'engag': 1, 'destroy': 1, '6boat': 1, '4vehicl': 1, '3vbi': 1, 'http': 1, 'tcocolbpxcnri': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'polit': 1, 'http': 1, 'tcorbxfrirmbl': 1}, Actual: negative, Predicted: positive
+Sample: {'listen': 1, 'entiti': 3, 'set': 1, 'nt': 1, 'best': 1, 'thing': 1, 'go': 1, 'bed': 1, 'ravin': 1, 'tit': 1, 'aff': 1, 'ha': 1}, Actual: negative, Predicted: positive
+Sample: {'anyon': 1, 'els': 1, 'feel': 1, 'like': 1, 'entiti': 4, 'may': 1, 'jeopardi': 1, 'go': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 1, 'ca': 1, 'nt': 1, 'make': 1, 'work': 1, 'tomorrow': 1, 'got': 1, 'caught': 1, 'sharknado': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'wo': 1, 'nt': 1, 'see': 1, 'tomorrow': 1, 'way': 1, 'home': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'last': 1, 'day': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'brag': 1, 'treat': 2, 'teacher': 1, 'harshli': 1, 'tri': 1, 'destroy': 1, 'farmer': 1, 'http': 1, 'tcoupzsht64cq': 1}, Actual: negative, Predicted: positive
+Sample: {'http': 1, 'tco0bvvwphzj8countri': 1, 'knew': 1, 'wa': 1, 'illeg': 1, 'wonder': 1, 'threaten': 1, 'donat': 1, 'larg': 1, 'sum': 1, 'entiti': 2}, Actual: negative, Predicted: positive
+Sample: {'entiti': 7, 'cent': 1, 'v': 2, 'one': 1, 'na': 1, 'happi': 1, 'cena': 1, 'http': 1, 'tcosaub0siinw': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'account': 1, 'tweet': 1, 'tomorrow': 1, 'night': 1, 'togeth': 1, 'want': 1}, Actual: negative, Predicted: positive
+Sample: {'elizabethforma': 1, 'entiti': 19, 'ur': 1, 'http': 1, 'tconejuwd5mxp': 1}, Actual: negative, Predicted: positive
+Sample: {'top': 1, 'comedi': 2, 'entiti': 7, 'number': 1, 'forthcom': 1, 'might': 1, 'http': 1, 'tcocusiitof': 1}, Actual: negative, Predicted: positive
+Sample: {'4th': 1, 'quarter': 1, 'entiti': 6, 'go': 1, 'miss': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 7, 'bro': 1, 'know': 1, 'nt': 1, 'hot': 1}, Actual: negative, Predicted: positive
+Sample: {'go': 1, 'back': 1, 'gay': 1, 'morton': 1, 'tomorrow': 1}, Actual: negative, Predicted: positive
+Sample: {'nice': 1, 'thing': 1, 'say': 1, 'entiti': 2, '2nd': 1, 'edit': 1, 'got': 1, 'ta': 1, 'omit': 1, 'entir': 1, 'much': 1, 'like': 1}, Actual: negative, Predicted: positive
+Sample: {'rubl': 2, 'slide': 1, 'today': 1, 'dollar': 1, 'crack': 1, 'number': 1, 'first': 1, 'time': 1, 'sinc': 1, 'entiti': 3, 'http': 1, 'tcosl7zyvagc5': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'arriv': 1, 'yet': 1, 'receiv': 1, 'remain': 1, 'number': 1, 'piec': 1, 'luggag': 1, 'seem': 1, 'care': 1}, Actual: negative, Predicted: positive
+Sample: {'http': 1, 'tcoktk7c3uncc': 1, 'entiti': 16, 'realdonaldtrump': 1, 'mikep': 1}, Actual: negative, Predicted: positive
+Sample: {'overturn': 1, 'elector': 3, 'colleg': 2, 'faithless': 1, 'anyth': 1, 'avert': 1, 'planet': 1, 'destroy': 1, 'calam': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'hang': 1, 'would': 1, 'prove': 1, 'right': 1, 'last': 1, 'laugh': 1, 'http': 1, 'tcon7rcghuzur': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'occur': 1, 'anyon': 1, 'may': 1, 'execut': 1, 'honey': 1, 'bee': 1, 'w': 1, 'poison': 1, 'control': 1, 'food': 2, 'suppli': 1, 'limit': 1, 'natur': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 7, 'differ': 1, 'may': 1, 'young': 1, 'get': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 1, 'meet': 1, 'destini': 1, 'chosen': 1, 'killer': 1, 'wait': 1, 'may': 1, 'longer': 1, 'destin': 1}, Actual: negative, Predicted: positive
+Sample: {'tech': 1, 'entiti': 7, 'apolog': 2, 'errorridden': 1, 'new': 1, 'map': 1, 'app': 1, 'compani': 1, 'number': 1, 'http': 1, 'tcokrvx70c2': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'said': 1, 'sunday': 1, 'night': 1, 'wa': 1, 'offici': 1, 'last': 1, 'day': 1, 'march': 1}, Actual: negative, Predicted: positive
+Sample: {'probabl': 1, 'go': 1, 'complain': 1, 'anoth': 1, 'number': 1, 'time': 1, 'today': 2, 'justin': 1, 'perform': 1, 'show': 1, 'tomorrow': 1, 'start': 1, 'school': 1}, Actual: negative, Predicted: positive
+Sample: {'miss': 1, 'entiti': 2, 'thewalkingdead': 1}, Actual: negative, Predicted: positive
+Sample: {'random': 1, 'rant': 1, 'night': 1, 'ladi': 1, 'entiti': 1, 'consid': 2, 'fashion': 2, 'icon': 1, 'right': 1, 'mind': 1, 'dress': 1, 'trash': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'defens': 1, 'stand': 1, 'begin': 1, '3rd': 1, 'lord': 1, 'know': 1, 'get': 1, 'beat': 1, 'deep': 1}, Actual: negative, Predicted: positive
+Sample: {'still': 1, 'search': 1, 'realli': 1, 'entiti': 5, 'miss': 1, 'sinc': 1, 'willingli': 1, 'pass': 1, 'concert': 1}, Actual: negative, Predicted: positive
+Sample: {'nigerian': 1, 'medium': 1, 'seek': 1, 'cope': 1, 'entiti': 2, 'threat': 1, 'http': 1, 'tcolceiapm7o5': 1}, Actual: negative, Predicted: positive
+Sample: {'final': 1, 'watch': 1, 'edg': 1, 'tomorrow': 1, 'nd': 1, 'surpris': 2, 'tom': 1, 'cruis': 1, 'annoy': 1}, Actual: negative, Predicted: positive
+Sample: {'may': 1, 'rememb': 2, 'entiti': 2, 'great': 1, 'footbal': 1, 'player': 1, 'broadcast': 1, 'guy': 1, 'want': 1, 'anal': 1, 'stewardess': 1}, Actual: negative, Predicted: positive
+Sample: {'heydickhead': 1, 'absolut': 1, 'insan': 1, 'say': 1, 'thisi': 1, 'follow': 1, 'entiti': 7, 'support': 1, 'argument': 1, 'invalid': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'may': 1, 'need': 1, 'mani': 1, 'refuge': 1, 'due': 1, 'long': 1, 'peni': 1, 'record': 1, 'movi': 1, 'etc': 1, 'cultur': 1}, Actual: negative, Predicted: positive
+Sample: {'6am': 1, 'whilst': 1, 'work': 1, 'may': 1, 'best': 1, 'time': 2, 'listen': 1, 'first': 1, 'feel': 1, 'new': 1, 'entiti': 2, 'yet': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'excit': 1, 'church': 1, 'wefest': 1, '3rd': 1, 'time': 1, 'number': 1, 'year': 1, 'liter': 1, 'els': 1, 'want': 1, 'headlin': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'may': 1, 'head': 1, 'accid': 1, 'gym': 1, 'equip': 1, 'like': 1, 'one': 1, 'bang': 1, 'berniesand': 1}, Actual: negative, Predicted: positive
+Sample: {'macdougal': 1, 'kill': 1, 'raider': 1, 'entiti': 5, 'score': 1, '2nd': 1, 'good': 1, 'leadup': 1, 'work': 1, 'miss': 1, 'kick': 1, 'knight': 1, 'number': 1}, Actual: negative, Predicted: positive
+Sample: {'love': 1, 'see': 1, 'pile': 1, 'bodi': 1, 'entiti': 3, 'fighterbut': 1, 'saw': 1, 'civilian': 1, 'lot': 1, 'child': 1, 'woman': 1, 'sanpatkan1': 1}, Actual: negative, Predicted: positive
+Sample: {'fond': 1, 'entiti': 4, 'big': 1, 'deal': 1, 'may': 1, 'possibl': 1, 'lose': 1, 'job': 1, 'good': 1, 'way': 1, 'either': 1}, Actual: negative, Predicted: positive
+Sample: {'sound': 1, 'like': 1, 'entiti': 3, 'morn': 1, 'guess': 1, 'read': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'abl': 1, 'get': 1, 'hatchim': 1, 'blackfridayshop': 1}, Actual: negative, Predicted: positive
+Sample: {'cba': 1, 'work': 1, 'tomorrow': 1, 'entiti': 2}, Actual: negative, Predicted: positive
+Sample: {'go': 1, 'latest': 1, 'game': 1, 'stat': 1, 'think': 1, 'may': 1, 'made': 1, 'mistak': 1, 'back': 1, 'juventu': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'much': 1, 'easier': 1, 'pretti': 1, 'sure': 1, 'tomorrow': 1, 'shuffl': 1, 'tho': 1, 'hate': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'milit': 1, 'say': 1, 'conspiraci': 1, 'theorist': 1, 'get': 1, 'work': 1, 'want': 1, 'tl': 1, 'occupi': 1, 'articl': 1, 'monday': 1}, Actual: negative, Predicted: positive
+Sample: {'memoriesagb': 1, 'last': 1, 'week': 2, 'chart': 2, 'come': 1, 'tomorrow': 1, 'nt': 1, 'post': 1, 'today': 1, 'entiti': 2}, Actual: negative, Predicted: positive
+Sample: {'samsung': 1, 'entiti': 4, '3rd': 1, 'number': 2, 'still': 1, 'glitchi': 1, 'restart': 1, 'time': 1, 'day': 1, 'happen': 1, 'qualiti': 1}, Actual: negative, Predicted: positive
+Sample: {'sister': 1, 'want': 1, 'workout': 1, 'crack': 1, 'dawn': 1, 'tomorrow': 1, 'oracl': 1}, Actual: negative, Predicted: positive
+Sample: {'randal': 1, 'thisisu': 1}, Actual: negative, Predicted: positive
+Sample: {'back': 1, 'entiti': 4, 'tomorrow': 1, 'load': 1, 'shop': 2, 'could': 1, 'nt': 1, 'fit': 1, 'addict': 1}, Actual: negative, Predicted: positive
+Sample: {'get': 3, 'entiti': 2, 'camaro': 1, 'accid': 1, 'brand': 1, 'new': 1, 'civic': 1, 'ticket': 1, 'top': 1}, Actual: negative, Predicted: positive
+Sample: {'jgdowni': 1, 'entiti': 5, 'good': 1, 'argument': 1, 'human': 1, 'rightsnon': 1, 'medic': 1, 'model': 1, 'philosoph': 1}, Actual: negative, Predicted: positive
+Sample: {'noth': 1, 'ruin': 1, 'entiti': 3, 'morn': 1, 'hear': 1, 'beauti': 1, 'radio': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 7, 'cheat': 1, 'help': 1, 'win': 1, 'cheap': 1, 'come': 1, 'tomorrow': 1, 'happi': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'tomorrow': 1, 'ca': 1, 'nt': 1, 'believ': 1, 'gon': 1, 'na': 1, 'miss': 1}, Actual: negative, Predicted: positive
+Sample: {'mikep': 1, 'entiti': 11, 'major': 1, 'destroy': 1, 'movement': 1, 'vote': 1, 'trumper': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'http': 1, 'tcocq7ar4fvmp': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'wo': 1, 'nt': 1, 'see': 1, 'face': 1, 'awhil': 1, 'ob': 1, 'speech': 1, 'togeth': 1, 'number': 2, 'http': 1, 'tcojqj5fedo45': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 8, 'fuss': 1, 'promis': 1, 'massiv': 1, 'deal': 1, 'rival': 1, 'http': 1, 'tcoduhxieglxm': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 7, 'apolog': 2, 'errorridden': 2, 'new': 2, 'map': 2, 'app': 1, 'compani': 1, 'mobil': 1}, Actual: negative, Predicted: positive
+Sample: {'let': 1, 'see': 1, 'shitti': 1, 'movi': 1, 'entiti': 1, 'ha': 1, 'recommend': 1, 'watch': 1, 'tonight': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'govern': 1, 'movement': 1, 'http': 1, 'tcocfzeagtcrv': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'richgalen': 1, 'jpodhoretz': 1, 'happen': 1, 'dem': 1, 'would': 1, 'nt': 1, 'win': 1, 'pop': 1, 'next': 1, 'number': 1, 'year': 1}, Actual: negative, Predicted: positive
+Sample: {'first': 1, 'entiti': 8, 'without': 1}, Actual: negative, Predicted: positive
+Sample: {'2nd': 1, 'time': 1, 'go': 1, 'entiti': 1, 'today': 1, 'close': 1, 'like': 1}, Actual: negative, Predicted: positive
+Sample: {'ariefriedman': 1, 'hama': 1, 'entiti': 3, 'worth': 1, 'doe': 1, 'presid': 1, 'elect': 1, 'repr': 1, 'http': 1, 'tcofqkqa12pqj': 1}, Actual: negative, Predicted: positive
+Sample: {'ima': 1, 'go': 1, 'see': 1, 'entiti': 3, 'tomorrow': 1, 'hollywe': 1, 'come': 1, 'get': 1, 'punch': 1, 'fuckin': 1, 'face': 1, 'pit': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 9, 'tcoviswz3hhrv': 1, 'http': 1, 'tco02pfkxlaka': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 1, 'pant': 1, 'alway': 1, 'tight': 1, 'may': 1, 'size': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'brainwash': 1, 'european': 1, 'say': 1, 'lithuanian': 1, 'video': 1, 'http': 1, 'tcos8txznokmz': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'itzmee': 1, 'well': 1, 'admonish': 1, 'statu': 1, 'wat': 1, 'age': 1, 'littl': 1, 'kid': 1, 'kick': 1, '1st': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'wa': 1, 'anchorman': 1, 'alreadi': 1, 'miss': 1, 'long': 1, 'time': 1, 'feel': 1, 'sorrow': 1, 'http': 1, 'tcou8xnlazvza': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'woke': 1, 'tomorrow': 1, 'decid': 1, 'go': 1, 'would': 1, 'rip': 1, 'shirt': 1, 'reveal': 1, 'tattoo': 1}, Actual: negative, Predicted: positive
+Sample: {'would': 1, 'get': 1, 'marri': 1, 'entiti': 3, '11th': 1, 'want': 1, 'special': 1, 'date': 1, 'pick': 1, 'like': 1, 'everyon': 1, 'els': 1, 'leav': 1, 'day': 1, 'alon': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'number': 1, 'flight': 1, 'apakah': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 9, 'steal': 1, 'thunder': 1, 'nineti': 1, 'minut': 1, 'tipoff': 1, 'night': 1, 'http': 1, 'tconnjbpswk': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'feel': 1, 'guilti': 1, 'goin': 1, 'number': 2, 'hour': 1, 'tomorrow': 1, 'go': 1, 'tri': 1, 'make': 1, 'life': 1, 'better': 1}, Actual: negative, Predicted: positive
+Sample: {'black': 1, 'guy': 1, 'entiti': 3, 'fight': 1, 'look': 1, 'like': 1, 'gon': 1, 'na': 1, 'beat': 1, 'lmao': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 7, 'member': 2, 'walk': 2, 'meet': 1, '2g': 1, 'p': 1, 'http': 1, 'tcopovv7bd': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'feel': 1, 'cheesi': 1, 'yeah': 1, 'wa': 1, 'bad': 1, 'first': 1, 'episod': 1, 'enough': 1, 'night': 1, 'show': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 15, 'time': 1}, Actual: negative, Predicted: positive
+Sample: {'surfac': 1, 'entiti': 6, 'nt': 1, 'appear': 1, 'share': 1, 'much': 1, 'common': 1}, Actual: negative, Predicted: positive
+Sample: {'go': 1, 'tri': 1, 'watch': 1, 'entiti': 2, '2nd': 1, 'time': 1, 'part': 1, 'seen': 1, 'pretti': 1, 'bad': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'gave': 1, 'slight': 1, 'edg': 1, 'today': 1, 'materi': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 11, 'educ': 1, 'brilliant': 1, 'speech': 1, 'say': 1, 'enough': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'finish': 1, 'opinion': 1, 'win': 1, 'elect': 1, 'tri': 1, 'get': 1, 'countri': 1, 'union': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, '4g': 1, 'rich': 1, 'servic': 1, 'may': 1, 'largest': 1, 'wireless': 1, 'carrier': 1, 'http': 1, 'tcobeyvu9wi': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'get': 1, 'grip': 1, 'royal': 1, 'fan': 1, 'forgiv': 1, 'bif': 1, 'pitch': 1, 'fell': 1, 'apart': 1, '4th': 1, 'http': 1, 'tco5vyhq69iqn': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'whacko': 1, 'dem': 1, 'love': 1, 'use': 1, 'agenda': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'crisi': 2, 'add': 2, 'anxieti': 2, 'third': 1, 'column': 1, '4th': 1, 'st': 1, 'http': 1, 'tcovboviox8fi': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'marriag': 1, 'becam': 1, 'legal': 1, 'number': 1, 'gawd': 1, 'world': 1, 'ha': 1, 'yet': 1, 'implod': 1}, Actual: negative, Predicted: positive
+Sample: {'chrislhay': 1, 'entiti': 5, 'wrdcsc': 1, 'wa': 1, 'differ': 1, 'elect': 1, 'letter': 1, 'tie': 1, 'led': 1, 'number': 1, 'day': 1, 'pedophilia': 1, 'stori': 1}, Actual: negative, Predicted: positive
+Sample: {'doe': 1, 'entiti': 3, 'game': 1, 'come': 1, 'tomorrow': 1, 'night': 1, 'well': 1, 'rather': 1, 'play': 1, 'watch': 1, 'day': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 9, 'look': 1, 'tweet': 1, 'http': 1, 'tcoxl0moclgjz': 1, 'use': 1}, Actual: negative, Predicted: positive
+Sample: {'tripl': 1, 'entiti': 8, 'dragoncon': 1, 'number': 1, 'game': 2, 'downtown': 1, 'connector': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'funer': 1, 'tomorrow': 1, 'wa': 1, 'pleasur': 1, 'known': 1, 'work': 1, 'great': 1, 'racer': 1, 'http': 1, 'tcohfconcj4vz': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'flock': 1, 'around': 1, 'world': 1, 'join': 1, 'may': 1, 'action': 1, 'great': 1, 'assuredli': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 8, 'voter': 1, 'celebr': 1, 'victori': 1, 'enjoy': 1, 'love': 1, 'compani': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 11, 'chefboyjav': 1, 'shortttstackk': 1, 'whoissancocho': 1, '52legna': 1, 'http': 1, 'tcous8pnnybwv': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 1, 'toler': 1}, Actual: negative, Predicted: positive
+Sample: {'sure': 1, 'entiti': 3, 'right': 1, 'nt': 1, 'wan': 1, 'na': 1, 'redneck': 1, 'sea': 1, 'god': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'bad': 1, 'noth': 1, 'air': 1, '1stq': 1, 'hope': 1, 'tomorrow': 1, 'doe': 1, 'good': 1, 'spellcheckjok': 1}, Actual: negative, Predicted: positive
+Sample: {'hannnnox': 1, 'shit': 1, 'entiti': 2, 'would': 1, 'better': 1, 'aswel': 1, 'still': 1, 'go': 1, '3rd': 1, 'x': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'sat': 1, 'cold': 1, 'listen': 1, 'bowi': 1, 'life': 1, 'hard': 1, 'sometim': 1}, Actual: negative, Predicted: positive
+Sample: {'rlbonesio': 1, 'may': 1, 'readi': 1, 'entiti': 1, 'yet': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'ha': 1, 'express': 1, 'desir': 1, 'next': 1, 'good': 1, 'look': 1, 'act': 1, 'may': 1, 'deal': 1, 'breaker': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'may': 1, 'question': 1, 'game': 1, 'good': 1, 'run': 1, 'back': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 20}, Actual: negative, Predicted: positive
+Sample: {'take': 1, 'result': 1, 'top': 1, 'group': 1, 'well': 1, 'entiti': 5, 'curs': 1, 'away': 1, 'u': 1, 'ahead': 1}, Actual: negative, Predicted: positive
+Sample: {'men': 1, 'tomorrow': 1, 'one': 1, 'hardest': 1, 'patrol': 1, 'entiti': 1, 'turn': 1, 'let': 1, 'hope': 1, 'everyth': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'yeh': 1, 'look': 1, 'sick': 1, 'ahhh': 1, 'probabl': 1, 'wontt': 1, 'get': 1, 'back': 1, 'fest': 1, 'til': 1, '25th': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'linka01': 1, 'slam': 1, 'credit': 1, 'rate': 1, 'downgrad': 1, 'fault': 1, 'remind': 1}, Actual: negative, Predicted: positive
+Sample: {'wish': 1, 'wa': 1, 'excit': 1, 'right': 1, 'entiti': 2, 'number': 1, 'catch': 1, 'later': 1, 'today': 1, 'tomorrow': 1}, Actual: negative, Predicted: positive
+Sample: {'xfactor': 2, 'turn': 1, 'gay': 2, 'talent': 1, 'show': 1, 'aim': 1, 'commun': 1, 'increas': 1, 'rate': 1, 'mostli': 1, 'freak': 1, 'sun': 1, 'night': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'antman': 1, 'may': 1, 'struggl': 1, 'v': 1, 'parent': 1, 'assum': 1, 'wa': 1, 'parodi': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'pretti': 1, 'mad': 1, 'packer': 1, 'took': 1, '1st': 1, 'bc': 1, 'would': 1, 'better': 1}, Actual: negative, Predicted: positive
+Sample: {'rememb': 1, 'wa': 1, 'black': 1, 'kid': 1, 'class': 1, '4th': 1, 'grade': 1, 'play': 1, 'entiti': 2, 'lost': 1, 'lead': 1, 'role': 1, 'white': 1, 'girl': 1, 'lol': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 8, 'elizabethforma': 1, 'pleas': 1, 'get': 1, 'make': 1, 'sttmnt': 1, 'alon': 1}, Actual: negative, Predicted: positive
+Sample: {'watch': 1, 'number': 1, 'minut': 1, 'entiti': 2, 'live': 1, 'video': 1, 'hatch': 1, 'one': 1, 'regret': 1, 'everi': 1, 'second': 1, 'http': 1, 'tcowyjloh9xaa': 1}, Actual: negative, Predicted: positive
+Sample: {'1st': 1, 'time': 1, 'drove': 1, 'stick': 1, 'ever': 1, 'kinda': 1, 'lie': 1, 'salesman': 1, 'entiti': 2, 'drive': 1, 'standard': 1, 'took': 1, 'number': 1, 'speed': 1, 'manual': 1, 'testdriv': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'number': 1, 'come': 1, 'back': 1, 'still': 1, 'good': 1, 'first': 1, 'teen': 1, 'mom': 1, 'tho': 1}, Actual: negative, Predicted: positive
+Sample: {'runway': 1, 'renov': 1, 'airport': 1, 'prevent': 1, 'see': 1, 'entiti': 5, 'new': 1, 'mean': 1}, Actual: negative, Predicted: positive
+Sample: {'take': 1, 'note': 1, 'put': 1, 'stylu': 1, 'back': 1, 'entiti': 2, 'number': 1, 'may': 1, 'break': 1, 'phone': 1, 'read': 1, 'http': 2, 'tcosquxfe43x5': 1, 'tcou1vdh7mskh': 1}, Actual: negative, Predicted: positive
+Sample: {'medic': 1, 'marijuana': 1, 'legal': 1, 'major': 1, 'entiti': 2, 'yet': 1, 'veteran': 1, 'get': 1, 'thank': 1, 'polici': 1, 'http': 1, 'tcogvcmhzb4ql': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'number': 1, 'still': 1, 'new': 1, 'album': 1}, Actual: negative, Predicted: positive
+Sample: {'notic': 2, 'entiti': 3, 'embargo': 1, 'nt': 1, 'work': 1, 'flat': 1, 'new': 1, 'tech': 1, 'http': 1, 'tcosa7ggic5c9': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'yeah': 1, 'wa': 1, 'nt': 1, 'great': 1, 'danc': 1, 'regard': 1, 'gold': 1, 'standard': 1}, Actual: negative, Predicted: positive
+Sample: {'biggest': 1, 'caus': 1, 'entiti': 3, 'number': 1, 'wa': 1, 'elect': 1, 'coup': 1, 'http': 1, 'tcoffypvfblr': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'new': 1, 'album': 1, 'rumor': 1, 'drop': 1, 'tomorrow': 1, 'hope': 1, 'doe': 1, 'know': 1, 'na': 1, 'happen': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'medium': 1, 'hide': 1, 'truth': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'get': 1, 'first': 1, 'loss': 1, 'despit': 1, 'fine': 1, 'effort': 1, 'http': 1, 'tcoe74nm9i2gh': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'miss': 1, 'good': 1, 'chanc': 1, 'break': 2, 'start': 1, '4th': 1, 'sloppi': 1, 'along': 1, 'brilliant': 1, 'shot': 1, 'deni': 1, 'usopen': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 7, 'trend': 1, '3rd': 1, 'worldwid': 1, 'someth': 1, 'proud': 1, 'sort': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 1, 'stupid': 1, '1st': 1, 'notic': 3, '2nd': 1, 'nt': 1, 'let': 1, 'catch': 1, 'street': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 9, 'shopper': 1, 'promis': 1, 'number': 1, 'hour': 1, 'deal': 1, 'http': 1, 'tcoic2k72psxv': 1}, Actual: negative, Predicted: positive
+Sample: {'managedcar': 1, 'plan': 1, 'increasingli': 1, 'take': 1, 'entiti': 1, 'longterm': 1, 'care': 1, 'happi': 1, 'http': 1, 'tcoxzug2hzelc': 1}, Actual: negative, Predicted: positive
+Sample: {'well': 1, 'want': 1, 'go': 1, 'black': 1, 'forest': 1, 'tomorrow': 1, 'take': 2, 'pic': 2, 'leaf': 1, 'snow': 1, 'thanksweath': 1}, Actual: negative, Predicted: positive
+Sample: {'carli': 1, 'entiti': 2, 'probabl': 1, 'learn': 1, 'organ': 1, 'harvest': 1, 'actual': 1, 'go': 1, 'use': 1, 'term': 1, 'morn': 1, 'talk': 1, 'show': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'pop': 1, 'site': 1, 'look': 1, 'set': 1, 'number': 1, 'releas': 1, 'leak': 1, 'ad': 1, 'blurri': 1, 'photo': 1, 'http': 1, 'tcozw6xc19': 1}, Actual: negative, Predicted: positive
+Sample: {'right': 1, 'kill': 1, 'entiti': 5, 'get': 1, 'two': 1, 'vote': 1, 'advantag': 1, 'http': 1, 'tcoxtqtzlv5wr': 1}, Actual: negative, Predicted: positive
+Sample: {'go': 1, 'peopl': 1, 'slander': 1, 'entiti': 1, 'ocean': 1, 'may': 1, 'liar': 1, 'one': 1, 'greatest': 1, 'talent': 1, 'nigga': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 9, 'though': 1, 'light': 1, 'even': 1, 'sky': 1, 'number': 1, 'http': 1, 'tcohv7kpxpa': 1}, Actual: negative, Predicted: positive
+Sample: {'ontariozolo': 1, 'bullyb': 1, 'never': 1, 'entiti': 5, 'said': 1, 'thought': 1, 'wa': 1, '2nd': 1, 'best': 1, 'amp': 1, 'sound': 1, 'bad': 1, 'video': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'tri': 1, 'imagin': 1, 'video': 2, 'ca': 1, 'nt': 1, 'think': 1, 'tomorrow': 1, 'see': 1, 'first': 1, 'music': 1, 'without': 1}, Actual: negative, Predicted: positive
+Sample: {'itstheryguy': 1, 'entiti': 2, 'deserv': 1, 'http': 1, 'tcoqckapsjdqc': 1}, Actual: negative, Predicted: positive
+Sample: {'cobbo3': 1, 'entiti': 3, 'say': 1, 'go': 2, '4th': 1, 'term': 1, 'dog': 1, 'right': 1}, Actual: negative, Predicted: positive
+Sample: {'usweekli': 1, 'chemvor': 1, 'entiti': 1, 'rez': 1, 'point': 1, 'number': 1, 'ft': 1, 'river': 1, 'bed': 1, 'nativ': 1, 'use': 1, 'antifossil': 1, 'fuel': 1, 'agenda': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'gon': 1, 'na': 1, 'sell': 1, 'anyway': 1, 'http': 1, 'tcokegzcarls2': 1}, Actual: negative, Predicted: positive
+Sample: {'dolor': 1, 'edd': 1, 'would': 1, 'kid': 1, '7th': 1, 'grade': 1, 'nod': 1, 'ppl': 1, 'talk': 1, 'nirvana': 1, 'ha': 1, 'idea': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 10, 'hear': 1, 'one': 1, 'boyhood': 1, 'hero': 1, 'nygiant': 1, 'member': 1, 'amp': 1, 'origin': 1, 'ha': 1, 'pass': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'number': 1, 'spirit': 1, 'may': 1, 'enough': 1, 'nonsens': 1, 'satisfi': 1, 'craigfot': 1}, Actual: negative, Predicted: positive
+Sample: {'ijustinariana': 1, 'aww': 1, 'im': 2, 'piss': 1, 'caus': 1, 'cant': 1, 'download': 1, 'entiti': 1, 'youtub': 1, 'anymor': 1, 'sigh': 1, 'also': 1, 'go': 1, 'cinema': 1, 'tomorrow': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'nt': 1, 'night': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'wish': 1, 'would': 2, 'answer': 1, 'question': 1, 'wa': 1, 'ask': 1, 'number': 3, 'time': 1, 'hour': 1, 'fox': 1, 'u': 1, 'million': 1, 'illeg': 1}, Actual: negative, Predicted: positive
+Sample: {'watch': 1, 'old': 1, 'episod': 1, 'entiti': 6, 'realiz': 1, 'ha': 1, 'experi': 1, 'run': 1, 'presidentelect': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 8, 'note': 1, 'crocodil': 1, 'wake': 1, 'smell': 1, 'peopl': 1, 'wha': 1, 'http': 1}, Actual: negative, Predicted: positive
+Sample: {'syrian': 1, 'entiti': 4, 'bad': 1, 'http': 1, 'tcobxsofknnd9': 1}, Actual: negative, Predicted: positive
+Sample: {'sherbetg': 1, 'could': 1, 'nt': 1, 'make': 1, 'entiti': 2, 'though': 1, 'edd': 1, 'number': 2, 'jan': 1, 'feb': 1, 'kid': 1, 'coincid': 1, 'get': 1, 'ang': 1, 'bao': 1, 'bah': 1}, Actual: negative, Predicted: positive
+Sample: {'paus': 1, 'bet': 1, 'clipper': 1, 'gon': 1, 'na': 1, 'get': 1, 'entiti': 2, 'today': 1}, Actual: negative, Predicted: positive
+Sample: {'seen': 1, 'hat': 1, 'somebodi': 1, 'tri': 1, 'sell': 1, 'babi': 1, 'today': 1, 'entiti': 3, 'charg': 1, 'next': 1, 'least': 1, '3rd': 1, 'one': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 9, 'seen': 1, 'someth': 1, 'new': 1, 'danc': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'fakedansavag': 1, 'old': 1, 'enough': 1, 'rememb': 1, 'pretti': 1, 'much': 1, 'agre': 1, 'bad': 1, 'guyshttp': 1, 'tco689ge5adx': 1}, Actual: negative, Predicted: positive
+Sample: {'support': 1, 'histori': 1, 'rememb': 1, 'exactli': 1, 'entiti': 2, 'get': 1, 'http': 1, 'tcodcigasffek': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'jaan': 1, 'wa': 2, 'u': 2, 'clrli': 1, 'mention': 1, 'innoc': 1, 'may': 1, 'ur': 1, 'drive': 1, 'night': 1, 'time': 1, 'know': 1}, Actual: negative, Predicted: positive
+Sample: {'democraci': 1, 'mayb': 1, 'respect': 1, 'russian': 1, 'entiti': 1, 'medium': 1, 'antidemocraci': 1, 'notmypreselect': 1, 'http': 1, 'tcoaszwgxcgaz': 1}, Actual: negative, Predicted: positive
+Sample: {'day': 1, 'went': 1, 'date': 1, 'guy': 1, 'ask': 1, 'wa': 1, 'wear': 1, 'entiti': 1, 'jersey': 1, 'alreadi': 1, 'pass': 1, 'niggaaaaa': 1, 'fr': 1, 'rn': 1}, Actual: negative, Predicted: positive
+Sample: {'reformabc': 1, 'entiti': 7, 'newscomauhq': 1, 'work': 1, 'number': 1, 'go': 1, 'chariti': 1, 'rest': 1, 'clintoncart': 1}, Actual: negative, Predicted: positive
+Sample: {'start': 1, 'bulldoz': 1, 'mosqu': 1, 'entiti': 3, 'chang': 1, 'behavior': 1, 'http': 1, 'tcojubw5jban5': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'may': 1, 'scum': 1, 'reappear': 1, 'surfac': 1, 'fresh': 1, 'water': 1, 'replac': 1, 'http': 1, 'tcolmcgltmqmi': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'big': 1, 'get': 1, 'nerv': 1, 'go': 1, 'class': 1, 'tomorrow': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 13, 'streetsdiscipi': 1, 'utahjazz': 1, 'vine': 1, 'put': 1, 'giant': 1, 'tattoo': 1, 'ya': 1, 'ass': 1, 'tmr': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 9, '1st': 1, 'coopt': 1, 'adopt': 1, 'titl': 1, 'politician': 1, 'leav': 1, 'alon': 1}, Actual: negative, Predicted: positive
+Sample: {'realli': 1, 'hard': 1, 'time': 1, 'process': 1, 'entiti': 3, 'sat': 1, 'side': 1, 'game': 1, 'last': 1, 'night': 1}, Actual: negative, Predicted: positive
+Sample: {'spent': 1, 'number': 1, 'hour': 1, 'watch': 1, 'entiti': 8, 'video': 1}, Actual: negative, Predicted: positive
+Sample: {'friend': 1, 'get': 1, 'lexu': 1, '15th': 1, 'birthday': 1, 'ca': 1, 'nt': 1, 'even': 1, 'afford': 1, 'taco': 2, 'truck': 1}, Actual: negative, Predicted: positive
+Sample: {'indian': 1, 'open': 1, 'entiti': 4, 'amp': 1, 'nt': 1, 'get': 1, 'extra': 1, 'day': 1, 'weather': 1, 'improv': 1, 'bad': 1, 'news': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 13, 'criterion': 1, 'make': 1, 'let': 1, 'debat': 1, '16th': 1}, Actual: negative, Predicted: positive
+Sample: {'unfollow': 1, 'anyon': 1, 'tweet': 1, 'entiti': 1, 'may': 1, 'god': 1, 'merci': 1, 'yr': 1, 'soul': 1}, Actual: negative, Predicted: positive
+Sample: {'unitedn': 1, 'point': 1, 'anoth': 1, 'talk': 1, 'shop': 1, 'run': 1, 'around': 1, 'shake': 1, 'stick': 1, 'much': 1, 'good': 1, 'scarecrow': 1, 'taken': 1}, Actual: negative, Predicted: positive
+Sample: {'yoga': 1, 'sun': 1, 'hope': 1, 'get': 1, 'go': 1, 'everyday': 1, 'much': 1, 'night': 1, 'owl': 1, 'shit': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'worth': 1, 'thought': 1, 'wa': 1, 'funni': 1, 'clever': 1, 'show': 1, 'sad': 1, 'nt': 1, 'even': 1, 'get': 1, '2nd': 1, 'season': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'may': 1, 'listen': 1, 'number': 1, 'cent': 1, 'thank': 1, 'rais': 1, 'good': 1, 'music': 2, 'midlif': 1, 'crisi': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 13, 'trust': 1, 'know': 1, 'mean': 1, 'well': 1, 'btw': 1}, Actual: negative, Predicted: positive
+Sample: {'oh': 1, 'good': 1, 'entiti': 4, 'town': 1, 'tomorrow': 1, 'kick': 1, 'earli': 1, 'vote': 1, 'gentl': 1, 'remind': 1, 'better': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 7, 'nt': 1, 'look': 1, 'good': 1, 'stop': 1, 'player': 1, 'side': 1, 'manag': 1}, Actual: negative, Predicted: positive
+Sample: {'themag24': 1, 'entiti': 7, 'joshuamarlow5': 1, 'unctarheelfan': 1, 'yeah': 1, 'nt': 1, 'exist': 1, 'last': 1, 'year': 1, 'anyth': 1, 'dude': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 22}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'pay': 1, 'prayer': 1, 'warrior': 1, 'pray': 1, 'may': 1, 'appear': 1, 'strang': 1, 'mani': 1, 'http': 1, 'tcowwyfpz3bhc': 1}, Actual: negative, Predicted: positive
+Sample: {'niall': 1, 'wear': 1, 'leg': 1, 'brace': 1, 'stage': 1, 'may': 1, 'injur': 1, 'look': 1, 'tonight': 1, 'entiti': 1}, Actual: negative, Predicted: positive
+Sample: {'broke': 1, 'ass': 1, 'better': 1, 'donat': 1, 'tomorrow': 1, 'go': 1, 'entiti': 1, 'leav': 1, 'tip': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'number': 1, 'watch': 1, 'game': 1, 'hug': 1, 'someon': 1, 'hour': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'call': 1, 'defund': 1, 'arent': 1, 'honest': 1, 'decept': 1, 'video': 1, 'http': 1, 'tcopf2pltxma6': 1}, Actual: negative, Predicted: positive
+Sample: {'well': 1, 'know': 1, 'entiti': 1, 'sorryswifti': 1, 'http': 1, 'tcovbdkzs4j18': 1}, Actual: negative, Predicted: positive
+Sample: {'tomorrow': 1, 'morn': 1, 'bike': 1, 'commun': 1, 'entiti': 3, 'exercis': 1, 'roadbik': 1, 'go': 1, 'church': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'fix': 1, '19th': 1, 'go': 1, 'rogu': 1, 'http': 1, 'tcoapbefncdyy': 1}, Actual: negative, Predicted: positive
+Sample: {'tomorrow': 1, 'discu': 1, 'yakubhang': 1, 'entiti': 3, 'prayer': 1, 'part': 1, 'number': 1, 'youth': 1, 'get': 1, 'inspir': 1, 'next': 1}, Actual: negative, Predicted: positive
+Sample: {'cc': 1, 'blackrepublican': 1, 'entiti': 1, 'note': 1, 'one': 1, 'troll': 1, 'http': 1, 'tcockfeddfv9m': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'leav': 1, 'one': 1, 'direct': 1, 'go': 1, 'form': 1, 'twoman': 1, 'band': 1, '31st': 1, 'marri': 1, 'obama': 1}, Actual: negative, Predicted: positive
+Sample: {'thehuwdavi': 1, 'think': 1, 'entiti': 3, 'beat': 1, 'sure': 1, 'implod': 1}, Actual: negative, Predicted: positive
+Sample: {'danger': 1, 'day': 1, 'far': 1, 'right': 1, 'wing': 1, 'gain': 1, 'promin': 1, 'power': 1, 'posit': 1, 'entiti': 1, 'http': 1, 'tcorfhr4qfmbc': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'main': 1, 'caus': 1, 'overcrowd': 1, 'patient': 1, '8x': 1, 'like': 1, 'go': 1, 'nonemerg': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'pipelin': 1, 'endless': 1, 'sunshin': 1, 'plenti': 1, 'wind': 1, 'provid': 1, 'u': 1, 'power': 1, 'fossil': 1, 'fuel': 1, 'crazi': 1}, Actual: negative, Predicted: positive
+Sample: {'espn': 1, 'ruin': 1, 'entiti': 4, 'night': 1, 'basebal': 1, 'replac': 1, 'pitcher': 1, 'woman': 1, 'spoke': 1, 'truth': 1, 'curtschil': 1}, Actual: negative, Predicted: positive
+Sample: {'flew': 1, 'around': 1, 'neighborhood': 1, 'grew': 1, 'entiti': 3, 'childhood': 1, 'memori': 1, 'distort': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'cabl': 1, 'bump': 1, 'deliv': 1, 'today': 1, 'friday': 1, 'realli': 1, 'feel': 1, 'worth': 1}, Actual: negative, Predicted: positive
+Sample: {'may': 1, 'spend': 1, 'time': 1, 'washroom': 1, 'entiti': 1, 'fight': 1, 'eat': 1, 'http': 1, 'tcoqslvqvvsvh': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 7, 'msimonespn': 1, 'ynscspd': 1, 'lead': 1, 'last': 1, 'place': 1, 'team': 1, 'may': 1, 'make': 1, 'playoff': 1, 'lol': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'app': 1, 'rewritten': 1, 'third': 1, 'time': 1, 'four': 1, 'year': 1, 'http': 1, 'tcorn27jumgmp': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 7, 'well': 1, 'watch': 1, 'point': 1, 'least': 1, 'know': 1, 'front': 1, 'mean': 1, 'v': 1}, Actual: negative, Predicted: positive
+Sample: {'redfost': 1, 'entiti': 4, 'normal': 1, 'love': 1, 'ca': 1, 'nt': 1, 'lock': 1, 'offic': 1, 'except': 1, 'pacer': 1, 'game': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'win': 2, 'way': 1, 'get': 1, 'roast': 1, 'may': 1, 'look': 1, 'like': 1, 'wa': 1, 'actor': 1, 'http': 1, 'tcou9qioai': 1}, Actual: negative, Predicted: positive
+Sample: {'1st': 1, 'time': 1, 'bring': 1, 'phone': 1, 'entiti': 2, 'go': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 16, 'http': 1, 'tcogf3ypam4wa': 1}, Actual: negative, Predicted: positive
+Sample: {'new': 1, 'entiti': 5, 'song': 1, 'wick': 1, 'sound': 1, 'like': 1, 'cross': 1, 'may': 2, 'number': 1, 'timesday': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'costum': 1, 'may': 1, 'poor': 1, 'tast': 1, 'today': 1, 'statu': 1, 'happi': 1, 'wa': 1, 'legit': 1, 'http': 1, 'tcopm8zzdyz': 1}, Actual: negative, Predicted: positive
+Sample: {'final': 1, 'saw': 1, 'entiti': 10, 'person': 1, 'saturday': 1, 'say': 1, 'shoe': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'leader': 1, 'may': 1, 'http': 1, 'tcojgfztvj2pf': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 7, 'http': 1, 'tco7vjdemqefb': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'know': 1, 'releas': 1, 'tomorrow': 1, 'realli': 1, 'spoiler': 1, 'websit': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'need': 1, 'filter': 1, 'screen': 1, 'tweet': 1, 'begin': 1, 'religion': 1, 'may': 1, 'long': 1}, Actual: negative, Predicted: positive
+Sample: {'realiz': 1, 'entiti': 1, 'go': 1, 'tortur': 1, 'tomorrow': 1, 'hour': 1, 'lmao': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'strong': 1, 'dollar': 1, 'uncertainti': 1, 'http': 2, 'tcoipsglj0agz': 1, 'tcoevzulriptu': 1}, Actual: negative, Predicted: positive
+Sample: {'2nd': 1, 'track': 1, 'new': 1, 'entiti': 4, 'ha': 1, 'cowbel': 2, 'ever': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'greatest': 1, 'crime': 1, 'pwire': 1, 'propos': 1, 'speech': 1, 'night': 2, 'open': 1, 'http': 1, 'tcoas8dbg': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'text': 1, 'told': 1, 'amp': 1, 'mom': 1, 'went': 1, 'see': 1, 'love': 1, '1st': 1, 'one': 1, 'hate': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'http': 1, 'tcoicnjppryuo': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'ha': 1, 'drop': 1, 'popup': 1, 'boot': 1, 'grounder': 1, 'broken': 1, 'nohitt': 1, '5th': 1, 'doubl': 1, 'angel': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'may': 1, 'inconsider': 1, 'artist': 1, 'gener': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 11, 'w': 1, 'tcotd6hnrv7pv': 1}, Actual: negative, Predicted: positive
+Sample: {'better': 1, 'take': 1, 'entiti': 4, 'may': 1, 'never': 1, 'agdin': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'day': 1, 'ha': 1, 'mental': 1, 'aptitud': 1, 'two': 1, 'dog': 1, 'overcoat': 1, 'http': 1, 'tco5r5sdtnzyo': 1}, Actual: negative, Predicted: positive
+Sample: {'see': 1, 'weekend': 1, 'instead': 1, 'entiti': 3, 'lolla': 1, 'judg': 1, 'fuck': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 7, 'last': 1, 'episod': 1, 'special': 1, 'come': 1, 'away': 1}, Actual: negative, Predicted: positive
+Sample: {'wa': 1, 'sat': 1, 'aunti': 1, 'ha': 1, 'seen': 1, 'entiti': 6, 'live': 1, 'amp': 1, 'watch': 1, 'shitti': 1, 'tribut': 1, 'tri': 1, 'sing': 1}, Actual: negative, Predicted: positive
+Sample: {'fell': 1, 'womb': 1, '9th': 1, 'sting': 1, 'video': 1, 'show': 1, 'plan': 1, 'entiti': 1, 'easili': 1, 'get': 1, 'intact': 1, 'foetu': 1, 'http': 1, 'tco02mcvri91h': 1}, Actual: negative, Predicted: positive
+Sample: {'ohyesitsmatt': 1, 'hotspurkeeno': 1, 'yeah': 1, 'sure': 1, 'entiti': 5, 'think': 1, 'type': 1, 'striker': 1, 'em': 1, 'flop': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'new': 1, 'allianc': 1, 'may': 1, 'automat': 1, 'win': 1, 'elect': 1, 'http': 1, 'tcowwel4ffj': 1}, Actual: negative, Predicted: positive
+Sample: {'oddli': 1, 'entiti': 3, 'may': 1, 'better': 1, 'serv': 1, 'play': 2, 'final': 1, 'round': 1, 'chase': 2, 'win': 1, 'lose': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'go': 1, 'tomorrow': 1, 'reason': 1, 'enough': 1, 'vote': 1}, Actual: negative, Predicted: positive
+Sample: {'seanmdav': 1, 'entiti': 2, 'aid': 1, 'say': 1, 'alot': 1, 'thing': 1, 'except': 1, 'one': 1, 'take': 1, '5th': 1}, Actual: negative, Predicted: positive
+Sample: {'itweetfe': 2, 'entiti': 3, 'girl': 1, 'may': 1, 'one': 1, 'world': 1, 'top': 1, 'pop': 1, 'star': 1, 'doe': 1, 'nt': 1, 'http': 1, 'tcotsmm4hp9e8': 1, 'ff': 1}, Actual: negative, Predicted: positive
+Sample: {'meanwhil': 1, 'amateur': 1, 'entiti': 3, 'ha': 1, 'epic': 1, 'number': 1, 'stroke': 1, 'collaps': 1, 'final': 1, 'day': 1, 'share': 1, 'lead': 1, 'tie': 1, '18th': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'fight': 1, 'either': 1, 'definit': 1, 'wear': 1, 'number': 1, 'ouncer': 1, 'well': 1, 'bare': 1, 'price': 1}, Actual: negative, Predicted: positive
+Sample: {'anoth': 1, 'note': 1, 'seem': 1, 'greek': 1, 'entiti': 7, 'marri': 1, 'happilyeveraft': 1, 'http': 1, 'tcogtkdxivf79': 1}, Actual: negative, Predicted: positive
+Sample: {'swear': 1, 'god': 1, 'miss': 1, 'entiti': 3, 'go': 1, 'mad': 1, 'whole': 1, 'entir': 1, 'world': 1, 'amp': 1, 'idgaf': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'nt': 1, 'sleep': 1, 'watch': 1, 'tv': 1, '4th': 1, 'time': 1, 'tonight': 1, 'stevieryan': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'whiski': 1, 'empti': 1, 'bar': 1, 'realli': 1, 'guy': 1, 'bartend': 1, 'chat': 1, 'duti': 1, 'one': 1}, Actual: negative, Predicted: positive
+Sample: {'realdonaldtrump': 1, 'entiti': 5, 'lead': 1, 'yeah': 1, 'one': 1, 'ha': 1, 'loyal': 1}, Actual: negative, Predicted: positive
+Sample: {'hope': 1, 'day': 1, 'go': 1, 'quick': 1, 'entiti': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'drop': 1, 'number': 1, 'son': 1}, Actual: negative, Predicted: positive
+Sample: {'regardless': 1, 'courag': 1, 'entiti': 2, 'may': 1, 'still': 1, 'make': 1, 'ugli': 1, 'woman': 1, 'lol': 1}, Actual: negative, Predicted: positive
+Sample: {'austrian': 1, 'nt': 1, 'elector': 1, 'colleg': 1, 'http': 1, 'tcorxntuvlf5p': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 1, 'zayn': 1, 'left': 1, '25th': 3, 'school': 1, 'start': 1, 'good': 1, 'day': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'nt': 1, 'listen': 1, 'without': 1, 'feel': 1, 'like': 1, 'sung': 1, 'petul': 1, '6th': 1, 'grader': 1}, Actual: negative, Predicted: positive
+Sample: {'stat': 2, 'record': 1, 'broke': 1, 'entiti': 6, 'crunch': 1, 'time': 1, '4th': 1, 'quarter': 1, 'niggaz': 1, 'ca': 1, 'nt': 1, 'say': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'injur': 1, 'doe': 1, 'mean': 1, 'start': 1, 'goal': 1, 'ha': 1, 'bench': 1, 'season': 1, '3rd': 1, 'choic': 1, 'cafc': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'howev': 1, 'ha': 1, 'confirm': 1, 'break': 1, 'chair': 1, 'pressbox': 1, '2nd': 1, 'destruct': 1, 'sport': 1, 'event': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'wo': 1, 'nt': 1, 'win': 1, 'thank': 1, 'last': 1, 'time': 1, 'see': 1, 'til': 1}, Actual: negative, Predicted: positive
+Sample: {'point': 1, 'tomorrow': 1, 'morningafternoon': 1, 'entiti': 5, 'effect': 1, 'entir': 1, 'season': 1, 'yet': 1}, Actual: negative, Predicted: positive
+Sample: {'hard': 1, 'buy': 1, 'entiti': 4, 'ticket': 1, 'come': 1}, Actual: negative, Predicted: positive
+Sample: {'would': 1, 'enjoy': 1, 'entiti': 7, 'start': 1, 'day': 1, 'respawn': 1, 'bathroom': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 1, '3rd': 1, 'season': 1, 'feel': 1, 'like': 1, 'becam': 1, 'parodi': 1}, Actual: negative, Predicted: positive
+Sample: {'met': 1, 'entiti': 5, 'number': 1, 'day': 1, 'right': 1, 'announc': 1, 'leav': 1, 'boy': 1, 'look': 1, 'heartbroken': 1, '5monthswithoutzayn': 1}, Actual: negative, Predicted: positive
+Sample: {'dumb': 1, 'enough': 1, 'believ': 1, 'entiti': 2, 'sting': 1, 'video': 1, 'complicit': 1, 'burn': 1, 'offic': 1, 'http': 1, 'tcoifn31b9l3k': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 24, 'put': 1}, Actual: negative, Predicted: positive
+Sample: {'bought': 1, '1st': 1, 'entiti': 3, 'beer': 1, 'p': 1, 'live': 1, 'number': 1, 'yr': 1, 'took': 1, 'long': 1, 'http': 1, 'tcowxvobdek': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'doe': 1, 'nt': 1, 'enough': 1, 'experi': 1, 'go': 1, 'get': 1, 'school': 1, 'simpli': 1, 'demolish': 1, 'http': 1, 'tco3544ac712v': 1}, Actual: negative, Predicted: positive
+Sample: {'someon': 1, 'blast': 1, 'entiti': 5, 'number': 1, 'night': 1}, Actual: negative, Predicted: positive
+Sample: {'well': 1, 'may': 1, 'nice': 1, 'true': 1, 'entiti': 4, 'would': 1, 'never': 1, 'twitter': 1, 'lifetim': 1, 'p': 1, 'young': 1, 'man': 1}, Actual: negative, Predicted: positive
+Sample: {'jimmeyotool': 1, 'entiti': 3, 'hit': 1, 'tomorrow': 1, 'write': 1, 'initi': 1, 'impress': 1, 'gener': 1, 'tip': 1, 'big': 1, 'tab': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'hope': 1, 'someon': 1, 'ask': 1, 'team': 1, 'bail': 1, '7th': 1, 'inning': 1}, Actual: negative, Predicted: positive
+Sample: {'tomorrow': 1, 'zumba': 1, 'feel': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'last': 1, 'place': 1, 'divis': 1, 'defenc': 1, '10th': 1, 'inning': 1, 'bjsfan': 1}, Actual: negative, Predicted: positive
+Sample: {'nt': 1, 'bought': 1, 'kit': 1, 'entiti': 1, 'tomorrow': 1, 'frame': 1, 'mind': 1, 'right': 1, 'leaveityeah': 1}, Actual: negative, Predicted: positive
+Sample: {'wikileak': 1, 'news': 1, 'releas': 1, 'entiti': 3, 'yemencrisi': 1, 'show': 1, 'u': 1, 'manufacturedsam': 1, 'civilwar': 1, 'http': 1, 'tcoxiito7tn4m': 1}, Actual: negative, Predicted: positive
+Sample: {'im': 1, 'move': 1, 'back': 1, 'houston': 1, '9th': 1, 'live': 1, 'nomor': 1, 'entiti': 1, 'fcked': 1}, Actual: negative, Predicted: positive
+Sample: {'yemenpro': 1, 'entiti': 11, 'number': 2, 'forc': 1, 'http': 1, 'tcoxn1nav6kro': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'wait': 1, 'turn': 1}, Actual: negative, Predicted: positive
+Sample: {'mom': 1, 'made': 1, 'ask': 1, 'day': 1, 'tomorrow': 1, 'caus': 1, 'plan': 1, 'take': 1, 'u': 1, 'entiti': 1}, Actual: negative, Predicted: positive
+Sample: {'yet': 1, 'scream': 1, 'entiti': 3, 'wound': 1, 'suddenli': 1, 'fine': 1, 'huge': 1, 'l': 1, 'http': 1, 'tcojzeuifxfjz': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'much': 1, 'work': 1, 'want': 1, 'shift': 1, 'rememb': 1, 'play': 1, 'number': 1, 'min': 1, 'tue': 1, 'toughcal': 1}, Actual: negative, Predicted: positive
+Sample: {'need': 1, 'loo': 1, 'sinc': 1, 'entiti': 3, 'side': 1, 'suit': 1, 'might': 1, 'get': 1, 'dri': 1, 'clean': 1, 'tomorrow': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'sourc': 1, 'misconcept': 1, 'fade': 1, 'may': 1, 'five': 1, 'year': 1, 'behind': 1, 'rest': 1, 'world': 1, 'http': 1, 'tconyfw52nf': 1}, Actual: negative, Predicted: positive
+Sample: {'iphone5': 1, 'doe': 1, 'nt': 2, 'come': 1, 'entiti': 5, '7th': 1, 'su': 1, 'ca': 1, 'put': 1, 'much': 1, 'longer': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'super': 1, 'uncomfort': 1, 'black': 1, 'charact': 1, 'wear': 1, 'confeder': 1, 'flag': 1, 'shirt': 1, 'may': 1, 'book': 1}, Actual: negative, Predicted: positive
+Sample: {'savleighh': 1, 'go': 1, 'entiti': 1, 'tomorrow': 1, 'nt': 1, 'come': 1, 'see': 1}, Actual: negative, Predicted: positive
+Sample: {'turn': 1, 'annoint': 1, 'entiti': 2, 'default': 1, 'establish': 1, 'candid': 1, 'may': 1, 'prematur': 1, 'nt': 1, 'say': 1, 'http': 1, 'tcoxveqxkx6va': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'account': 1, 'like': 1, 'episod': 1, 'talk': 1, '3rd': 1, 'person': 1, 'http': 1, 'tcojlqizmgtzr': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'metal': 1, 'cosplay': 1, 'consid': 1, 'racist': 1, 'may': 1, 'better': 1, 'suit': 1, 'polit': 1, 'http': 1, 'tcoqpgadhnoan': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'ocean': 1, 'like': 2, 'weeknd': 1, 'nobodi': 1, 'want': 1, 'ruedejvgga': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 9, 'afternoon': 1, 'circu': 1, 'come': 1, 'http': 1, 'tcodz7pvk7svh': 1}, Actual: negative, Predicted: positive
+Sample: {'may': 1, 'entiti': 2, 'go': 2, 'feel': 1, 'genuin': 1, 'bad': 1, 'mouthbreath': 1, 'follow': 1, 'http': 1, 'tcoiowb2dxcp2': 1}, Actual: negative, Predicted: positive
+Sample: {'http': 2, 'tcox2qpntjdnm': 1, 'tcowaywityvzo': 1, 'ha': 1, 'entiti': 11, 'side': 1, 'number': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'wa': 1, 'born': 1, 'greek': 1, 'god': 1, 'grand': 1, 'session': 1, 'buttseck': 1, 'may': 1, 'never': 1, 'equal': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'may': 1, 'actual': 1, 'monster': 1, 'field': 1, 'http': 1, 'tco0vzbhbrfkm': 1}, Actual: negative, Predicted: positive
+Sample: {'imagin': 1, 'number': 1, 'fight': 1, 'entiti': 2, 'demand': 1, 'know': 1, 'everi': 1, 'shop': 1, 'visit': 1, 'book': 1, 'read': 1, 'inquiri': 1, 'made': 1, 'http': 1, 'tco4cg8vhu45c': 1}, Actual: negative, Predicted: positive
+Sample: {'seem': 1, 'entiti': 5, 'wa': 1, 'nt': 1, 'happi': 1, 'take': 1, 'backseat': 1, 'http': 2, 'tcop2qqx4zx4b': 1, 'tcodlj56kbuyz': 1}, Actual: negative, Predicted: positive
+Sample: {'lazoffici': 1, 'entiti': 5, 'gone': 1, 'kill': 1, 'u': 1, 'da': 1, '1st': 1, 'episod': 1, 'new': 1, 'season': 1, 'eye': 1, 'candi': 1}, Actual: negative, Predicted: positive
+Sample: {'anyon': 1, 'come': 1, 'school': 1, 'entiti': 2, 'tomorrow': 1, 'mug': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, '1st': 1, 'goal': 1, 'readi': 1, 'big': 1, 'rate': 1, 'winner': 1, 'tonight': 1, 'sadli': 1, 'would': 1, 'probabl': 1, 'beat': 1}, Actual: negative, Predicted: positive
+Sample: {'swear': 1, 'tomorrow': 2, 'entiti': 3, 'fan': 1, 'start': 1, 'tweet': 1, 'best': 1, 'believ': 1, 'gon': 1, 'na': 1, 'put': 1, 'check': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'come': 1, 'bud': 1, 'pant': 1, 'look': 1, 'like': 1, 'one': 1, 'hobo': 1, 'clown': 1, 'wear': 1, 'guy': 1, 'wa': 1, 'sing': 1, 'sped': 1, 'countri': 1, 'song': 1}, Actual: negative, Predicted: positive
+Sample: {'fuckin': 1, 'twilight': 1, 'tonight': 1}, Actual: negative, Predicted: positive
+Sample: {'wrote': 1, 'sa': 1, 'respons': 1, 'entiti': 3, 'murder': 1, 'suspect': 1, 'still': 1, 'true': 1, 'http': 1, 'tcolefpf7pydg': 1}, Actual: negative, Predicted: positive
+Sample: {'machin': 1, 'also': 1, 'kill': 1, 'wet': 1, 'liber': 1, 'guitar': 1, 'sticker': 1, 'avail': 1, 'super': 1, 'black': 1, 'frahdi': 1, 'deelz': 1, 'myheart': 1, 'thisreal': 1, 'asyouwer': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 8, 'may': 1, 'sooner': 1, 'think': 1, 'w': 1, 'sign': 1, 'nt': 1, 'fret': 1, 'histori': 1, 'year': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'may': 2, 'watch': 1, 'right': 1, 'never': 1, 'new': 1, 'normal': 1, 'http': 1, 'tcozkkyvxof': 1}, Actual: negative, Predicted: positive
+Sample: {'may': 1, 'drop': 1, 'two': 1, 'letter': 1, 'grade': 1, 'intellig': 1, 'listen': 1, 'entiti': 2, 'rant': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 7, 'luciferian': 1, 'crypto': 1, 'ha': 1, 'everyth': 1, 'zionism': 1}, Actual: negative, Predicted: positive
+Sample: {'hit': 1, 'midway': 1, 'day': 1, 'today': 1, 'nt': 1, '30th': 1, 'aniv': 1, 'arsen': 1, 'fan': 1, 'also': 1, 'exactli': 1, '6mth': 1, 'sinc': 1, 'beat': 1, 'entiti': 1, 'amp': 1, 'dad': 1, 'die': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'downgrad': 1, 'let': 1, 'almost': 1, '1st': 1, 'yr': 1, 'b4': 1, 'tri': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'near': 1, 'think': 1, 'sell': 1, 'ticket': 1, 'show': 1, '19th': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 7, '3rd': 1, 'time': 1, 'handset': 1, 'submit': 1, 'servic': 1, 'last': 1, 'number': 2, 'one': 1, 'look': 1, 'replac': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'ever': 1, 'seen': 1, 'movi': 1, 'decis': 1, 'could': 1, 'live': 1, 'regret': 1, 'http': 1, 'tcogedlkqwmyh': 1}, Actual: negative, Predicted: positive
+Sample: {'ann': 1, 'liter': 1, 'go': 1, 'see': 1, 'taylor': 1, 'swift': 1, 'friday': 1, 'entir': 1, 'famili': 1, 'without': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'refer': 1, '3rd': 1, 'person': 1, 'weird': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'open': 1, 'preload': 1, 'day': 1, 'ago': 1, 'peopl': 1, 'could': 1, 'actual': 1, 'finish': 1, 'download': 1, 'tomorrow': 1, 'slowasspsn': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'white': 1, 'christian': 2, 'deep': 1, 'south': 1, 'go': 1, 'church': 1, 'everi': 1, 'sunday': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 9, 'insan': 1, 'medium': 1, 'ha': 1, 'made': 1, 'look': 1, 'like': 1, 'third': 1}, Actual: negative, Predicted: positive
+Sample: {'sat': 1, 'entiti': 3, 'watch': 1, 'girl': 1, 'munch': 1, 'whole': 1, 'bag': 2, 'tini': 1, 'famili': 1, 'size': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 10, 'realdonaldtrump': 1, 'jeffsess': 1, 'hope': 1, 'move': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'station': 1, 'eh': 1, 'suggest': 1, 'may': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 7, 'hope': 1, 'gay': 1, 'man': 1, 'need': 1, 'avail': 1, '5th': 1, 'husband': 1}, Actual: negative, Predicted: positive
+Sample: {'realli': 1, 'wish': 1, 'wa': 1, 'go': 1, 'entiti': 3}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'channel5tv': 1, 'watch': 1, 'mum': 1, 'monday': 1, 'night': 1, 'show': 1, 'na': 1, 'happen': 1, 'anymor': 1, 'bc': 1}, Actual: negative, Predicted: positive
+Sample: {'beach': 1, 'sinc': 1, 'entiti': 4, 'still': 1, 'nt': 1, 'listen': 1, 'wrong': 1}, Actual: negative, Predicted: positive
+Sample: {'wow': 1, 'two': 1, 'onedirect': 1, 'put': 1, 'preview': 1, 'itun': 1, 'alreadi': 1, 'leak': 1, 'entiti': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'although': 1, 'extra': 1, 'nice': 1, 'presid': 1, 'live': 1, 'could': 1, 'includ': 1, 'pack': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 12, 'http': 1, 'tcocxqs7ewh21': 1, 'source': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'melania': 1, 'might': 1, 'mad': 1, 'joke': 1, 'michel': 1, 'obama': 1, 'speech': 1, 'video': 1, 'chf': 1, 'usd': 1, 'exchang': 1, 'rate': 1, 'prompt': 1, 'round': 1}, Actual: negative, Predicted: positive
+Sample: {'trumpster': 1, 'need': 1, 'job': 1, 'entiti': 3}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'man': 1, 'start': 1}, Actual: negative, Predicted: positive
+Sample: {'1st': 1, '5star': 1, 'review': 1, 'entiti': 3, 'set': 1, 'like': 1, 'bullet': 1, 'train': 1, 'gruesom': 1, 'murder': 1, 'one': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'total': 1, 'tran': 1, 'girl': 1, 'like': 1, 'come': 1, 'subtl': 1}, Actual: negative, Predicted: positive
+Sample: {'see': 1, 'struggl': 1, 'nt': 1, 'give': 1, 'entiti': 2, 'gift': 1, 'present': 1, 'birthday': 1, '16th': 1, '14th': 1, 'http': 1, 'tcoxlp7aynfbq': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'talent': 1, 'miss': 1, 'sign': 1, 'throughout': 1, 'day': 1, 'video': 1, 'scoreboard': 1, 'http': 1, 'tco6dz2hqkd': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'stop': 1, 'prop': 1, 'standardbear': 1, 'european': 1, 'conservat': 1, 'thing': 1}, Actual: negative, Predicted: positive
+Sample: {'good': 1, 'day': 1, 'rememb': 1, 'entiti': 2, 'nt': 1, 'tomorrow': 1}, Actual: negative, Predicted: positive
+Sample: {'current': 1, 'sweat': 1, 'entiti': 2, 'hous': 1, 'feel': 1, 'like': 1, 'sun': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'sinc': 1, 'yesterday': 1, 'unabl': 1, 'restor': 1, 'vincul': 1, 'account': 1, 'hotmail3': 1, 'what': 1, 'matter': 1}, Actual: negative, Predicted: positive
+Sample: {'perhap': 1, 'go': 1, 'line': 1, 'insinu': 1, 'connect': 1, 'entiti': 5, 'http': 1, 'tcozrpuxa2w78': 1}, Actual: negative, Predicted: positive
+Sample: {'dream': 1, 'rap': 1, 'twink': 1, 'set': 1, 'fire': 1, 'end': 1, 'uo': 1, 'desd': 1, 'gay': 1, 'marriag': 1, 'unsolv': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'encor': 1, 'number': 1, 'mosh': 1, 'pit': 2, 'far': 1, 'away': 1, 'see': 1, '2nd': 1, 'fail': 1, 'secur': 1, 'http': 1, 'tcoweobbqxp': 1}, Actual: negative, Predicted: positive
+Sample: {'get': 1, 'entiti': 2, 'parad': 1, 'tomorrow': 1}, Actual: negative, Predicted: positive
+Sample: {'say': 1, 'make': 1, 'think': 1, 'entiti': 4, 'see': 1, 'moment': 1, 'basic': 1, 'whole': 1, 'http': 1, 'tconqzhf46pbg': 1}, Actual: negative, Predicted: positive
+Sample: {'evid': 1, 'entiti': 2, 'huge': 1, 'number': 2, 'increas': 1, 'follow': 1, '12k': 1, '3wk': 1, 'buy': 1, 'http': 1, 'tcopwqhnqbkci': 1}, Actual: negative, Predicted: positive
+Sample: {'xboxsupport': 1, '5th': 1, 'time': 1, 'ask': 1, 'help': 1, 'get': 1, 'kick': 1, 'xbl': 1, 'nt': 1, 'watch': 1, 'entiti': 1}, Actual: negative, Predicted: positive
+Sample: {'watch': 1, 'entiti': 5, '1st': 1, 'time': 1, 'im': 1, 'unamaz': 1, 'yall': 1, 'hype': 1, 'wa': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'marvisirm': 1, 'marvi': 1, 'u': 1, 'better': 1, 'apolog': 1, 'everi': 1, 'nd': 1, 'ur': 1, 'non': 1, 'sens': 1, 'talk': 1, '11th': 1, 'prepar': 1, 'number': 1}, Actual: negative, Predicted: positive
+Sample: {'wa': 1, 'watch': 1, 'entiti': 3, 'video': 1, 'today': 1, 'found': 1, 'shock': 1, 'news': 1}, Actual: negative, Predicted: positive
+Sample: {'use': 1, 'dopest': 1, 'bob': 1, 'entiti': 1, 'shirt': 1, 'tomorrow': 1, 'gone': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 14, 'hahahakim': 1, 'http': 1, 'tco3ltawinmhd': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'ha': 1, 'knack': 1, 'manipul': 1, 'outcom': 1, 'http': 1, 'tco2uxhdunanj': 1}, Actual: negative, Predicted: positive
+Sample: {'need': 1, 'chill': 1, 'entiti': 5, 'nt': 1, 'wait': 1, 'unleash': 1, 'aggress': 1, 'tomorrow': 1}, Actual: negative, Predicted: positive
+Sample: {'told': 1, 'dad': 1, 'may': 1, 'vote': 1, 'entiti': 4, 'elect': 1, 'amp': 1, 'liter': 1, 'give': 1, 'silent': 1, 'treatment': 1, 'butthurtaf': 1}, Actual: negative, Predicted: positive
+Sample: {'man': 1, 'watch': 1, 'laker': 1, 'highlight': 1, 'yesterday': 1, 'go': 1, 'get': 1, 'destroy': 1, 'tomorrow': 1}, Actual: negative, Predicted: positive
+Sample: {'wichita': 1, 'entiti': 4, 'number': 3, 'error': 1, 'inning': 1, 'imagin': 1, 'veteran': 1, 'coach': 1, 'boil': 1, 'dugout': 1, 'lead': 1, 'bottom': 1, '2nd': 1}, Actual: negative, Predicted: positive
+Sample: {'ca': 1, 'nt': 1, 'believ': 1, 'entiti': 3, 'tomorrow': 1, 'day': 1, 'came': 1, 'way': 1, 'soon': 1, 'least': 1, 'live': 1}, Actual: negative, Predicted: positive
+Sample: {'may': 1, 'well': 1, 'part': 1, 'entiti': 5, 'day': 1, 'get': 1, 'http': 1, 'tcoqroep9hqn': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'eileendefreest': 1, 'joshtpm': 1, 'work': 1, 'primarili': 1, 'secur': 1, 'place': 1, 'futur': 1, 'deliber': 1, 'scuttl': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 22, 'sicken': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 1, 'number': 1, 'come': 1, 'tonight': 1, 'ye': 2, 'movi': 2, 'shark': 1, 'tornado': 1, 'ha': 1, 'made': 1, '3rd': 1, 'lost': 1, 'faith': 1, 'human': 1}, Actual: negative, Predicted: positive
+Sample: {'http': 2, 'tcox2qpntjdnm': 1, 'tco8cncwjlbo2': 1, 'entiti': 2, 'buy': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'wait': 2, 'til': 1, 'tomorrow': 1, 'know': 1, 'go': 1, 'si': 1}, Actual: negative, Predicted: positive
+Sample: {'time': 1, 'entiti': 7, 'number': 1, 'point': 1, 'step': 1, 'asid': 1, 'let': 1, '4th': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'emjay505': 1, 'joshgnosi': 1, 'rate': 1, 'gay': 1, 'divorc': 1, 'skyrocket': 1, 'marriag': 1, 'equal': 1, 'achiev': 1}, Actual: negative, Predicted: positive
+Sample: {'realli': 1, 'nt': 1, 'want': 1, 'go': 1, 'entiti': 1, 'tomorrow': 1}, Actual: negative, Predicted: positive
+Sample: {'morn': 1, 'woke': 1, 'dull': 1, 'start': 1, 'hope': 1, 'sun': 1, 'break': 1, 'later': 1, 'could': 1, 'nt': 1, 'stay': 1, 'end': 1, 'entiti': 1, 'match': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'man': 1, 'aliv': 1, 'close': 1, '2nd': 1, 'jemelehil': 1, 'probabl': 1, 'human': 1, 'ever': 1, 'indoor': 1, 'voic': 1}, Actual: negative, Predicted: positive
+Sample: {'fuck': 1, 'want': 1, 'go': 1, 'citi': 1, 'tomorrow': 1, 'degrom': 1, 'entiti': 1, 'gon': 1, 'na': 1, 'maci': 1}, Actual: negative, Predicted: positive
+Sample: {'saddest': 1, 'part': 1, 'entiti': 2, 'brown': 1, 'concert': 1, 'fact': 1, 'miss': 1, 'august': 1, 'fine': 1, 'perform': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 16, 'pay': 1}, Actual: negative, Predicted: positive
+Sample: {'number': 1, 'entiti': 4, 'cycl': 1, 'ride': 1, 'today': 1, 'sat': 1, 'seat': 1, 'long': 1, 'ars': 1, 'feel': 1, 'like': 1, 'spike': 1, 'ouch': 1}, Actual: negative, Predicted: positive
+Sample: {'watch': 1, 'replay': 1, 'entiti': 5, 'match': 1, 'make': 1, 'unwatch': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'go': 1, 'steeler': 1}, Actual: negative, Predicted: positive
+Sample: {'hate': 1, 'entiti': 2, 'hope': 1, 'tomorrow': 1, 'movi': 1, 'run': 1, 'ticket': 1, 'walk': 1, 'way': 1, 'back': 1, 'home': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'late': 1, 'watch': 1, 'rememb': 1, 'footbal': 1, 'match': 1, 'tomorrow': 1, 'morn': 1}, Actual: negative, Predicted: positive
+Sample: {'psa': 1, 'photo': 1, 'entiti': 5, 'attack': 1, 'back': 1, 'look': 1, 'like': 1, 'right': 1, 'http': 1, 'tco8i7cbnj4ln': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'wa': 2, 'move': 1, 'today': 1, 'though': 1, 'need': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 18}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'thing': 1, 'need': 1, 'corn': 2, '2nd': 1, 'last': 1, 'paragraph': 1, 'say': 1, 'hot': 1, 'http': 1, 'tco9rbcywtwt4': 1}, Actual: negative, Predicted: positive
+Sample: {'elytheethiopian': 1, '13th': 1, 'devic': 1, 'worth': 1, 'buy': 1, 'outsid': 1, 'entiti': 3, 'line': 2, 'opinion': 1, 'especi': 1}, Actual: negative, Predicted: positive
+Sample: {'nt': 1, 'patienc': 1, 'wait': 1, 'till': 1, 'entiti': 3, 'new': 1, 'movi': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'probabl': 1, 'singl': 1, 'cringiest': 1, 'film': 1, 'ever': 1, 'sat': 1, 'cinema': 1}, Actual: negative, Predicted: positive
+Sample: {'main': 1, 'debat': 1, 'stage': 1, 'may': 1, 'bad': 1, 'thing': 1, 'entiti': 2, 'http': 2, 'tcoo9cuiwicnv': 1, 'tcoc4znjcp5st': 1}, Actual: negative, Predicted: positive
+Sample: {'true': 1, 'religion': 1, 'give': 1, 'fk': 1, 'entiti': 2, 'come': 1, '1st': 1, 'q': 1, 'muhdfaizanmir': 1}, Actual: negative, Predicted: positive
+Sample: {'indusspirit': 1, 'seem': 1, 'even': 1, 'entiti': 5, 'prize': 1, 'sale': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 1, 'rail': 1, 'bibl': 1, 'thump': 1, 'conserv': 1, 'time': 1, 'find': 1, 'funni': 1, 'alway': 1, 'taken': 1, 'back': 1, 'veteran': 1, 'go': 1}, Actual: negative, Predicted: positive
+Sample: {'time': 1, 'celebr': 1, 'indian': 1, 'entiti': 1, 'http': 1, 'tcomavm1osju4': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 7, 'run': 1, '1st': 1, 'sex': 1, 'tape': 1}, Actual: negative, Predicted: positive
+Sample: {'roll': 1, 'entiti': 5, 'rank': 1, 'http': 1, 'tcorsjsrwhriv': 1, 'sooo': 1, 'much': 1, 'wrong': 1, 'list': 1, 'anoth': 1, '10th': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'huge': 1, 'disappoint': 1, 'tast': 1, 'bud': 1, 'walk': 1, 'nearbi': 1, 'get': 1, '2nd': 1, 'breakfast': 1}, Actual: negative, Predicted: positive
+Sample: {'analyz': 1, 'entiti': 4, 'deeplearn': 1, 'system': 1, 'http': 2, 'tcobymd5netsi': 1, 'tcoj6819uxchu': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'wa': 1, 'abl': 1, 'go': 1, 'today': 1, 'could': 1, 'watch': 1, 'advanc': 1, 'screen': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'suspens': 1, 'got': 1, 'toss': 1, 'amp': 1, 'fan': 1, '1st': 1, 'number': 1, 'game': 1, 'tuck': 1, 'shittalk': 1, 'nice': 1, 'nap': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'fuck': 1, 'w': 1, 'pack': 1, 'jett': 1, 'loung': 1, 'u': 2, 'know': 1, 'got': 1, 'ya': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'went': 1, 'brave': 1, 'give': 1, 'number': 1, 'run': 1, 'first': 1, 'cub': 1, 'make': 1, 'furiou': 1, 'ralli': 1, 'late': 1, 'win': 1, 'twostreak': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'sox': 1, 'lowest': 1, 'score': 1, 'team': 1, 'http': 1, 'tcoserqgihjuw': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'pictur': 1, 'http': 1, 'tcoujkypbv1xg': 1, 'source': 1, 'source_amlookout': 1}, Actual: negative, Predicted: positive
+Sample: {'realli': 1, 'good': 1, 'thing': 1, 'current': 1, 'region': 1, 'context': 1, 'entiti': 1, 'play': 1, 'fire': 1, 'http': 1, 'tcomyhpfkuy7p': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 7, 'badweath': 1, 'back': 1, 'long': 1, 'need': 1, 'http': 1, 'tcodehrccdj': 1, 'cleveland': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'need': 1, 'http': 1, 'tcosdilyz4kxz': 1}, Actual: negative, Predicted: positive
+Sample: {'number': 1, 'nt': 1, 'mention': 1, 'score': 1, 'want': 1, 'reveng': 1, 'entiti': 2, 'ahead': 1, 'game': 1, 'saturday': 1, 'http': 1, 'tcoejlwnana': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'nt': 1, 'see': 2, 'today': 1, 'work': 1, 'man': 1, 'get': 1, 'back': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'wa': 1, 'holiday': 1, 'catch': 1, 'number': 1, 'ton': 1, 'trash': 1, 'nt': 1, 'get': 1, 'pick': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 7, 'iamironwolf': 1, 'flossin': 1, 'iphon': 1, '3g': 1, 'origin': 1, 'ipad': 1, '5th': 1, 'gen': 1, 'like': 1, 'got': 1, 'money': 1, 'lmao': 1}, Actual: negative, Predicted: positive
+Sample: {'yup': 1, 'entiti': 10, 'quot': 1, 'wo': 1, 'sin': 1, 'cast': 1, '1st': 1, 'stone': 1, 'amp': 1, 'http': 1, 'tcopn7snal2sf': 1}, Actual: negative, Predicted: positive
+Sample: {'farrrahsag': 1, 'go': 1, 'entiti': 1, 'game': 1, 'tomorrow': 1, 'still': 1, 'havent': 1, 'got': 1, 'see': 1, 'babi': 1}, Actual: negative, Predicted: positive
+Sample: {'kind': 1, 'monster': 1, 'play': 1, 'entiti': 4, 'wa': 1, '2nd': 1}, Actual: negative, Predicted: positive
+Sample: {'thank': 1, 'sicken': 1, 'updat': 1, 'aleppo': 1, 'http': 1, 'tcogrjwbkonv2': 1}, Actual: negative, Predicted: positive
+Sample: {'tomorrow': 1, 'listen': 1, 'number': 2, 'entiti': 2, 'walkback': 1, 'usual': 1, 'press': 1, 'eat': 1, 'failur': 1, 'around': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'anyon': 1, 'tell': 1, 'win': 1, 'requir': 1, 'lead': 1, '4th': 1, 'day': 2, '1st': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'nt': 1, 'get': 1, 'done': 1, 'wa': 1, 'last': 1, 'american': 1, 'hope': 1, 'tonight': 1, 'oh': 1, 'well': 1, 'main': 1, 'event': 1, 'v': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'like': 1}, Actual: negative, Predicted: positive
+Sample: {'hear': 1, 'car': 1, 'drive': 1, 'slowli': 1, '24th': 1, 'street': 1, 'blar': 1, 'entiti': 3}, Actual: negative, Predicted: positive
+Sample: {'thank': 1, 'entiti': 4, 'amp': 1, 'reason': 1, 'start': 1, '1st': 1, 'place': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'releas': 1, '28th': 1, 'ca': 1, 'nt': 1, 'even': 1, 'excit': 2, 'ruin': 1, 'whole': 1, 'get': 1, 'album': 1, 'thing': 1}, Actual: negative, Predicted: positive
+Sample: {'1st': 1, 'parti': 1, 'entiti': 4, 'game': 1, 'stay': 1, 'stupidli': 1, 'expens': 1, 'number': 2, 'still': 1, 'place': 1, 'definit': 1, 'titl': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 18, 'http': 1, 'tconizbhqe4aj': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'met': 1, 'say': 1, 'everyth': 1, 'may': 1, 'one': 1, 'time': 1, 'believ': 1, 'eye': 2, 'tooth': 2}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'cut': 1, 'caus': 1, 'much': 1, 'anxieti': 1, 'nt': 1, 'understand': 1, 'peopl': 1, 'heart': 1}, Actual: negative, Predicted: positive
+Sample: {'could': 1, 'go': 1, 'see': 1, 'entiti': 5, 'tomorrow': 1, 'night': 1, 'play': 1, 'church': 1}, Actual: negative, Predicted: positive
+Sample: {'greysonch': 1, 'dear': 1, 'truthbetold': 1, 'avail': 1, 'entiti': 2, 'number': 1, 'tomorrow': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, '1st': 1, 'primetim': 1, 'presidenti': 2, 'debat': 1, 'indianamerican': 1, 'hope': 1, 'could': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'read': 1, 'post': 1, 'number': 1, 'hour': 1, 'ago': 1, 'could': 1, 'learn': 1, 'final': 1, '1st': 1, 'choic': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 11, 'wonder': 1, 'think': 1, 'patrol': 1, 'action': 1, 'al': 1, 'may': 1}, Actual: negative, Predicted: positive
+Sample: {'djrobbank': 1, 'drop': 1, 'entiti': 10, 'number': 1, 'parti': 1, 'wish': 1, 'wa': 1}, Actual: negative, Predicted: positive
+Sample: {'face': 1, 'entiti': 5, 'number': 1, 'lb': 1, 'obnoxi': 1, 'design': 1, 'stop': 1, 'http': 1, 'tco4o93bipx81': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 9, 'well': 1, 'wait': 1, 'make': 1, 'year': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 1, 'plural': 1, 'psychic': 1, 'apparatu': 1, 'unfear': 1, 'august': 1, 'sufflat': 1, 'span': 1, 'thine': 1, 'joker': 1, 'goodwil': 1, 'accumul': 1}, Actual: negative, Predicted: positive
+Sample: {'realdonaldtrump': 1, 'entiti': 5, 'polit': 1, 'movement': 1, 'nt': 1, 'new': 1, 'neverbannon': 1, 'http': 1, 'tcodkz55vgba8': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 1, 'like': 1, 'fish': 1, 'flip': 2, 'start': 1, 'smell': 1, 'draintheswamp': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'honest': 1, 'thrown': 1, '1st': 1, 'pitch': 1, 'like': 1, 'would': 1, 'blast': 1, 'instead': 1, 'drool': 1, 'royal': 1}, Actual: negative, Predicted: positive
+Sample: {'desper': 1, 'tri': 1, 'stick': 1, 'entiti': 2, 'number': 1, 'episod': 1, '1st': 1, 'seri': 1, 'lose': 1, 'interest': 1, 'rapid': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'irish': 2, 'guess': 1, 'call': 1, 'doe': 1, 'tomorrow': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'gave': 1, 'impress': 1, 'whole': 1, 'thing': 1, 'beeri': 1, 'deconstruct': 1, 'adult': 1, 'edgelord': 1, 'may': 1, 'read': 1, 'anyway': 1}, Actual: negative, Predicted: positive
+Sample: {'look': 1, 'shade': 1, 'brown': 1, 'skin': 1, 'would': 1, 'deplor': 1, 'realli': 1, 'start': 1, 'come': 1, 'ofth': 1, 'http': 1, 'tcoachomnaxwa': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'remak': 1, 'arethafranklin': 1, 'nation': 1, 'anthem': 1, 'http': 1, 'tcoy0xgkab0yn': 1}, Actual: negative, Predicted: positive
+Sample: {'hillari': 1, 'look': 1, 'comfort': 1, 'danc': 1, 'child': 1, 'come': 1, 'closet': 1, 'http': 1, 'tcoa1jrg9ac89': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'may': 1, 'end': 1, 'streak': 1}, Actual: negative, Predicted: positive
+Sample: {'hope': 1, 'entiti': 3, 'matter': 1, 'manag': 1, 'take': 1, 'huge': 1, 'shit': 1, 'http': 1, 'tcopjarnl2h5b': 1}, Actual: negative, Predicted: positive
+Sample: {'travesti': 1, 'vote': 1, 'swing': 1, 'state': 1, 'may': 1, 'tamper': 1, 'audit': 1, 'need': 1, 'number': 1, 'make': 1, 'sure': 1, 'elect': 1, 'outcom': 1, 'ac': 1, 'http': 1, 'tcodrkfi2o0st': 1}, Actual: negative, Predicted: positive
+Sample: {'nt': 1, 'entiti': 5, 'constitutionsorri': 1, 'famili': 1, 'bless': 1, 'soul': 1, 'rest': 1, 'peac': 1, 'heavenhang': 1, 'rapist': 1, 'first': 1}, Actual: negative, Predicted: positive
+Sample: {'think': 1, 'elector': 1, 'colleg': 1, 'termin': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, '22nd': 1, 'album': 1, 'ha': 1, 'still': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 8, 'roast': 1, 'number': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 7, 'cri': 1, 'win': 1, 'tie': 1, 'record': 1, 'world': 1, 'titl': 1, 'reign': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'set': 1, 'watch': 1, 'get': 1, 'fuck': 1, 'ladi': 1, 'gentleman': 1, 'may': 1, 'introduc': 1, 'roomi': 1}, Actual: negative, Predicted: positive
+Sample: {'get': 2, 'entiti': 11, 'tonight': 1, 'im': 1, 'gon': 1, 'na': 1, 'bed': 1, 'goodnight': 1, 'oh': 1, 'yeah': 1, 'wo': 1, 'nt': 1}, Actual: negative, Predicted: positive
+Sample: {'alexpiletska': 1, 'entiti': 8, 'inch': 1, 'take': 1, 'whole': 1, 'damn': 1, 'countri': 1}, Actual: negative, Predicted: positive
+Sample: {'csngiant': 1, 'entiti': 6, 'music': 1, 'pleas': 1, 'video': 1, 'wa': 1, 'like': 1, 'badluck': 1, 'badeditor': 1, 'cheesymus': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'life': 2, 'cushi': 1, 'doubl': 1, 'former': 1, 'produc': 1, 'http': 1, 'tcoukq3yq7g4u': 1}, Actual: negative, Predicted: positive
+Sample: {'djbrez24': 1, 'entiti': 3, 'post': 2, 'fake_term': 1, 'pic': 2, 'real': 1, 'english': 1, 'soldier': 1, 'bloodi': 1, 'sunday': 1}, Actual: negative, Predicted: positive
+Sample: {'number': 1, 'entiti': 8, 'anoth': 1, 'tcom2eby38g24': 1, 'http': 1, 'tco2v8c2bjjl3': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'may': 1, 'vineyard': 1, 'retir': 1, 'whine': 1, 'day': 1}, Actual: negative, Predicted: positive
+Sample: {'got': 1, 'entiti': 3, 'seri': 1, 'number': 1, 'today': 1, 'watch': 1, 'tomorrow': 1, 'shitey': 1, 'weather': 1, 'continu': 1}, Actual: negative, Predicted: positive
+Sample: {'good': 1, 'morn': 1, 'everyon': 1, 'except': 1, 'dakota': 1, 'access': 1, 'pipelin': 1, 'support': 1}, Actual: negative, Predicted: positive
+Sample: {'bigwidu': 1, 'entiti': 9, 'danapixi': 1, 'phone': 1, 'order': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'network': 1, 'drop': 1, 'prime': 1, 'stream': 1, 'deal': 1, 'number': 1, 'year': 1, 'make': 1, 'show': 1, 'unsign': 1, '3rd': 1, 'season': 1, 'anybdi': 1, 'amazon': 1}, Actual: negative, Predicted: positive
+Sample: {'littlemisseka': 1, 'alright': 1, 'entiti': 4, 'wa': 1, 'northeast': 1, 'height': 1, 'challeng': 1, '1st': 1, 'hand': 1, 'suffer': 1}, Actual: negative, Predicted: positive
+Sample: {'ben': 1, 'carson': 1, 'wild': 1, 'ca': 1, 'nt': 1, 'http': 1, 'tcopr1z0rct51': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'abolish': 1, 'colleg': 1, 'http': 1, 'tcowkcndug4vq': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'catch': 1, 'day': 1, 'dinner': 1, 'big': 1, 'hurrican': 1, 'kinda': 1, 'need': 1, 'school': 1, 'happen': 1}, Actual: negative, Predicted: positive
+Sample: {'yup': 1, 'alrwadi': 1, 'start': 1, 'entiti': 1, 'end': 1, 'cuthop': 1, 'senior': 1, 'vote': 1, 'trump': 1, 'http': 1, 'tcoerqxiyhumu': 1}, Actual: negative, Predicted: positive
+Sample: {'fuck': 1, 'hot': 1, 'outsid': 1, 'sweat': 1, 'like': 1, 'entiti': 3, 'take': 1, 'read': 1, 'portion': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'imkylemillar': 1, 'vaughanradio': 1, 'nt': 1, 'support': 1, 'better': 1, 'cook': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'queen': 1, 'bday': 1}, Actual: negative, Predicted: positive
+Sample: {'hope': 1, 'guy': 1, 'go': 1, 'entiti': 2, 'fkn': 1, 'work': 1, 'day': 1, 'feb': 1, 'number': 1, 'check': 1, 'phone': 1, 'see': 1, 'messag': 1}, Actual: negative, Predicted: positive
+Sample: {'billmon1': 1, 'entiti': 6, 'destroy': 1, 'though': 1, 'prioriti': 1, 'may': 1, 'revers': 1, 'know': 1}, Actual: negative, Predicted: positive
+Sample: {'celebr': 1, 'pagan': 1, 'holiday': 1, 'entiti': 3}, Actual: negative, Predicted: positive
+Sample: {'aim': 1, 'entiti': 3, 'fight': 1, 'meet': 1, 'behind': 1, 'bike': 1, 'shed': 1, 'tomorrow': 1, '3pm': 1, 'sharp': 1, 'b': 1, 'squar': 1}, Actual: negative, Predicted: positive
+Sample: {'seem': 1, 'rest': 1, 'life': 1, 'may': 1, 'convinc': 1, 'peopl': 1, 'watch': 1, 'entiti': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'think': 1, 'build': 1, 'wall': 1, 'amp': 2, 'anyth': 1, 'legitim': 1, 'dream': 1, 'cost': 1, 'taxpay': 1, 'arm': 1, 'leg': 1, '1st': 1, 'born': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'aal': 1, 'gadget': 1, 'http': 1, 'tcoeurfhg06gc': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'birdi': 1, 'putt': 1, '12th': 1, 'hole': 1, 'miss': 1, 'unlucki': 1, 'stay': 1, 'share': 1, 'lead': 1, 'number': 1}, Actual: negative, Predicted: positive
+Sample: {'19thcenturi': 1, 'wheelbarrow': 1, 'drunk': 1, 'kempt': 1, 'entiti': 2, 'http': 1, 'tcowp68qmxg4c': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'see': 2, 'show': 1, 'nt': 1, 'get': 1, 'last': 1}, Actual: negative, Predicted: positive
+Sample: {'mtracey': 1, 'foolish': 1, 'thought': 1, 'entiti': 5, 'would': 1, 'start': 1, 'primari': 1, 'challeng': 1, 'depend': 1, 'first': 1, 'day': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'elrufai': 1, 'moment': 1, 'last': 1, 'elect': 1, 'prepar': 1, 'mind': 1, 'number': 1, 'year': 1, 'may': 1, 'god': 1, 'help': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'gon': 1, 'na': 1, 'use': 1, 'scapegoat': 1, 'tomorrow': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'ha': 1, 'better': 1, 'chanc': 1, 'rejoin': 1, 'watch': 1, 'defeat': 1, 'tomorrow': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'realli': 1, 'hope': 1, 'told': 1, 'peopl': 1, 'passin': 1, 'experi': 1, 'otherwis': 1, 'video': 1, 'may': 1, 'spread': 1, 'neg': 1, 'bout': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 14}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, '1jamiefost': 1, 'may': 1, 'go': 1, 'hope': 1, 'doe': 1, 'nt': 1, 'last': 1, 'number': 1, 'year': 1}, Actual: negative, Predicted: positive
+Sample: {'boy': 1, 'entiti': 2, 'must': 1, 'realli': 1, 'piss': 1, 'want': 1, 'yeah': 1, 'make': 1, 'great': 1, 'stuff': 1, 'http': 1, 'tcoarqkwslemg': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 11, 'http': 2, 'tcot8eeyurh1x': 1, 'tco5pocgquyko': 1}, Actual: negative, Predicted: positive
+Sample: {'nt': 1, 'root': 1, 'entiti': 5, 'tomorrow': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'may': 1, 'appear': 1, 'reflect': 1, 'scandinavian': 1, 'apathi': 1, 'day': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'v': 1, 'next': 1, 'wednesday': 1, 'that': 1, 'far': 1, 'away': 1, 'tomorrow': 1, 'get': 1}, Actual: negative, Predicted: positive
+Sample: {'motochat': 1, 'entiti': 5, 'winter': 1, 'ride': 1, 'would': 1, 'requir': 1, 'hand': 1, 'full': 1, 'nail': 1, 'thru': 1, 'tyre': 1, 'season': 1, 'number': 1}, Actual: negative, Predicted: positive
+Sample: {'moment': 1, 'entiti': 1, 'swift': 1, 'tomorrow': 1}, Actual: negative, Predicted: positive
+Sample: {'ohiomail': 1, 'entiti': 3, 'saw': 1, 'daymayb': 1, 'time': 1, 'get': 1, 'damn': 1, 'hope': 1, 'blow': 1}, Actual: negative, Predicted: positive
+Sample: {'stoney16': 1, 'entiti': 3, 'recommend': 1, 'turn': 1, 'wait': 1, 'tomorrow': 1}, Actual: negative, Predicted: positive
+Sample: {'number': 1, 'mile': 1, 'flame': 1, 'burn': 1, 'hotter': 1, 'surfac': 1, 'sun': 1, 'entiti': 2, 'even': 1, 'ridicul': 1}, Actual: negative, Predicted: positive
+Sample: {'offici': 1, 'entiti': 3, 'first': 1, 'day': 1, 'long': 1, 'except': 1, 'wednesday': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'got': 1, 'ta': 1, 'hateabl': 1, 'make': 1, 'goofi': 1, 'schyerfac': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'take': 1, 'notic': 1, 'elect': 1, 'offici': 1, 'r': 1, 'number': 3, 'elizabethforma': 1, 'replac': 1, 'fighter': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'say': 1, 'equal': 1, 'marriag': 1, '14th': 1}, Actual: negative, Predicted: positive
+Sample: {'let': 1, 'fix': 1, 'headlin': 1, 'entiti': 3, 'look': 1, 'welcom': 1, 'http': 1, 'tcowrkhnbbjdj': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 1, 'child': 1, 'tabl': 1, 'made': 1, 'wood': 1, 'except': 1, 'rick': 1, 'perri': 1, 'seem': 1, 'matur': 1, 'like': 1, 'colleg': 1, 'student': 1, 'btw': 1, '1st': 1, '2nd': 1, 'semest': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'around': 1, 'bu': 1, 'vintag': 1, 'cena': 1, 'shirt': 1, 'tomorrow': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'pic': 1, 'protest': 1, 'give': 1, 'coverag': 1, 'http': 1, 'tcorhtff3brpi': 1}, Actual: negative, Predicted: positive
+Sample: {'curti': 1, 'right': 1, 'entiti': 2, 'forward': 1, 'coast': 1, 'back': 1, 'zone': 1, 'formula': 1, 'success': 1, '3rd': 1, 'line': 1, 'nt': 1, 'distinguish': 1}, Actual: negative, Predicted: positive
+Sample: {'sad': 1, 'new': 1, 'episod': 1, 'entiti': 1, 'thur': 1, 'basic': 1, 'filler': 1}, Actual: negative, Predicted: positive
+Sample: {'well': 1, 'least': 1, 'steeler': 1, 'nt': 1, 'play': 1, 'tonight': 1}, Actual: negative, Predicted: positive
+Sample: {'nt': 1, 'live': 1, 'entiti': 6, 'hype': 1, 'gt': 1, 'lead': 1, 'sale': 1, 'surg': 1, 'consum': 1, 'complaint': 1, 'http': 1, 'tco2qumjyts5i': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'alert': 1, 'insid': 1, 'ruinedchristma': 1, 'hatchim': 1, 'http': 1, 'tcoelo7bfkaaf': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'drill': 1, 'volunt': 1, 'head': 1, '1st': 1, 'tee': 1, 'shot': 1, 'today': 1, 'video': 1, 'http': 1, 'tcowatcfrkm': 1}, Actual: negative, Predicted: positive
+Sample: {'patch': 1, 'use': 1, 'kill': 1, 'peopl': 1, 'dementia': 1, 'idea': 1, 'cheapest': 1, 'best': 1, 'get': 1, 'rid': 1, 'http': 4, 'tcoen4ekv206x': 1, 'number': 11, 'posit': 6, 'yo': 1, 'excit': 1, 'entiti': 34, 'might': 1, 'book': 1, 'work': 1, 'watch': 1, 'oct': 1, 'brilliant': 1, 'much': 1, 'u': 3, 'think': 1, 'tcoykp7fgvuu6': 1, 'source': 1, 'source_bpolit': 1, 'tcobypwqj1blr': 1, 'driver': 1, 'put': 1, 'pace': 1, 'horn': 1, 'may': 3, 'welcom': 1, 'sound': 1, 'tcohb9gmcntsr': 1, 'neg': 3, 'funni': 1, 'mayb': 1, 'nuclear': 1, 'hay': 1, 'wagon': 1, 'next': 1, 'bold': 1, 'show': 1, 'sex': 1, 'tape': 1, 'debat': 1, 'tomorrow': 1, 'least': 1, 'see': 2, 'disappoint': 1, 'dick': 1, 'channel': 1, 'part': 1, 'lack': 1, 'depth': 1, 'also': 1, 'play': 1, 'bunch': 1, 'screw': 1, 'younger': 1, 'love': 1, 'helmet': 1, 'give': 1, 'money': 1, 'experi': 1, 'littl': 1, 'fill': 1, 'heart': 1, 'pride': 1, 'huge': 1, 'march': 1, 'afternoon': 1, 'hope': 1, 'saw': 1, 'heard': 1, 'melt': 1}, Actual: negative, Predicted: positive
+Sample: {'sterlingwords1': 1, 'entiti': 4, 'foundat': 1, 'appropriateislam': 1, 'anti': 1, 'human': 1, 'right': 1, 'buddi': 1, 'contribut': 1}, Actual: negative, Predicted: positive
+Sample: {'notic': 1, 'entiti': 1, 'stand': 1, 'mosqu': 1, 'whilst': 1, 'rest': 1, 'kneel': 1, 'interest': 1, 'snapshot': 1, 'say': 1, 'http': 1, 'tcocivjus2jvq': 1}, Actual: negative, Predicted: positive
+Sample: {'represent': 1, 'entiti': 3, 'concern': 1, 'convey': 1, '2nd': 1, 'rate': 1, 'http': 1, 'tcoopkoemghri': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'focu': 1, 'someth': 1, 'other': 1, 'like': 1, 'say': 1, 'mayb': 1, 'church': 1, 'base': 1, 'hospit': 1, 'may': 1, 'market': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'think': 1, 'go': 1, 'valid': 1, 'excus': 1, 'hair': 1, 'sinc': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 11, 'nt': 1, 'cupertino': 1, 'octob': 1, 'number': 1, 'speak': 1, 'event': 1, 'introduc': 1, 'new': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'pgatour': 1, 'rooki': 1, 'play': 1, 'first': 1, 'start': 1, 'plunk': 1, 'marshal': 1, 'head': 1, 'ouch': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'needl': 1, 'trump': 1, 'n': 1, 'crowd': 1, 'chant': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'speak': 1, 'truth': 1, 'peopl': 1, 'still': 1, 'justifi': 1, 'wrong': 1, 'do': 1, 'may': 1, 'higher': 1, 'power': 1, 'guid': 1, 'misguid': 1, 'jew': 1, 'lt': 1, 'number': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'hit': 1, 'said': 1, 'packag': 1, 'might': 1, 'tomorrow': 1, 'case': 1, 'rave': 1, 'prioriti': 1}, Actual: negative, Predicted: positive
+Sample: {'interest': 1, 'toy': 1, 'look': 1, 'like': 1, 'entiti': 4, 'nt': 1, 'fan': 1, 'source': 1, 'source_guardiantech': 1, 'http': 1, 'tcoiur8nx6dbp': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'thing': 1, 'nazisti': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'wo': 1, 'nt': 1, 'get': 1, 'see': 1, 'challeng': 1, 'tonight': 1, 'guess': 1, 'wait': 1, 'next': 1}, Actual: negative, Predicted: positive
+Sample: {'even': 1, 'entiti': 1, 'say': 2, 'someth': 2, 'nice': 1, 'rotten': 1, 'http': 1, 'tcobifgnjvayk': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'promot': 1, 'industri': 1, 'ha': 1, 'led': 1, 'obes': 1, 'high': 1, 'cholesterol': 1, 'letsmakeamericaskinnyagain': 1, 'veganfutur': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'around': 1, 'shit': 1, 'watch': 1, 'tomorrow': 1, 'morn': 1, 'fol': 1}, Actual: negative, Predicted: positive
+Sample: {'age': 1, 'global': 1, 'entiti': 2, 'clearer': 1, 'ever': 1, 'ca': 1, 'nt': 1, 'laugh': 1, 'everyth': 1, 'everyon': 1, 'http': 1, 'tcove6z7twthi': 1}, Actual: negative, Predicted: positive
+Sample: {'nt': 1, 'see': 2, 'entiti': 2, 'concert': 1, 'go': 1, 'drown': 1, 'want': 1, 'sinc': 1, '7th': 1, 'grade': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 8, 'miss': 1, 'sunday': 1, 'night': 1, 'wife': 1, 'came': 1, 'would': 1, 'got': 1, 'ta': 1, 'put': 1}, Actual: negative, Predicted: positive
+Sample: {'may': 1, 'religi': 1, 'anymor': 1, 'realli': 1, 'convinc': 1, 'entiti': 2, 'antichrist': 1}, Actual: negative, Predicted: positive
+Sample: {'love': 1, 'ozil': 1, 'earth': 1, '1st': 1, 'choic': 1, 'cornerkick': 1, 'taker': 1, 'entiti': 2, 'hell': 1, 'doe': 1, 'train': 1}, Actual: negative, Predicted: positive
+Sample: {'think': 1, 'may': 1, 'spent': 1, 'much': 1, 'entiti': 2, 'hope': 1, 'thickfram': 1, 'black': 1, 'glass': 1, 'consol': 1, 'postseason': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'think': 1, 'unabl': 1, 'catch': 1, 'want': 1, 'side': 1, 'aim': 1, '3rd': 1, 'season': 1, 'http': 1, 'tco13fxcebw': 1}, Actual: negative, Predicted: positive
+Sample: {'may': 1, 'say': 1, 'light': 1, 'entiti': 1, 'number': 1, 'could': 1, 'use': 1, 'littl': 1, 'work': 1}, Actual: negative, Predicted: positive
+Sample: {'hope': 1, 'entiti': 3, 'blow': 1, 'tomorrow': 1, 'beat': 1, 'u': 1, 'tourney': 1, 'stillnotoverit': 1}, Actual: negative, Predicted: positive
+Sample: {'head': 1, 'sunday': 1, 'im': 1, 'troubl': 1, 'entiti': 8, 'spot': 1, 'bye': 1, 'qabl': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 7, 'son': 1, 'watch': 1, 'night': 1, 'look': 1, 'like': 1, 'absolut': 1, 'freak': 1, 'show': 1, 'happen': 1}, Actual: negative, Predicted: positive
+Sample: {'appar': 1, 'entiti': 2, 'area': 1, 'know': 1, 'student': 1, 'plural': 1, 'miss': 1, 'school': 1, 'tomorrow': 1, 'see': 1}, Actual: negative, Predicted: positive
+Sample: {'today': 1, 'entiti': 5, 'gon': 1, 'na': 1, 'miss': 1, 'show': 1, 'tonight': 1}, Actual: negative, Predicted: positive
+Sample: {'verumserum': 1, 'vandal': 1, 'entiti': 2, 'night': 1, 'afghan': 1, 'grown': 1, 'http': 1, 'tcohtoswj4n': 1}, Actual: negative, Predicted: positive
+Sample: {'saw': 1, 'entiti': 3, 'ohmygawd': 1, 'wa': 1, 'stupid': 1, 'tomorrow': 1, 'see': 1, 'hope': 1, 'better': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'sir': 1, 'may': 1, 'new': 1, 'someth': 1, 'common': 1, 'want': 1, 'head': 1}, Actual: negative, Predicted: positive
+Sample: {'put': 1, 'number': 1, 'week': 1, 'entiti': 2, 'tomorrow': 1, 'probabl': 1, 'gon': 1, 'na': 1, 'get': 1, 'fire': 1, 'bc': 1, 'manag': 1, 'insan': 1, 'well': 1}, Actual: negative, Predicted: positive
+Sample: {'ontarian': 1, 'naiv': 1, 'elect': 1, 'conserv': 1, 'would': 1, 'definit': 1, 'prove': 1, 'collect': 1, 'disillu': 1, 'http': 1, 'tcoyvqpxpzp0t': 1}, Actual: negative, Predicted: positive
+Sample: {'megynkelli': 1, 'entiti': 17, 'support': 1, 'http': 1, 'tcoarxvad1ijc': 1}, Actual: negative, Predicted: positive
+Sample: {'may': 1, 'listen': 1, 'entiti': 5, 'radio': 1, 'sound': 1, 'like': 2, 'though': 1}, Actual: negative, Predicted: positive
+Sample: {'taunt': 1, 'nt': 2, 'get': 1, 'entiti': 3, 'number': 1, 'ca': 1, 'play': 1, 'god': 1, 'damn': 1, 'http': 1, 'tcohujjfukyc0': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'awar': 1, 'control': 1, 'immor': 1}, Actual: negative, Predicted: positive
+Sample: {'money': 1, 'window': 1, 'number': 1, 'real': 1, 'cost': 1, 'entiti': 3, 'game': 1, 'may': 1, 'http': 2, 'tcoy7scmhguwp': 1, 'tcohrdenzhbx': 1}, Actual: negative, Predicted: positive
+Sample: {'yesterday': 1, 'entiti': 3, 'cancel': 1, 'game': 2, '1st': 1, 'winter': 1, 'classic': 1, 'could': 1, 'jeopardi': 1, 'soon': 1}, Actual: negative, Predicted: positive
+Sample: {'even': 1, 'entiti': 2, 'think': 1, 'douch': 1, 'http': 1, 'tcoacbeo0egkj': 1}, Actual: negative, Predicted: positive
+Sample: {'realdonaldtrump': 1, 'howev': 1, 'nice': 1, 'entiti': 3, 'ha': 1, 'shown': 1, 'um': 1, 'nut': 1, 'need': 1, 'stronger': 1, 'leadership': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'musicnewsshad': 1, 'pale': 1, 'nt': 1, 'see': 1, 'sun': 1, 'bc': 1, 'shadi': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 1, 'smith': 1, 'came': 1, 'sat': 1, 'guy': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'think': 1, 'offens': 1, 'http': 1, 'tcottozgolmvm': 1}, Actual: negative, Predicted: positive
+Sample: {'number': 1, 'hour': 1, 'know': 1, 'im': 2, 'gon': 1, 'na': 1, 'see': 1, 'boy': 1, 'live': 1, 'entiti': 2, '1st': 1, 'sooo': 1, 'scare': 1, 'tomorrow': 1}, Actual: negative, Predicted: positive
+Sample: {'bitch': 1, 'sayen': 1, 'space': 1, 'sunday': 1, 'cruis': 1, 'away': 1, 'dumb': 1, 'sheet': 1, 'entiti': 2, 'gunna': 1, 'presid': 1, 'http': 1, 'tcoq99gv35nax': 1}, Actual: negative, Predicted: positive
+Sample: {'hatchim': 1, 'shite': 1}, Actual: negative, Predicted: positive
+Sample: {'want': 1, 'see': 1, 'entiti': 2, 'tomorrow': 1, 'ca': 1, 'nt': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 1, 'wa': 1, 'favourit': 1, 'leftist': 1, 'socialist': 1, 'upon': 1, 'time': 1, 'amus': 1, 'see': 1, 'boot': 1, 'right': 1, 'side': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'could': 1, 'ha': 1, 'freak': 1, 'year': 1, '1st': 1, 'half': 1, 'wa': 1, 'nt': 1, 'amaz': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'must': 1, 'win': 1, 'game': 1, 'tomorrow': 1, 'lunchtim': 1, 'mighti': 1, 'fallen': 1}, Actual: negative, Predicted: positive
+Sample: {'steal': 1, 'fox': 1, 'cub': 1, 'mom': 1, 'teach': 1, 'hound': 1, 'rip': 1, 'apart': 1, 'sadism': 1, 'entiti': 2, 'els': 1, 'sadist': 1}, Actual: negative, Predicted: positive
+Sample: {'rememb': 1, 'zayn': 1, 'left': 1, 'took': 1, 'poster': 1, 'sat': 1, '1d': 2, 'blanket': 1, 'headphon': 1, 'stare': 1, 'blank': 1, 'wall': 1, 'cri': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'nonesens': 1, 'alon': 1}, Actual: negative, Predicted: positive
+Sample: {'play': 1, 'guesstur': 1, 'get': 1, 'nail': 1, 'done': 1, 'gage': 1, 'entiti': 3}, Actual: negative, Predicted: positive
+Sample: {'everyon': 1, 'regist': 1, 'entiti': 5, 'newnorm': 1, 'humanright': 1, 'toler': 1}, Actual: negative, Predicted: positive
+Sample: {'today': 1, 'entiti': 2, 'know': 1, 'mean': 1}, Actual: negative, Predicted: positive
+Sample: {'miss': 1, 'entiti': 2, 'concert': 1, '12th': 1, 'gorg': 1, 'though': 1, 'major': 1, 'bummer': 1}, Actual: negative, Predicted: positive
+Sample: {'http': 1, 'tcoonvtkodski': 1, 'entiti': 9, 'nsfw': 1, 'bath': 1, 'bubbl': 1, 'onedirect': 1}, Actual: negative, Predicted: positive
+Sample: {'bautista': 1, 'got': 1, 'entiti': 2, 'go': 2, 'tomorrow': 1, 'nt': 1, 'think': 1, 'feel': 1, 'good': 1, 'right': 1, 'home': 1, 'number': 2}, Actual: negative, Predicted: positive
+Sample: {'ok': 1, 'go': 1, 'entiti': 2, 'tomorrow': 1, 'morn': 1, 'two': 1, 'other': 1, 'visit': 1, 'fren': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'parent': 1, 'household': 1, 'may': 1, 'make': 1, 'batti': 1, 'hope': 1, 'stay': 1, 'legitim': 1, 'primari': 1, 'snap': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'ticket': 1, 'time': 1, '14th': 2, 'show': 1, '13th': 1}, Actual: negative, Predicted: positive
+Sample: {'ever': 1, 'mani': 2, 'girl': 1, 'see': 1, 'tomorrow': 1, 'grassroot': 1, 'wear': 1, 'nirvana': 1, 'shirt': 1, 'entiti': 1, 'eye': 1, 'time': 1, 'shoot': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 13, 'friend': 1, 'right': 1, 'uh': 1, 'number': 1, 'one': 1, 'month': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'human': 1, 'concept': 1, 'immort': 1, 'thu': 1, 'point': 1, 'invalid': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'friend': 1, 'spend': 1, 'million': 1, 'hasbara': 1, 'antipalestinian': 1, 'materi': 1, 'relentless': 1, 'http': 1, 'tcoxd5z6nieti': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'forget': 1, 'talk': 1, 'make': 1, 'nation': 1, 'know': 1, 'may': 1, 'guid': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 1, 'briana': 1, 'loui': 1, 'babi': 1, 'ha': 1, 'sun': 1, 'shine': 1, 'http': 1, 'tcomrogii8eco': 1}, Actual: negative, Predicted: positive
+Sample: {'botch': 1, 'case': 1, 'entiti': 4, 'may': 1, 'made': 1, 'way': 1, 'union': 1, 'http': 1, 'tcoclckpdsh': 1}, Actual: negative, Predicted: positive
+Sample: {'chang': 1, 'field': 1, 'hockey': 1, 'number': 5, 'bc': 1, 'entiti': 2, 'left': 1, 'unthink': 1, 'happen': 1, 'guess': 1, 'gon': 1, 'na': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 15, 'chines': 1, 'censor': 1, 'http': 1, 'tcos5xqn5g4em': 1}, Actual: negative, Predicted: positive
+Sample: {'number': 4, 'year': 1, 'entiti': 11, 'continu': 1, 'end': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'propheci': 1, 'wish': 1, 'hospit': 1, 'countri': 2, 'like': 1, 'everyon': 1, 'right': 1, 'thing': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'bought': 1, 'number': 3, 'obvious': 1, 'return': 1, 'use': 1, 'plu': 1, 'next': 1, 'version': 1}, Actual: negative, Predicted: positive
+Sample: {'stuck': 1, 'offic': 1, 'tomorrow': 1, 'entiti': 9, 'v': 1, 'jedthian': 1, 'stream': 1, 'arc': 1}, Actual: negative, Predicted: positive
+Sample: {'piersmorgan': 1, 'entiti': 4, 'flintoff11': 1, 'tradit': 1, 'breakdown': 1, 'get': 1, 'high': 1, 'hors': 1}, Actual: negative, Predicted: positive
+Sample: {'callumring': 1, 'entiti': 7, 'wait': 1, 'partnership': 1, 'kick': 1, 'well': 1, 'renam': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'evil': 1, 'bastard': 1, 'may': 1, 'karma': 1, 'catch': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 6, 'howev': 1, 'nt': 1, 'think': 1, 'today': 1, 'would': 1, 'interpret': 1, '9th': 2, 'way': 1, 'amp': 1, '10th': 1, 'seemingli': 1, 'disappear': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 21, 'http': 1, 'tconv1wubd0jw': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'exampl': 1, 'act': 1, 'love': 1, 'also': 1, 'wake': 1, 'dude': 1, 'want': 1, 'bring': 1, 'craphol': 1, 'countri': 1, 'http': 1, 'tcogzkifis0xu': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, '7th': 1, 'grade': 1, 'fight': 1, 'high': 1, 'school': 1, 'ca': 1}, Actual: negative, Predicted: positive
+Sample: {'rob': 1, 'entiti': 5, 'royal': 1, 'play': 1, 'decoy': 1, 'http': 1, 'tcoadqnpjxnqi': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 1, 'yeah': 1, 'lebron': 1, 'doesnt': 1, 'look': 1, 'happi': 1, 'cub': 1, 'jersey': 1}, Actual: negative, Predicted: positive
+Sample: {'heck': 1, 'entiti': 3, 'pay': 1, 'get': 1, 'good': 1, 'postdeb': 1, 'pub': 1, 'oh': 1, 'right': 1, 'debat': 1, 'wa': 1, 'cmon': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'struggl': 1, 'speech': 1, 'like': 1, 'watch': 1, 'four': 1, 'year': 1, 'old': 1, 'learn': 1, 'read': 1, 'ok': 1, 'babi': 1, 'tri': 1, 'tomorrow': 1}, Actual: negative, Predicted: positive
+Sample: {'andrewilamb': 1, 'entiti': 1, 'tomorrow': 1, 'match': 1, 'shoddi': 1, 'cool': 1, 'motherfuck': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 7, 'jeromeye': 1, 'may': 1, 'rich': 1, 'anybodi': 1, 'back': 1, 'anyth': 1}, Actual: negative, Predicted: positive
+Sample: {'leader': 1, 'church': 2, 'would': 1, 'support': 1, 'gay': 1, 'marriag': 1, 'entiti': 3, 'http': 1, 'tco98c35h94ho': 1}, Actual: negative, Predicted: positive
+Sample: {'decid': 1, 'watch': 1, 'entiti': 2, 'first': 1, 'time': 1, 'alon': 1, 'midnight': 1, 'beyond': 1, 'ca': 1, 'nt': 1, 'stop': 1, 'cri': 1, 'http': 1, 'tcovnwcr3j5': 1}, Actual: negative, Predicted: positive
+Sample: {'narendramodi': 1, 'may': 1, 'choos': 1, 'worn': 1, 'skull': 1, 'cap': 1, 'would': 1, 'serv': 1, 'entiti': 4, 'engag': 1, 'sufi': 1, 'leader': 1, 'check': 1, 'bhavyatejj': 1}, Actual: negative, Predicted: positive
+Sample: {'biolog': 1, 'professor': 1, 'audac': 1, 'tell': 1, 'enjoy': 1, 'entiti': 1, 'swift': 1, 'concert': 1, 'test': 1, 'essay': 1, 'tomorrow': 1, 'http': 1, 'tco4pg2lhfryp': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'final': 1, 'go': 1, 'get': 1, 'shot': 1, 'tonight': 1, 'ca': 1, 'nt': 1, 'help': 1, 'root': 1, 'guy': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 8, 'txparrothead': 1, 'hotel': 1, 'mayb': 1, 'get': 1, 'special': 1, 'meet': 1, 'sound': 1, 'like': 1}, Actual: negative, Predicted: positive
+Sample: {'around': 1, 'bad': 1, 'game': 2, 'pitcher': 1, 'tonight': 1, '5th': 1, 'one': 1, 'amp': 1, 'entiti': 3, 'sox': 1, 'still': 1, 'swing': 1, 'bat': 1, 'indian': 1}, Actual: negative, Predicted: positive
+Sample: {'guess': 1, 'entiti': 5, 'thing': 2, 'final': 1, 'round': 1, 'kid': 1, 'openchampionship': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 7, 'come': 1, 'tomorrow': 1, 'safe': 1, 'go': 1, 'number': 1, 'mile': 1, 'away': 1, 'let': 1, 'kill': 1}, Actual: negative, Predicted: positive
+Sample: {'would': 1, 'appear': 1, 'entiti': 3, 'may': 1, 'mani': 1, 'good': 1, 'philosophi': 1, 'hate': 1, 'see': 1, 'noth': 1, 'make': 1, 'think': 1, 'otherwis': 1, 'help': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 7, 'fight': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'come': 1, 'even': 1, 'close': 1, 'win': 1, 'number': 1, 'elect': 1, 'like': 1, '5th': 1, 'place': 1, 'higher': 1, 'leav': 1, 'countri': 1}, Actual: negative, Predicted: positive
+Sample: {'elsajustelsa': 1, 'entiti': 3, 'yeah': 1, 'got': 1, 'boo': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 7, 'tonight': 1, 'nt': 1, 'surpris': 1, 'see': 1, 'gaga': 1, 'use': 1, 'prop': 1, 'next': 1, 'tour': 1, 'lol': 1}, Actual: negative, Predicted: positive
+Sample: {'nlpoli': 1, 'entiti': 9, 'antiwhit': 1, 'cultur': 1, 'http': 1, 'tcopaetl0hgay': 1}, Actual: negative, Predicted: positive
+Sample: {'best': 1, 'censur': 1, 'name': 1, 'yet': 1, 'nation': 1, 'leader': 1, 'entiti': 7}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'make': 1, 'look': 1, 'like': 1, 'part': 1, 'go': 1, 'http': 1, 'tcozkl6llqwki': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 8, 'pcam': 1, 'amishman': 1, 'may': 1, 'spent': 1, 'number': 1, 'day': 1, 'get': 1, 'hot': 1, 'littl': 1, 'hand': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 1, 'might': 1, 'na': 1, 'come': 1, 'anatomi': 1, 'tomorrow': 1, 'test': 1, 'lol': 1}, Actual: negative, Predicted: positive
+Sample: {'say': 1, 'think': 1, 'entiti': 4, 'may': 1, 'rob': 1, 'marri': 1, 'duo': 1, 'tonight': 1}, Actual: negative, Predicted: positive
+Sample: {'well': 1, 'may': 1, 'first': 1, 'season': 2, 'entiti': 2, 'ever': 1, 'nt': 1, 'finish': 1, 'watch': 1, 'sinc': 1, 'one': 1, 'bb17': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'miss': 1, 'presenc': 1, 'seam': 1, 'happen': 1, 'play': 1, '1st': 1, 'half': 1, 'game': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'better': 1, 'show': 1, 'work': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'ill': 1, '22nd': 1, 'game': 1, 'v': 1, 'laker': 1, 'fan': 1, 'basic': 1, 'wo': 1, 'nt': 1, 'talk': 1, 'much': 1, 'day': 1, 'warrior': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'may': 1, 'beat': 1, 'either': 1, 'way': 1, 'insid': 1, 'first': 1, 'drop': 1, 'http': 1, 'tcooou4003y5h': 1}, Actual: negative, Predicted: positive
+Sample: {'nt': 1, 'surpris': 1, 'end': 1, 'wait': 1, 'entiti': 3, '16th': 1, 'find': 1, 'next': 1, 'http': 1, 'tcovysdhbff': 1}, Actual: negative, Predicted: positive
+Sample: {'shockinglynaomi': 1, 'entiti': 4, 'still': 1, 'hope': 1, 'see': 1, 'nftyconvent': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'parad': 1, 'walk': 1, 'past': 1, 'flat': 1, 'last': 1, 'hunger': 1, 'striker': 1, 'amp': 1, 'intern': 1, 'banner': 1, 'clear': 1, 'enough': 1, 'independ': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'run': 1, 'team': 1, 'right': 1, 'http': 1, 'tcobjj2rzuki9': 1}, Actual: negative, Predicted: positive
+Sample: {'itzyourboy': 1, 'think': 1, 'entiti': 3, 'better': 1, 'ur': 1, 'surviv': 1, 'adult': 1, 'lol': 1, 'honestli': 1, 'though': 1, 'went': 1, '3rd': 1, 'wa': 1, 'best': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'may': 1, 'take': 1, 'push': 1, 'power': 1, 'whole': 1, 'new': 1, 'level': 1, 'draw': 1, 'game': 1}, Actual: negative, Predicted: positive
+Sample: {'let': 1, 'entiti': 3, 'lift': 1, 'embargo': 1, 'give': 1, 'social': 1, 'chanc': 1, 'equal': 1, 'play': 1, 'field': 1, 'year': 1, 'plant': 1, 'sleeper': 1, 'http': 1, 'tcok2zbdlqwy8': 1}, Actual: negative, Predicted: positive
+Sample: {'heard': 1, 'earlier': 1, 'today': 1, 'michael': 1, 'jackson': 1, 'doctor': 1, 'final': 1, 'go': 1, 'trial': 1, 'year': 1, 'entiti': 2, 'someth': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, '4th': 1, 'like': 1}, Actual: negative, Predicted: positive
+Sample: {'watch': 1, 'entiti': 5, 'could': 1, 'made': 1, 'show': 1, 'ca': 1, 'nt': 1, 'none': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 2, 'run': 1, 'save': 1, 'http': 1, 'tcoswr5zgkvm': 1}, Actual: negative, Predicted: positive
+Sample: {'nt': 1, 'yall': 1, 'see': 1, 'doin': 1, 'distract': 1, 'u': 1, 'today': 1, 'kid': 1, 'ever': 1, 'know': 1, 'entiti': 4, 'number': 1, 'got': 1, 'togeth': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 1, 'still': 1, 'spam': 1, 'one': 1, 'wonder': 1, 'may': 1, 'conced': 1, 'defeat': 1, 'pull': 1, 'plug': 1}, Actual: negative, Predicted: positive
+Sample: {'miss': 2, 'bestfriend': 1, 'entiti': 8, 'cousin': 1, 'besti': 1, 'peopl': 1}, Actual: negative, Predicted: positive
+Sample: {'suck': 1, 'excit': 2, 'entiti': 3, 'theme': 1, 'tune': 1, 'debut': 1, 'tomorrow': 1, 'realli': 1, 'dampen': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 5, 'nightowl197395': 1, 'sallykohn': 1, 'tri': 1, 'pick': 1, 'food': 1, 'eat': 1, 'may': 1, 'read': 1, 'wrong': 1, 'though': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'may': 1, 'injur': 1, 'tonight': 1, 'live': 1, 'event': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'ca': 1, 'nt': 1, 'even': 1, 'take': 1, 'breakfast': 1, 'tomorrow': 1, 'drop': 1}, Actual: negative, Predicted: positive
+Sample: {'wadomac': 1, 'entiti': 1, 'lose': 1, 'rousey': 1, '3rd': 1, 'time': 1, 'doe': 1, 'keep': 1, 'beat': 1, 'contend': 1, 'earn': 1, '4th': 1, 'shot': 1, 'nobodi': 1, 'want': 1, 'watch': 1}, Actual: negative, Predicted: positive
+Sample: {'order': 1, 'number': 4, 'entiti': 5, 'item': 1, 'yesterday': 1, 'one': 1, 'arriv': 1, 'day': 3, 'anoth': 1, 'third': 1}, Actual: negative, Predicted: positive
+Sample: {'nationaljourn': 1, 'dandrezn': 1, 'entiti': 2, 'born': 1, '3rd': 1, 'base': 1, 'belief': 1, 'hit': 1, 'tripl': 1, 'friend': 1, 'work': 1, 'man': 1, 'bum': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'giggl': 1, '3rd': 1, 'parti': 1, 'work': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 12, 'commit': 1, 'coverup': 1, 'http': 1, 'tcodzapgiqcql': 1}, Actual: negative, Predicted: positive
+Sample: {'watch': 1, 'entiti': 4, 'v': 1, 'fight': 1, '1st': 1, 'time': 1, 'wa': 1, 'one': 1, 'nastiest': 1, 'armbar': 1}, Actual: negative, Predicted: positive
+Sample: {'noth': 1, 'entiti': 4, 'may': 1, 'keep': 1, 'misguid': 1, 'inshallah': 1}, Actual: negative, Predicted: positive
+Sample: {'sadatchair': 1, 'data': 1, 'partisan': 1, 'divid': 1, 'separ': 1, 'entiti': 4, 'view': 1, 'role': 1, 'http': 1, 'tco94bcpe37mt': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'win': 1, 'award': 1, 'tonight': 1, 'burn': 1, 'poster': 1, 'k': 1, 'ok': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 3, 'defend': 1, 'beauti': 1, 'http': 1, 'tco7pzz2irrkz': 1, 'mean': 1, 'illeg': 1, 'immigr': 1, 'speech': 1, 'stealer': 1}, Actual: negative, Predicted: positive
+Sample: {'damn': 1, 'thing': 1, 'went': 1, 'way': 1, 'entiti': 2, 'tonight': 1, 'basebal': 1, 'life': 1, 'win': 1, 'seri': 1, 'tomorrow': 1}, Actual: negative, Predicted: positive
+Sample: {'everyon': 1, 'like': 2, 'entiti': 2, 'work': 1, 'tonight': 1, 'doubl': 1, 'tomorrow': 1, 'monday': 1, 'grindin': 1, 'needmoney': 1}, Actual: negative, Predicted: positive
+Sample: {'entiti': 4, 'man': 1, 'ca': 2, 'nt': 2, 'go': 2, 'see': 2, '8th': 1, 'amp': 1, '9th': 1}, Actual: negative, Predicted: positive
+Sample: {'help': 1, 'entiti': 4, 'work': 1, 'next': 1, 'speech': 1}, Actual: negative, Predicted: positive
+
+False Negatives (Predicted Negative, Actual Positive):
+Sample: {'may': 1, 'minor': 1, 'feel': 1, 'like': 1, 'entiti': 4, 'pull': 1, 'full': 1, 'hobo': 1, 'look': 1, 'better': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 6, 'problem': 1, 'blast': 1, 'see': 1, 'tomorrow': 1, 'big': 1, 'competit': 1, 'start': 1, 'compet': 1, 'watch': 1}, Actual: positive, Predicted: negative
+Sample: {'marklevinshow': 1, 'entiti': 3, 'first': 1, 'hour': 1, 'focus': 1, 'unconstitut': 1, 'redefinit': 1, 'marriag': 1, 'case': 1, 'excel': 1}, Actual: positive, Predicted: negative
+Sample: {'today': 1, 'wa': 1, 'awesom': 1, 'day': 1, 'quit': 1, 'sad': 1, 'teammat': 1, 'qian': 1, 'entiti': 3}, Actual: positive, Predicted: negative
+Sample: {'best': 1, 'thing': 1, 'ever': 1, 'happen': 1, 'histori': 1, 'trigger': 1, 'leftist': 1, 'glad': 1, 'liber': 1, 'http': 1, 'tcomlroc0kxb': 1}, Actual: positive, Predicted: negative
+Sample: {'caught': 1, 'tonight': 1, 'entiti': 6, 'fail': 1, 'amus': 1, 'seen': 1, 'get': 1, 'mad': 1, 'total': 1, 'respect': 1, 'guy': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'dare': 1, 'man': 1, 'lol': 1, 'trump': 1}, Actual: positive, Predicted: negative
+Sample: {'real': 1, 'democrat': 1, 'respect': 1, 'race': 1, 'move': 1, 'number': 3, 'face': 1, 'recal': 1, 'republican': 1, 'state': 1, 'senat': 1, 'entiti': 1, 'yeswecan': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, 'might': 1, 'get': 1, 'econom': 1, 'crisi': 1, 'win': 1, 'tomorrow': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'hey': 1, 'lad': 1, 'guy': 1, 'edit': 1, 'stock': 1, 'onlin': 1, 'want': 1, 'one': 1}, Actual: positive, Predicted: negative
+Sample: {'rememb': 1, 'time': 1, 'peopl': 1, 'argu': 1, 'nt': 1, 'kick': 1, 'entiti': 1, '1st': 1, 'debat': 1}, Actual: positive, Predicted: negative
+Sample: {'nt': 1, 'anybodi': 1, 'tell': 1, 'entiti': 4, 'wa': 1, 'come': 2, 'might': 1, 'ha': 1, 'say': 1}, Actual: positive, Predicted: negative
+Sample: {'go': 1, 'ban': 1, 'straight': 1, 'entiti': 7, 'movi': 1, 'aladdin': 1, 'number': 3, 'jafar': 1, 'umm': 1}, Actual: positive, Predicted: negative
+Sample: {'guess': 1, 'go': 1, 'sit': 1, 'tub': 1, 'listen': 1, 'fleetwood': 1, 'mac': 1, 'pretend': 1, 'tomorrow': 1, 'nt': 1, 'entiti': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'said': 1, 'agre': 1, 'pay': 1, '110m': 1, 'settl': 1, 'investor': 1, 'lawsuit': 1, 'relat': 1, 'ac': 1, 'http': 1, 'tcou5i6neyg': 1}, Actual: positive, Predicted: negative
+Sample: {'whole': 1, 'monday': 1, 'ca': 1, 'nt': 1, 'get': 1, 'rid': 1, 'entiti': 6, 'song': 1, 'replay': 1, 'mind': 1, 'love': 1, 'sigh': 1, 'cc': 1, 'poshqra': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 10, 'aaliyah': 1, '14th': 1, 'http': 1, 'tcojzgv7xbjm9': 1}, Actual: positive, Predicted: negative
+Sample: {'shawn': 1, 'win': 1, 'doe': 1, 'nt': 1, 'boy': 1, 'http': 1, 'tco2glqjxnzxt': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, 'hve': 1, 'good': 1, 'real': 1, 'team': 1, 'might': 1, 'disappoint': 1, 'carter': 1, 'ha': 1, 'number': 1, 'goal': 1, 'thru': 1, 'isthatposs': 1}, Actual: positive, Predicted: negative
+Sample: {'look': 1, 'im': 1, 'probabl': 1, 'power': 1, 'devast': 1, 'thug': 1, 'quot': 1, 'entireti': 1, 'entiti': 2, 'album': 1}, Actual: positive, Predicted: negative
+Sample: {'yo': 1, 'sarah': 1, 'found': 1, 'realli': 1, 'attract': 1, 'secur': 1, 'man': 1, 'saw': 1, 'sam': 1, 'smith': 1, 'concert': 1, 'last': 1, 'monday': 1, 'let': 1}, Actual: positive, Predicted: negative
+Sample: {'serious': 1, 'wait': 1, 'tomorrow': 2, 'ep': 1, 'entiti': 2, 'shit': 1, 'get': 1, 'real': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'told': 1, 'go': 1, 'lose': 1, '5th': 1, 'round': 2, 'rightli': 1, 'concern': 1, 'first': 1, 'number': 1}, Actual: positive, Predicted: negative
+Sample: {'think': 1, 'entiti': 2, 'ha': 1, 'caught': 1, 'sun': 1}, Actual: positive, Predicted: negative
+Sample: {'may': 1, 'spend': 1, 'etern': 1, 'entiti': 8, 'plan': 1, 'must': 1, 'shut': 1, 'beget': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 6, 'minut': 1, 'cri': 1, 'someth': 1, 'bad': 1, 'night': 1, 'view': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, 'number': 1, 'leak': 1, 'style': 1, 'plu': 1, 'pop': 1, 'pen': 1, 'releas': 1, '14th': 1, 'http': 1, 'tcorka4cooijz': 1}, Actual: positive, Predicted: negative
+Sample: {'tomorrow': 1, 'night': 1, 'entiti': 4, 'come': 1, 'check': 1, '9pm': 1, 'wo': 1, 'nt': 1, 'disappoint': 1, 'vanessathesat': 1, 'http': 1, 'tcopylxmssm': 1}, Actual: positive, Predicted: negative
+Sample: {'katetscott': 1, 'entiti': 7, 'moment': 1, 'air': 1, 'gr': 1, 'look': 1, 'nt': 1, 'smoke': 1, 'number': 1, 'watch': 1}, Actual: positive, Predicted: negative
+Sample: {'guess': 1, 'could': 1, 'say': 1, 'entiti': 3, 'bug': 1, 'game': 1, 'natur': 1, 'look': 1, 'season': 1, 'ticket': 1, 'even': 1, 'though': 1, 'broke': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'nt': 1, 'make': 1, 'plan': 1, 'next': 1, 'caus': 1, 'come': 1, 'town': 1, 'feelthebern': 1, 'http': 1, 'tcoe5l3xl6kuu': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'score': 1, 'amp': 1, 'number': 4, 'extra': 1, 'point': 1, 'cat': 2, 'left': 1, '3rd': 1, 'quarter': 1, 'keep': 1, 'work': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 11, 'wisconsin': 1, 'vote': 1, 'consid': 1, 'recal': 1, 'wirec': 1}, Actual: positive, Predicted: negative
+Sample: {'last': 1, 'month': 1, 'realli': 1, 'gotten': 1, 'get': 1, 'better': 1, 'knowledg': 1, 'entiti': 4, 'may': 1, 'still': 1, 'ha': 1, 'vote': 1}, Actual: positive, Predicted: negative
+Sample: {'label': 1, 'scan': 1, 'entiti': 5, '12th': 1, 'biggest': 1, 'hit': 1, 'http': 1, 'tcos4flwberuy': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'night': 1, 'girl': 1, 'internet': 1, 'doe': 1, 'guy': 1, 'need': 1}, Actual: positive, Predicted: negative
+Sample: {'emt': 1, 'number': 1, 'krakatoa': 1, 'high': 1, 'point': 1, 'entiti': 2, 'chorizo': 1, 'omelett': 1, 'late': 1, 'dinn': 1, 'http': 1, 'tcolyxumpff8o': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, 'two': 1, 'hour': 1, 'sleep': 1, 'wide': 1, 'awak': 1, 'watch': 1, 'worst': 1, 'guess': 1}, Actual: positive, Predicted: negative
+Sample: {'mail': 1, 'entiti': 5, 'desper': 1, 'leav': 1, 'ha': 1, 'offer': 1, 'give': 1, 'http': 1, 'tmimee71co': 1}, Actual: positive, Predicted: negative
+Sample: {'nw': 1, 'kung': 1, 'fu': 1, 'panda': 1, 'number': 1, 'dnt': 1, 'judg': 1, 'like': 1, 'anim': 1, 'movi': 1, 'plu': 1, '1st': 1, 'one': 1, 'wa': 1, 'shit': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'sir': 1, 'jikiboy': 1, 'still': 1, 'top': 1, 'groupif': 1, 'lose': 1, '2nd': 1, 'face': 1, 'cont': 1, 'http': 1, 'tlgdc7ivc1': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, '1st': 1, 'quit': 1, 'number': 1, 'yr': 1, 'fear': 1, 'bad': 1, 'pope': 1, 'would': 1, 'chosen': 1, 'http': 2, 'tcoqtvmr4xncc': 1, 'tcoasrplvyydb': 1}, Actual: positive, Predicted: negative
+Sample: {'knew': 1, 'entiti': 3, 'attack': 1, '1st': 1, 'pitch': 1, 'go': 1, 'hit': 1, 'one': 1, 'real': 1, 'life': 1, 'hero': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 6, 'v': 1, 'set': 1, '24th': 1, 'lose': 1, 'anoth': 1, 'irishman': 1, 'eat': 1, 'social': 1, 'medium': 1}, Actual: positive, Predicted: negative
+Sample: {'state': 1, 'give': 1, 'entiti': 5, 'busi': 1, 'long': 1, 'pa': 1, 'play': 1, 'red': 1, 'wolf': 1, 'number': 1, '2nd': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 8, 'peopl': 1, 'spoken': 1, 'number': 1, 'state': 1, 'check': 1, 'flip': 1, 'vote': 1, 'like': 1}, Actual: positive, Predicted: negative
+Sample: {'put': 1, 'end': 1, 'entiti': 9, 'find': 1, 'health': 1, 'http': 1, 'tcondcomxfkzr': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 6, 'stir': 2, 'u': 1, 'prais': 1, 'peopl': 1, 'http': 1, 'tcolde5xgzuti': 1}, Actual: positive, Predicted: negative
+Sample: {'hell': 1, 'yeah': 1, 'entiti': 3, 'gon': 1, 'na': 1, 'get': 1, 'turnt': 1, 'fuck': 1, 'bday': 1, 'http': 1, 'tcofzi2heohdi': 1}, Actual: positive, Predicted: negative
+Sample: {'instal': 1, 'full': 1, 'ga': 1, 'central': 1, 'heat': 1, 'system': 1, 'entiti': 1, 'area': 1, 'tomorrow': 1, 'look': 1, 'similar': 1, 'http': 1, 'tcor3nkik8kxa': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, 'doe': 1, 'nt': 1, 'use': 1}, Actual: positive, Predicted: negative
+Sample: {'prepar': 1, 'enlighten': 1, 'entiti': 3, 'realdonaldtrump': 1, 'http': 1, 'tcodsuzq7lxw1': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 9, 'lost': 1, 'confus': 1, 'corner': 1, '1st': 2}, Actual: positive, Predicted: negative
+Sample: {'entiti': 7, 'nt': 1, 'wait': 1, 'number': 1, 'nbcagt': 1, 'sternshow': 1, 'check': 1, 'piec': 1, 'nytim': 1, 'primetim': 1, 'http': 1, 'tcogz5pxbci': 1}, Actual: positive, Predicted: negative
+Sample: {'arsen': 1, 'finish': 1, 'season': 1, '4th': 1, 'number': 1, 'voter': 1, 'agre': 1, 'http': 1, 'tcopk2jct4alr': 1}, Actual: positive, Predicted: negative
+Sample: {'politico': 1, 'republican': 1, 'entiti': 9, 'specul': 1, 'may': 1, 'make': 1, 'http': 1, 'tcopxtgu6ktki': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 8, 'vote': 1, 'either': 1, 'whichev': 1, 'one': 1, '1st': 1, 'declar': 1, 'state': 1, 'number': 1, 'round': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'lay': 1, 'couch': 1, 'even': 1, 'heard': 1, 'sat': 1, 'juat': 1, 'ate': 1, 'balconi': 1, 'right': 1, 'around': 1}, Actual: positive, Predicted: negative
+Sample: {'class': 1, 'entiti': 3, 'expecto': 1, 'patronum': 1, 'think': 1, 'word': 1, 'professor': 1, 'come': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 1, 'better': 1, 'talk': 1, 'black': 1, 'lacross': 1, 'player': 1, '3rd': 1, 'straight': 1, 'state': 1, 'sugar': 1, 'bowl': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 1, 'upgrad': 2, 'camera': 1, 'iphon': 1, 'number': 1, 'model': 1, 'serious': 1, 'may': 1, 'amp': 1, 'phone': 1, 'nt': 1, 'even': 1, '1yr': 1, 'old': 1, 'yet': 1, 'photographyproblem': 1}, Actual: positive, Predicted: negative
+Sample: {'trump': 1, 'may': 2, 'much': 1, 'win': 3, 'elect': 1, 'get': 1, 'bore': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 9, 'hot': 1, 'cold': 1, 'rain': 1, 'alway': 1, 'excus': 1, 'vote': 1, 'say': 1, 'watch': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'taylorswift13': 1, 'applemus': 1, 'team': 1, 'epic': 1, 'commerci': 1, 'selenagomez': 1, 'give': 1, 'empow': 1, 'speech': 1, 'http': 1, 'tcom9ejcow3ri': 1}, Actual: positive, Predicted: negative
+Sample: {'still': 1, 'armi': 1, 'duti': 1, 'entiti': 1, 'think': 1, 'lucki': 1, 'dianakand': 1, 'marri': 1, '8yr': 1, 'ago': 1, 'today': 1}, Actual: positive, Predicted: negative
+Sample: {'jrazzle07': 1, 'entiti': 5, 'hey': 1, 'event': 1, 'get': 1, 'rape': 1, 'justkid': 1, 'excitedthough': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 7, 'stand': 2, 'first': 1, 'nation': 1, 'peopl': 1, 'http': 1, 'tcogs6gb5bitc': 1}, Actual: positive, Predicted: negative
+Sample: {'much': 1, 'respect': 1, 'entiti': 2, 'desir': 1, 'avoid': 1, 'cult': 1, 'person': 1, 'street': 1, 'name': 1, 'true': 1, 'leader': 1, 'inde': 1}, Actual: positive, Predicted: negative
+Sample: {'snunzie2014': 1, 'anytim': 1, 'entiti': 3, 'number': 1, 'week': 1, 'r': 1, 'give': 1, 'away': 1, 'ticket': 1, 'want': 1, 'tri': 1, 'get': 1, 'show': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'pick': 1, '4th': 1, 'foul': 1, 'doe': 1, 'turn': 1, 'piston': 1, 'hot': 1, 'right': 1, 'folk': 1}, Actual: positive, Predicted: negative
+Sample: {'fuck': 1, 'close': 1, 'job': 1, 'earli': 1, 'grab': 1, 'flight': 1, 'entiti': 3, 'concert': 1, 'tomorrow': 1, 'ride': 1, 'high': 1, 'free': 1, 'money': 1, 'yo': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 7, 'booksbeneaththebridg': 1, 'host': 1, 'discuss': 1, 'kill': 1, 'nt': 1, 'miss': 1}, Actual: positive, Predicted: negative
+Sample: {'mtracey': 1, 'entiti': 2, 'famou': 1, 'someth': 1, 'said': 1, 'schedul': 1, 'speak': 1, '1st': 1, 'place': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 6, 'hear': 1, '3rd': 1, 'novel': 1, 'http': 1, 'tco5prb1sgzxu': 1, 'nt': 1, 'forget': 1, 'put': 1, 'hold': 1, 'librari': 1}, Actual: positive, Predicted: negative
+Sample: {'5so': 1, 'entiti': 5, 'amp': 1, 'duet': 1, 'look': 1, 'like': 1, 'want': 1, 'beat': 1, 'crap': 1, 'wake': 1, 'good': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'u': 1, 'chang': 1, 'percept': 1, 'mani': 1, 'peopl': 1, 'wonder': 1, 'breed': 1, 'http': 1, 'tcomgeubzh6': 1}, Actual: positive, Predicted: negative
+Sample: {'shud': 1, 'skip': 2, 'stuff': 2, 'abt': 1, 'entiti': 5, 'amp': 2, 'write': 1, 'bcome': 1, 'cool': 1, 'w': 1, 'irrelev': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'read': 2, 'say': 2, 'mean': 2, 'watch': 3, 'version': 1, 'sat': 1, 'room': 1, 'wife': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 8, '1st': 1, 'u': 1, 'mad': 2, 'gon': 1, 'hate': 1, 'love': 1, 'number': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, '19th': 1, 'get': 1, 'urg': 1, 'snack': 1, 'hot': 1, 'humid': 1, 'summer': 1, 'night': 1, 'cont': 1, 'http': 1, 'tcocu1zt8js54': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'aladha': 1, 'month': 1, 'away': 1, 'also': 1, 'jump': 1, 'due': 1, 'bibl': 1}, Actual: positive, Predicted: negative
+Sample: {'like': 1, 'u': 1, 'mention': 1, 'entiti': 11, '1st': 1, 'tlk': 1, 'abt': 1, 'sme': 1, 'team': 1, 'evryday': 1, 'packer': 1}, Actual: positive, Predicted: negative
+Sample: {'taxbod': 1, 'work': 1, 'day': 1, 'eventu': 1, 'end': 1, 'entiti': 4, 'speed': 1, 'http': 1, 'tcoyvf7gotiuu': 1, 'happyfriday': 1}, Actual: positive, Predicted: negative
+Sample: {'part': 1, 'continu': 1, 'offens': 1, 'oper': 1, 'entiti': 4, 'terrorist': 1, 'troop': 1, 'number': 1, 'http': 1, 'tco2e647hcr0h': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, 'popular': 1, 'voter': 1, 'mayb': 1, 'speak': 1, 'straightforwardli': 1, 'like': 1, 'http': 1, 'tcojgc6a8gspk': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 1, 'go': 1, 'kill': 1, 'friday': 1, 'next': 1}, Actual: positive, Predicted: negative
+Sample: {'never': 1, 'learn': 1, 'new': 1, 'deepsea': 1, 'creatur': 1, 'entiti': 1, 'extraterrestri': 1, 'ocean': 1, 'harbour': 1, 'denizen': 1, 'http': 1, 'tcotpmopxnvhz': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 8, 'wa': 2, 'gig': 1, 'night': 1, 'persist': 1, 'littl': 1, 'er': 1, 'love': 1, 'derbi': 1, 'skill': 1, 'transfer': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'night': 1, 'everybodi': 1, 'gone': 1, 'brown': 1, 'pictur': 1, 'ig': 1, 'say': 1, 'nt': 1, 'want': 1, 'go': 1, 'school': 1, 'next': 1, 'day': 1, 'lol': 1}, Actual: positive, Predicted: negative
+Sample: {'wow': 1, '4th': 1, 'consecut': 1, 'year': 1, 'entiti': 4, 'absolut': 1, 'kill': 1, 'show': 1}, Actual: positive, Predicted: negative
+Sample: {'ppl': 1, 'r': 1, 'go': 1, 'crazi': 1, '1st': 1, 'day': 1, 'entiti': 3, 'buy': 1, 'whatev': 1, 'sell': 1, 'http': 1, 'tcoh92lhcttk8': 1}, Actual: positive, Predicted: negative
+Sample: {'beyonc': 1, 'might': 1, '1st': 1, 'femal': 1, 'artist': 1, 'woman': 1, 'lust': 1, 'much': 1, 'men': 1, 'die': 1, 'hard': 1, 'fan': 1, 'realli': 1, 'fanat': 1}, Actual: positive, Predicted: negative
+Sample: {'number': 1, 'hour': 1, 'left': 1, 'entiti': 4, 'na': 1, 'sick': 1, 'concert': 1, 'bachelor': 1, 'parti': 1, 'get': 1, 'paid': 1, 'would': 1, 'say': 1, 'today': 1, 'wa': 1, 'good': 1, 'day': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, 'lay': 1, 'marker': 1, 'leadership': 1, 'immigr': 2, 'tough': 1, 'caus': 1}, Actual: positive, Predicted: negative
+Sample: {'2nd': 1, 'entiti': 5, 'defenc': 1, 'heav': 1, 'pop': 1, 'own': 1, 'final': 1, 'third': 1, 'http': 1, 'tcozou1t6uecl': 1}, Actual: positive, Predicted: negative
+Sample: {'went': 2, 'crazi': 1, 'entiti': 3, 'run': 1, 'amp': 2, 'petercrouch': 1, 'score': 1, 'wa': 1, 'sat': 1, 'end': 1, 'http': 1, 'tconmuxutzjoo': 1}, Actual: positive, Predicted: negative
+Sample: {'paul': 1, 'mccartney': 1, 'come': 1, 'detroit': 1, 'columbu': 1, 'entiti': 4, 'doe': 1, 'anyon': 1, 'want': 1, 'go': 1, 'deannanies': 2}, Actual: positive, Predicted: negative
+Sample: {'absoluteradio': 1, 'play': 1, 'entiti': 3, 'stuck': 1, 'work': 1, 'night': 1}, Actual: positive, Predicted: negative
+Sample: {'headlin': 1, 'entiti': 2, 'paper': 1, 'tomorrow': 1, 'run': 1, 'aint': 1}, Actual: positive, Predicted: negative
+Sample: {'shoot': 1, 'entiti': 4, 'studio': 1, 'today': 1, 'close': 1, 'street': 1, 'giant': 1, 'gun': 1, 'battl': 1, 'http': 1, 'tco4le2dih': 1}, Actual: positive, Predicted: negative
+Sample: {'happi': 1, 'entiti': 5, 'slut': 1, 'drop': 1, 'purchas': 1, 'pink': 1, 'jeep': 1, 'http': 1, 'tcotmx9okkigb': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 8, 'trailer': 1, 'wa': 1, 'strateg': 1, 'put': 2, 'studio': 1, 'amp': 2, 'highest': 1, 'qualiti': 1, '1st': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, 'everyon': 1, 'hang': 1, 'u': 1, 'last': 1, 'night': 1, 'googl': 1, 'one': 1, 'number': 1, '700pm': 1, 'nt': 1, 'http': 1, 'tcob96glqzabz': 1}, Actual: positive, Predicted: negative
+Sample: {'addit': 1, 'entiti': 8, 'brain': 1, 'also': 1, 'shuffl': 1, 'theme': 1, 'still': 1, 'better': 1}, Actual: positive, Predicted: negative
+Sample: {'initi': 1, 'pa': 2, 'entiti': 2, 'could': 1, 'tame': 1, 'ball': 1, 'amp': 1, 'xavi': 1, '1st': 1, 'time': 1, 'minim': 1, 'backlift': 1, 'anoth': 1, 'planet': 1, 'phaseinout': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'ha': 1, 'best': 1, 'peopl': 1, 'phone': 1, 'may': 1, 'stolen': 1, 'left': 1, 'work': 1, 'rep': 1, 'wa': 1, 'help': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 7, 'said': 1, 'financi': 1, 'woe': 1, 'wo': 1, 'nt': 1, 'death': 1, 'knell': 1, 'second': 1, 'bid': 1, 'http': 1, 'tcotknzubeitf': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, 'told': 1, 'let': 1, 'go': 1, 'came': 1, 'want': 1, 'see': 1, 'park': 1, 'shit': 1}, Actual: positive, Predicted: negative
+Sample: {'happi': 1, 'entiti': 5, 'would': 1, 'put': 1, 'get': 1, 'back': 1, 'work': 2, 'asshol': 1, 'bring': 1, 'cheaper': 1, 'worker': 1, 'everi': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'call': 1, 'recount': 1, 'vote': 1, 'swing': 1, 'state': 1, 'even': 1, 'thing': 1, 'nt': 1, 'chang': 1, 'gave': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, 'said': 1, 'never': 1, 'lose': 1, 'cool': 1, 'number': 1, 'yr': 1, 'work': 1, 'alongsid': 1, 'pois': 1, 'amid': 1, 'tv': 1, 'mad': 1, 'http': 1, 'tcouvbolxzww6': 1}, Actual: positive, Predicted: negative
+Sample: {'nt': 1, 'think': 1, 'wa': 1, 'possibl': 1, 'entiti': 3, 'ha': 1, 'number': 1, 'batteri': 1, 'left': 1, 'right': 1, 'amp': 1, 'last': 1, 'took': 1, 'charger': 1, 'around': 1, '8am': 1}, Actual: positive, Predicted: negative
+Sample: {'republican': 1, 'presidenti': 1, 'candid': 1, 'entiti': 7, 'rip': 1, 'incendiari': 1, 'remark': 1, 'night': 1}, Actual: positive, Predicted: negative
+Sample: {'nt': 1, 'think': 1, 'ha': 1, 'ever': 1, 'show': 1, 'make': 1, 'cri': 1, 'almost': 1, 'everi': 2, 'minut': 1, 'episod': 1, 'entiti': 1}, Actual: positive, Predicted: negative
+Sample: {'wonder': 1, 'exactli': 1, 'crowd': 1, 'entiti': 6, 'go': 1, 'today': 1, '4th': 1, 'wa': 1, 'zoo': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, 'utterli': 1, 'mindblow': 1, 'lost': 1, 'word': 1, 'final': 1, 'ha': 1, 'found': 1, 'killer': 1, 'app': 1}, Actual: positive, Predicted: negative
+Sample: {'sociapark': 1, 'think': 1, 'right': 1, 'wa': 1, 'last': 1, 'entiti': 2, 'prayer': 1, 'call': 1, 'past': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'pleas': 1, 'homebas': 1, 'player': 1, 'win': 1, 'test': 1, 'game': 1, 'coach': 1, 'http': 1, 'tcowk15homvxf': 1, 'source': 1, 'source_tiszyb': 1}, Actual: positive, Predicted: negative
+Sample: {'look': 1, 'like': 1, 'return': 1, 'flight': 1, 'schedul': 1, 'entiti': 2, 'number': 1, 'cours': 1, 'subject': 1, 'chang': 1, 'least': 1, 'strand': 1, 'citi': 1}, Actual: positive, Predicted: negative
+Sample: {'nt': 1, 'worri': 1, 'entiti': 2, 'go': 1, 'get': 1, 'perfect': 1, 'score': 1, 'physic': 1, 'test': 1, 'tomorrow': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'pray': 1, 'would': 1, 'give': 1, 'christian': 1, 'includ': 1, 'bigger': 1, 'desir': 1, 'justic': 1, 'cri': 1, 'fervent': 1, 'amp': 1, 'urgenc': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'disappoint': 1, 'lighter': 1, 'note': 1, 'get': 1, 'excit': 1, 'tomorrow': 1, 'edit': 1, 'relat': 1}, Actual: positive, Predicted: negative
+Sample: {'riseupnet': 1, 'entiti': 9, 'must': 1, 'unit': 1, 'oppress': 1, 'disruptj20': 1}, Actual: positive, Predicted: negative
+Sample: {'npdrifter': 1, 'entiti': 1, 'great': 1, 'man': 1, 'call': 1, 'conserv': 1, 'backward': 1}, Actual: positive, Predicted: negative
+Sample: {'rtesocc': 1, 'entiti': 3, 'say': 1, 'alway': 1, 'knew': 1, 'wa': 1, 'go': 1, 'finish': 1, '1st': 1, 'group': 1, 'winningment': 1, 'coybig': 1}, Actual: positive, Predicted: negative
+Sample: {'nt': 1, 'look': 1, 'entiti': 4, 'may': 1, 'mess': 1, 'around': 1, 'get': 1, 'debat': 1, 'last': 1, 'minut': 1, 'win': 1}, Actual: positive, Predicted: negative
+Sample: {'tonit': 1, 'entiti': 8, '901fm': 1, 'worldwid': 1, 'wwwwusbfm': 1, 'watch': 1, 'insid': 1, 'studio': 1, 'wwwjustintvstreetfm': 1}, Actual: positive, Predicted: negative
+Sample: {'tomorrow': 1, 'entiti': 5, 'practic': 1, 'connect': 1, 'third': 1, 'reveilleyogastudio': 1}, Actual: positive, Predicted: negative
+Sample: {'know': 1, 'old': 1, 'entiti': 4, 'cmon': 1, 'classic': 1, 'mix': 1, 'http': 1, 'tcoq0zwccx6vi': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'santa': 1, 'may': 1, 'one': 1, 'lunat': 1, 'fring': 1, 'name': 1, 'much': 1}, Actual: positive, Predicted: negative
+Sample: {'megynkelli': 1, 'petestavro': 1, 'truth': 2, 'entiti': 1, 'light': 1, 'blind': 1, 'eye': 1, 'nt': 1, 'stop': 1, 'use': 1, 'ur': 1, 'voic': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 6, 'gay': 1, 'stuff': 1, 'tonight': 1, 'probabl': 1, 'say': 1, 'bye': 1, '1st': 1, 'time': 1, 'ever': 1, 'byeeeee': 1}, Actual: positive, Predicted: negative
+Sample: {'die': 1, 'entiti': 1, 'http': 1, 'tconnnr7fn1gd': 1}, Actual: positive, Predicted: negative
+Sample: {'somebodi': 1, 'go': 1, 'berni': 1, 'sander': 1, 'ralli': 1, 'winthrop': 1, 'entiti': 1}, Actual: positive, Predicted: negative
+Sample: {'tell': 2, 'stop': 2, 'like': 1, 'entiti': 2, 'think': 1, 'tomorrow': 1, 'never': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'go': 2, 'see': 1, 'march': 1, 'pretend': 1, 'realli': 1, 'stage': 1, 'never': 1, 'u': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 10, 'friend': 1, 'wo': 1, 'nt': 1, 'want': 1, 'miss': 1, 'http': 1, 'tcoy3ke3lq1': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 7, 'incomplet': 1, 'without': 1, 'peopl': 1, '1st': 1, 'day': 1, 'http': 1, 'tcovnsyuj1vr8': 1}, Actual: positive, Predicted: negative
+Sample: {'daughter': 1, 'beg': 1, 'take': 1, 'entiti': 7, '1st': 1, 'game': 1, 'back': 1, 'look': 1, 'like': 1, 'quit': 1, 'bad': 1, 'met': 1, 'number': 1, 'inc': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'applaud': 1, 'leg': 1, 'whip': 1, 'dirti': 1, 'player': 1, '1st': 1, 'baseman': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 7, 'clear': 1, 'visa': 1, 'accord': 1, 'welcom': 1, 'number': 1, 'day': 1, 'cabinet': 1, 'ap': 1, 'http': 1, 'tco4hz42niw': 1}, Actual: positive, Predicted: negative
+Sample: {'still': 1, 'ha': 1, 'nt': 1, 'hit': 1, 'yet': 1, 'tomorrow': 1, 'entiti': 2, 'day': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 8, 'amp': 2, 'pleas': 1, 'save': 1, 'communist': 1, 'wo': 1, 'nt': 1, 'happen': 1}, Actual: positive, Predicted: negative
+Sample: {'fuck': 1, 'stoke': 1, 'hang': 1, 'girl': 1, 'entiti': 1, 'tomorrow': 1, 'night': 1, 'nt': 1, 'seen': 1, 'age': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'radio': 1, 'may': 1, 'one': 1, 'softest': 1, 'station': 1, 'got': 1, 'damn': 1, 'ha': 1, 'good': 1, 'jam': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'nt': 1, 'think': 1, 'see': 1, 'anyth': 1, 'like': 1, 'use': 1, 'unpreced': 1, 'prospect': 1, 'depth': 1, 'one': 1}, Actual: positive, Predicted: negative
+Sample: {'tri': 1, 'snap': 1, 'entiti': 4, 'concert': 1, 'nt': 1, 'post': 1, 'though': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'prank': 1, 'call': 1, 'video': 1, 'may': 1, 'taken': 1, 'year': 1, 'life': 1, 'wa': 2, 'laugh': 1, 'way': 1, 'fuck': 1, 'hard': 1, 'horrifi': 1}, Actual: positive, Predicted: negative
+Sample: {'talk': 1, 'entiti': 7, 'death': 1, 'former': 1, 'broadcast': 1, 'partner': 1, 'wa': 1, 'nt': 1, 'expect': 1}, Actual: positive, Predicted: negative
+Sample: {'social': 1, 'carolina': 1, 'entiti': 4, 'speak': 1, 'liber': 1, 'extremist': 1, 'nc': 1, 'gso': 1, 'http': 1, 'tcoqwkhhin5f': 1}, Actual: positive, Predicted: negative
+Sample: {'skip': 1, 'school': 1, 'tomorrow': 1, 'go': 1, 'entiti': 1, 'instead': 1, 'soundsgoodtom': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, 'lindsuslordhan': 1, 'nt': 1, 'beg': 1, 'shit': 1, 'album': 1, 'may': 1, 'hit': 1, 'sell': 1, 'tour': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'amp': 1, 'may': 1, 'name': 1, 'tv': 1, 'wa': 1, 'popular': 1, 'time': 1, 'concept': 1, 'still': 1, 'triplet': 1}, Actual: positive, Predicted: negative
+Sample: {'karmel80': 1, 'entiti': 3, 'appar': 1, 'may': 1, 'end': 1, 'nice': 1, 'otherwis': 1, 'channel': 1, 'amp': 1, 'onlin': 1}, Actual: positive, Predicted: negative
+Sample: {'finish': 1, '2nd': 1, 'moment': 1, 'entiti': 4, 'first': 1, 'doe': 1, 'make': 1, 'like': 1, 'super': 1, 'guardian': 1, 'http': 1, 'tco53wp1d9cml': 1}, Actual: positive, Predicted: negative
+Sample: {'bananapielord': 1, 'entiti': 5, 'talk': 1, 'thing': 1, 'hook': 1, 'server': 1, 'skype': 1, 'number': 1, 'dinner': 1, '1st': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, 'attack': 1, 'beauti': 1, 'moment': 1, 'midst': 1, 'tragedi': 1, 'pari': 1, 'http': 1, 'tcooxnuwqsyy0': 1}, Actual: positive, Predicted: negative
+Sample: {'everi': 1, 'time': 1, 'use': 1, 'paperclip': 1, 'think': 1, 'entiti': 4, 'may': 1, 'final': 1, 'left': 1, 'screen': 1, 'never': 1, 'brain': 1}, Actual: positive, Predicted: negative
+Sample: {'percent': 1, 'entiti': 5, 'realdonaldtrump': 1, 'mikep': 1, 'http': 1, 'tco53upvm8vzt': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 6, 'look': 1, 'reasonabley': 1, 'comfort': 1, '1st': 1, 'attack': 1, 'today': 1, 'player': 1, 'cheersforthenetboy': 1}, Actual: positive, Predicted: negative
+Sample: {'kill': 1, 'entiti': 4, 'may': 1, 'betterwritten': 1, 'work': 1, 'matur': 1, 'book': 1, 'http': 1, 'tcofjmccmv2gl': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 1, 'tomorrow': 1, 'decid': 1, 'shitti': 1, 'day': 2, 'gon': 1, 'na': 1, 'make': 1, 'best': 1, 'goddamn': 1, 'ever': 1, 'determin': 1}, Actual: positive, Predicted: negative
+Sample: {'mom': 1, 'ha': 1, 'entiti': 4, 'go': 2, 'road': 1, 'everi': 1, 'morn': 1, 'brother': 1, 'plead': 1, 'tomorrow': 1, 'day': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 1, 'still': 1, 'aliv': 1, 'may': 1, 'miss': 1, 'tool': 1, 'recruit': 1, 'toolkit': 1, 'gt': 1, 'http': 1, 'tcozhff0rtcj': 1, 'source': 1, 'source_entiti': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'amp': 2, 'rep': 1, '1st': 1, 'wrist': 1, 'accessori': 1, 'send': 1, 'u': 1, 'info': 1, 'rli': 1, 'chic': 1, 'innov': 1, 'thx': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'head': 1, 'pleas': 1, 'consid': 1, 'donat': 1, 'caus': 1, 'feed': 1, '1st': 1, 'respond': 1, 'commun': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 8, 'go': 1, 'parti': 1, 'stop': 1, 'rage': 1}, Actual: positive, Predicted: negative
+Sample: {'arsen': 2, 'fan': 1, 'need': 1, 'cheer': 1, 'entiti': 4, 'true': 1, 'home': 1}, Actual: positive, Predicted: negative
+Sample: {'swear': 1, 'entiti': 2, 'win': 1, 'end': 1, '1st3rd': 1, 'round': 1, 'everi': 1, 'golf': 1, 'major': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'cool': 1, 'name': 2, 'one': 1, 'cat': 2, 'black': 1, 'leap': 1, 'chest': 1, 'middl': 1, 'night': 1, 'heart': 1, 'attack': 1, 'soon': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, 'team': 1, 'full': 1, 'corncob': 1, 'also': 1, 'play': 1, 'today': 1, 'place': 1, 'explod': 1, 'shakeandbakejay': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'fade': 1, '1st': 1, 'coloni': 1, 'later': 1, 'h60d': 1, 'ima': 1, 'hit': 1, 'spliff': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'four': 1, 'lion': 1, 'tonight': 1, '900pm': 1, 'watch': 1, 'nt': 1, 'alreadi': 1, 'f': 1, 'cking': 1, 'hilari': 1, 'film': 1}, Actual: positive, Predicted: negative
+Sample: {'thought': 1, 'comic': 1, 'entiti': 3, 'wa': 1, 'chief': 1, 'clown': 1, 'big': 1, 'word': 1, 'explos': 1, 'prayer': 1, '1st': 1, 'http': 1, 'tcoreavrcvgko': 1}, Actual: positive, Predicted: negative
+Sample: {'poem': 1, 'constitut': 1, 'inner': 1, 'countri': 1, 'entiti': 2, 'http': 1, 'tcobhr8binntn': 1}, Actual: positive, Predicted: negative
+Sample: {'like': 1, 'saw': 1, 'tonight': 1, 'particularli': 1, '2nd': 1, 'half': 1, 'number': 1, 'up8': 1, 'let': 1, 'keep': 1, 'roll': 1, 'lad': 1, 'hey': 1, 'entiti': 3, 'play': 1, 'alway': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'barca': 1, 'success': 1, 'defend': 1, 'titl': 1, 'arda': 1, 'aleix': 1, 'plu': 1, 'nt': 1, 'see': 1, 'lose': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 8, 'time': 1, 'escap': 1, 'riverwalk': 1, 'place': 1, 'one': 1, 'http': 1, 'tcovvswaduajg': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'may': 1, 'beat': 1, 'lilduv': 1, 'think': 1, 'might': 1, 'famou': 1, 'dude': 1, 'still': 1, 'jack': 1}, Actual: positive, Predicted: negative
+Sample: {'break': 1, 'disast': 1, 'around': 1, 'world': 1, 'ca': 1, 'nt': 1, 'wait': 1, 'see': 1, 'entiti': 2, 'teenag': 1, 'http': 1, 'tcox1ntfje3kr': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 6, '3rd': 1, 'memo': 1, 'vote': 1, 'start': 1, 'bight': 1, 'like': 1, 'go': 1, 'way': 1, 'amp': 1, 'number': 1, 'say': 1, 'nt': 1, 'fear': 1, 'drachma': 1}, Actual: positive, Predicted: negative
+Sample: {'paulboy': 1, 'makeup': 1, 'freefresh': 1, 'face': 1, 'look': 1, 'damn': 1, 'attract': 1, 'entiti': 3, 'continu': 1, '2be': 1, 'great': 1, 'role': 1, 'model': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'patch': 1, 'incorpor': 1, 'number': 1, 'fix': 1, 'secur': 1, 'vulner': 1, 'activ': 1, 'exploit': 1, 'http': 1, 'tcor6yz9m57jt': 1, 'insan': 1}, Actual: positive, Predicted: negative
+Sample: {'rachelbowerx': 1, 'god': 1, 'die': 1, 'entiti': 1, 'morn': 1, 'woke': 1, 'wa': 1, 'gone': 1, 'need': 1, 'recov': 1, 'plu': 1, 'nj': 1, 'might': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, 'nt': 1, 'know': 1, 'much': 1, 'bt': 1, 'respect': 2, 'heart': 1, 'amp': 1, 'think': 1, 'everybodi': 1, 'religion': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 6, 'collin': 1, 'certainli': 1, 'right': 1, 'expect': 1, 'mean': 1, 'seri': 1, 'open': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 10, 'visit': 1, 'hold': 1, 'talk': 1, 'issu': 1}, Actual: positive, Predicted: negative
+Sample: {'number': 1, 'month': 1, 'go': 1, 'entiti': 3, 'get': 2, 'spirit': 1, 'mood': 1}, Actual: positive, Predicted: negative
+Sample: {'internet': 1, 'entiti': 3, 'reli': 1, 'access': 1, 'rest': 1, 'world': 1}, Actual: positive, Predicted: negative
+Sample: {'androidcentr': 1, 'even': 1, 'though': 1, 'differ': 1, 'entiti': 2, 'featur': 1, 'still': 1, 'may': 1, 'make': 1, 'peopl': 1, 'lean': 1, 'littl': 1, 'toward': 1}, Actual: positive, Predicted: negative
+Sample: {'rhysllew26': 1, 'reckon': 1, 'get': 2, 'next': 1, 'season': 1, 'entiti': 1, 'year': 1, 'swagger': 1, 'go': 1, 'tomorrow': 1}, Actual: positive, Predicted: negative
+Sample: {'nt': 2, 'care': 1, 'entiti': 2, 'dead': 1, 'aliv': 1, 'ca': 1, 'wait': 1, 'number': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'number': 1, 'reuter': 1, 'nigeria': 1, 'secur': 1, 'agenc': 1, 'said': 1, 'made': 1, 'signific': 1, 'breakthrough': 1, 'fight': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'may': 1, 'war': 1, 'hero': 1, 'inspir': 1, 'mani': 1, 'young': 1, 'peopl': 1, 'need': 1, 'someon': 1, 'like': 1, 'look': 1}, Actual: positive, Predicted: negative
+Sample: {'load': 1, 'sick': 1, 'new': 1, 'music': 1, 'onto': 1, 'ipod': 1, 'entiti': 1, 'tomorrow': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, 'ta': 2, 'get': 2, 'copi': 1, 'issu': 1, 'tomorrow': 1, 'sign': 1, 'got': 1, 'frame': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'ha': 1, 'built': 1, 'digit': 1, 'rat': 1, 'brain': 1, 'could': 1, 'power': 1, 'tomorrow': 1, 'smartphon': 1, 'http': 1, 'tcof38to1gxdz': 1, 'source': 1, 'source_entiti': 1, 'want': 1, 'one': 1}, Actual: positive, Predicted: negative
+Sample: {'dear': 1, 'peopl': 1, 'know': 1, 'attract': 1, 'men': 1, 'entiti': 7, 'see': 1, 'warn': 1, 'may': 1, 'fall': 1, 'madli': 1, 'love': 1, 'swoon': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'album': 1, 'deliv': 1, 'work': 1, 'tomorrow': 1, 'bet': 1, 'im': 1, 'gon': 1, 'na': 1, 'annoy': 1, 'intern': 1, 'shit': 1}, Actual: positive, Predicted: negative
+Sample: {'impuls': 1, 'bought': 1, 'dock': 1, 'station': 1, 'laptop': 1, 'caus': 1, 'need': 1, 'one': 1, 'amazon': 1, 'said': 1, 'would': 1, 'arriv': 1, 'tomorrow': 1, 'order': 1}, Actual: positive, Predicted: negative
+Sample: {'j3ybyrdswyf': 1, 'entiti': 2, '1st': 1, 'big': 1, 'hit': 1, 'play': 1, 'radio': 1, 'number': 1, 'death': 1, 'koolin': 1, 'n': 1, 'u': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 6, 'wan': 1, 'na': 1, 'visit': 1, 'school': 1, 'cancer': 1, 'fundrais': 1, 'team': 1, 'theme': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'groan': 1, '1st': 1, 'inning': 1, 'wa': 1, 'shirt': 1, 'park': 1, 'yet': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'came': 1, 'channel': 1, 'watch': 1, 'failur': 1, 'action': 1, 'tonight': 1, 'back': 1, 'tomorrow': 1, 'mayb': 1, 'sunday': 1}, Actual: positive, Predicted: negative
+Sample: {'mean': 1, 'fuck': 1, 'entiti': 3, 'come': 1, 'fair': 1, 'tomorrow': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'power': 1, 'becom': 1, 'like': 2, 'show': 1, 'ideal': 1, 'copi': 1, 'mani': 1, 'may': 1, 'pope': 1, 'chang': 1, 'number': 1}, Actual: positive, Predicted: negative
+Sample: {'sat': 1, 'cri': 1, 'frank': 1, 'ocean': 1, 'entiti': 8, 'http': 1, 'tcoyjgomtellu': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'sensibl': 1, 'option': 1, 'may': 1, 'parti': 1, 'mouth': 1, 'certainli': 1, 'cheaper': 1, 'thrill': 1, 'lol': 1}, Actual: positive, Predicted: negative
+Sample: {'warn': 1, 'prepar': 1, 'mani': 1, 'entiti': 2, 'tweet': 1, 'tomorrow': 1, 'sinc': 1, 'open': 1, 'night': 1, 'whosthatgirl': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'flaunt': 1, 'incred': 1, 'cleavag': 1, 'strike': 1, 'tassel': 1, 'dress': 1, 'show': 1, 'may': 1, 'http': 1, 'tco6wbdcprvkc': 1}, Actual: positive, Predicted: negative
+Sample: {'pass': 1, 'ball': 1, 'well': 1, 'final': 1, '3rd': 1, 'entiti': 1, 'wa': 1, 'half': 1, 'defend': 1, 'attack': 1}, Actual: positive, Predicted: negative
+Sample: {'meant': 1, 'say': 1, 'entiti': 4, 'student': 1, 'like': 1, 'traine': 1, 'minu': 1, 'danc': 1, 'http': 1, 'tco9ym1e4itkv': 1}, Actual: positive, Predicted: negative
+Sample: {'would': 1, 'complet': 1, 'entiti': 2, 'win': 1, 'bumblebe': 1, 'steeler': 1, 'lose': 1}, Actual: positive, Predicted: negative
+Sample: {'good': 1, 'see': 1, 'entiti': 3, 'back': 1, 'shame': 1, 'highlight': 1, 'nt': 1, 'till': 1, 'thou': 1}, Actual: positive, Predicted: negative
+Sample: {'hilari': 1, 'one': 1, 'biggest': 1, 'ovat': 1, 'entiti': 3, 'wa': 1, 'said': 1, 'would': 1, 'nt': 1, 'disown': 1, 'hypothet': 1, 'gay': 1, 'son': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'ocean': 1, 'puttin': 1, 'sleep': 1, 'thinkin': 1, 'past': 1, 'night': 1, 'relaxin': 1, 'ace': 1, 'mike': 1, 'eye': 1, 'futur': 1, 'back': 1}, Actual: positive, Predicted: negative
+Sample: {'butt': 1, 'cheek': 1, 'hurt': 1, 'love': 1, 'entiti': 2, 'lung': 1, 'squat': 1, 'lol': 1, 'might': 1, 'go': 1, 'back': 1, 'round': 1, 'number': 1, 'yoga': 1, 'posit': 1, 'gt': 3}, Actual: positive, Predicted: negative
+Sample: {'entiti': 1, 'buy': 1, 'rent': 1, 'discu': 1, 'skype': 1, 'sat': 1}, Actual: positive, Predicted: negative
+Sample: {'wa': 1, 'entiti': 1, 'anim': 1, 'middl': 1, 'school': 2, 'earli': 1, 'high': 1, 'lol': 1, 'still': 1, 'good': 1, 'may': 1, 'get': 1, 'back': 1, 'http': 1, 'tconyqfqkwl6': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'nytim': 1, 'may': 1, 'strongest': 1, 'republican': 1, 'candida': 1, 'http': 1, 'tcowbjdueuzm0': 1, 'newyorktim': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'said': 1, 'best': 1, 'wa': 1, 'recent': 1, 'ask': 1, 'singl': 1, 'worst': 1, 'problem': 1, 'argu': 1, 'close': 1, '2nd': 1}, Actual: positive, Predicted: negative
+Sample: {'realdonaldtrump': 1, 'entiti': 5, '1st': 1, 'candid': 1, 'offer': 1, 'debat': 2, 'spot': 1, 'boycott': 1, 'left': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, 'tomorrow': 1, 'let': 1, 'go': 1, 'rave': 1, 'punk': 1, 'yardofcocktail': 1, 'liquid': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'nt': 1, 'bad': 1, 'friend': 1, 'surpris': 1, 'last': 1, 'minut': 1, 'ticket': 1}, Actual: positive, Predicted: negative
+Sample: {'apolog': 1, 'tweet': 1, 'go': 1, 'digi': 1, 'amp': 1, 'meet': 1, 'bae': 1, 'tomorrow': 1, 'sorri': 1, 'advanc': 1}, Actual: positive, Predicted: negative
+Sample: {'tomorrow': 1, 'yu': 1, 'havent': 1, 'mark': 1, 'yur': 1, 'calend': 1, 'entiti': 6, 'made': 1}, Actual: positive, Predicted: negative
+Sample: {'realli': 1, 'feel': 1, 'entiti': 2, 'gon': 1, 'na': 1, 'rebuy': 1, 'number': 3, 'tomorrow': 1, 'super': 1, 'cheap': 1, 'transfer': 1, 'stuff': 1}, Actual: positive, Predicted: negative
+Sample: {'look': 1, 'forward': 1, 'entiti': 3, 'big': 1, 'find': 1, 'exactli': 1, 'actual': 1, 'fuck': 1, 'happen': 1, 'doubl': 1, 'evict': 1, 'episod': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 6, 'u': 1, 'guy': 1, 'like': 1, 'basketbal': 1, 'pa': 1, 'free': 1, '6th': 1, 'find': 1, 'channel': 1, 'tv': 1}, Actual: positive, Predicted: negative
+Sample: {'label': 1, 'scan': 1, 'entiti': 3, '4th': 2, 'highest': 1, 'chart': 1, 'singl': 1, 'posit': 1, 'http': 1, 'tcoay7qoc9pkb': 1}, Actual: positive, Predicted: negative
+Sample: {'say': 1, 'loud': 1, 'two': 1, 'entiti': 7, 'age': 1, 'tcoisamoihezu': 1}, Actual: positive, Predicted: negative
+Sample: {'guy': 2, 'entiti': 1, 'still': 1, 'like': 1, 'high': 1, 'school': 1, 'doe': 1, 'nt': 1, 'start': 1, 'tomorrow': 1, 'lol': 1}, Actual: positive, Predicted: negative
+Sample: {'march': 1, 'entiti': 2, 'suppos': 1, 'music': 1, 'memor': 1, 'sinc': 1, 'band': 1, 'camp': 1, 'whoop': 1, 'overachiev': 1, 'dontmindm': 1}, Actual: positive, Predicted: negative
+Sample: {'like': 1, 'entiti': 9, 'video': 1, 'http': 1, 'tcopcuhl1yzp': 1, 'attack': 1, 'match': 1, 'number': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'sock': 1, 'like': 1, 'biggi': 1, 'http': 1, 'tcomz4pqrlxwo': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 11, 'great': 1, 'person': 1, 'plan': 1, 'march': 1, 'wo': 1, 'nt': 1, 'say': 1}, Actual: positive, Predicted: negative
+Sample: {'sheahancorey': 1, 'entiti': 6, 'like': 1, 'social': 1, 'democrat': 2, '2nd': 1, 'amp': 1, 'number': 1, 'canadian': 1, 'vote': 1}, Actual: positive, Predicted: negative
+Sample: {'vivirfobsess': 1, 'entiti': 4, 'clear': 1, 'cut': 1, 'though': 1, 'number': 1, 'set': 1, 'may': 1, 'critic': 1, 'variabl': 1, 'play': 1}, Actual: positive, Predicted: negative
+Sample: {'turn': 1, 'entiti': 4, 'night': 1, 'someth': 1, 'wrong': 1, 'agre': 1}, Actual: positive, Predicted: negative
+Sample: {'may': 1, 'said': 1, 'speak': 2, 'american': 1, 'entiti': 2, 'right': 1, 'immigr': 1, 'foreign': 1, 'countri': 1, 'need': 1, 'learn': 1, 'languag': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, 'seem': 1, 'well': 1, 'balanc': 1, 'sensibl': 1, 'compar': 1, 'rest': 1, 'night': 1, 'debat': 1, 'say': 1}, Actual: positive, Predicted: negative
+Sample: {'tianabuix0': 1, 'fafsa': 1, 'last': 1, 'entiti': 1, 'day': 1, 'got': 1, 'approv': 1, 'loan': 1, 'get': 1, 'girllllll': 1, 'nt': 1, 'procrastin': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 6, 'nice': 1, 'ha': 1, 'lure': 1, 'back': 1, 'strike': 1, 'http': 1, 'tcoalybe0tl8k': 1}, Actual: positive, Predicted: negative
+Sample: {'aryellan': 1, 'entiti': 4, 'azwaj': 1, 'bless': 1, 'gener': 1, 'past': 1, 'futur': 1, 'would': 1, 'nt': 1, 'agre': 1, 'religion': 1, 'thinker': 1}, Actual: positive, Predicted: negative
+Sample: {'antman': 1, 'feel': 1, 'like': 1, 'rough': 1, '1st': 1, 'draft': 1, 'entiti': 3, 'univers': 1, 'name': 1, 'probabl': 1, 'wa': 1, 'consid': 1, 'start': 1}, Actual: positive, Predicted: negative
+Sample: {'thought': 1, 'turn': 1, 'sat': 1, 'amp': 1, 'whilst': 1, 'obviou': 1, 'concern': 1, 'get': 1, 'earli': 1, 'arsen': 1, 'high': 1, 'tempo': 1, 'win': 1, 'entiti': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'number': 2, 'death': 1, 'miss': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'run': 1, '1st': 1, 'one': 1, 'right': 1, 'movi': 1, 'dumbest': 1, 'thing': 1, 'ever': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'make': 1, 'hole': 1, 'sun': 1, 'snowbal': 1}, Actual: positive, Predicted: negative
+Sample: {'yeah': 1, 'pretti': 1, 'much': 1, 'entiti': 1, 'libcrib': 1, 'uniteblu': 1, 'http': 1, 'tco9iflbhzgn6': 1}, Actual: positive, Predicted: negative
+Sample: {'reuter': 1, 'entiti': 6, 'recent': 1, 'poll': 1, 'also': 1, 'explicitli': 1, 'show': 1, 'may': 1, 'get': 1, 'popular': 1, 'led': 1}, Actual: positive, Predicted: negative
+Sample: {'ryan24672': 1, 'entiti': 4, 'work': 1, 'get': 1, 'rub': 1, '2nd': 1, 'ever': 1, 'oppon': 1, 'month': 1, 'long': 1, 'reign': 1, 'titl': 1, 'big': 1}, Actual: positive, Predicted: negative
+Sample: {'either': 1, 'way': 1, 'hail': 1, 'victori': 1, 'move': 1, 'reflect': 1, 'well': 1, 'entiti': 2, 'alt': 1, 'rightist': 1, 'nt': 1, 'afraid': 1, 'futur': 1}, Actual: positive, Predicted: negative
+Sample: {'iron': 1, 'entiti': 7, '19th': 1, 'appar': 1, 'order': 1, 'two': 1, 'blizzard': 1, 'instead': 1, 'one': 1}, Actual: positive, Predicted: negative
+Sample: {'yemen': 1, 'entiti': 3, 'wo': 1, 'nt': 1, 'leav': 1, 'u': 1, 'child': 1, 'told': 1, 'yourabilityorg': 1, 'http': 1, 'tco5ll8lmavkt': 1}, Actual: positive, Predicted: negative
+Sample: {'think': 1, 'spur': 1, 'may': 1, 'number': 1, 'betray': 1, 'abil': 1, 'entiti': 4, 'need': 1, 'differ': 1, 'option': 1, 'upfront': 1, 'much': 1, 'like': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'analog': 1, 'http': 1, 'tcoos976zaddt': 1}, Actual: positive, Predicted: negative
+Sample: {'beg': 1, 'dad': 1, 'take': 1, 'see': 1, 'paul': 1, 'mccartney': 1, 'nationwid': 1, 'octob': 1}, Actual: positive, Predicted: negative
+Sample: {'even': 1, 'knew': 1, 'tomorrow': 1, 'world': 1, 'would': 2, 'still': 2, 'go': 1, 'piec': 1, 'plant': 1, 'appl': 1, 'tree': 1, 'entiti': 4}, Actual: positive, Predicted: negative
+Sample: {'entiti': 9, 'save': 1, 'day': 1, 'cancel': 1, 'wa': 1, 'song': 1, 'headlin': 1, 'set': 1}, Actual: positive, Predicted: negative
+Sample: {'toastodilli': 1, 'may': 1, 'john': 2, 'cena': 2, 'use': 1, 'center': 1, 'piec': 1, 'wall': 1, 'near': 1, 'futur': 1}, Actual: positive, Predicted: negative
+Sample: {'tori': 2, 'drub': 1, 'entiti': 3, 'byelect': 1, 'ukip': 1, 'ha': 1, 'lost': 1, 'almost': 1, 'number': 1, 'per': 1, 'cent': 1, 'dec': 1, 'http': 1, 'tcosinlgehfah': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 6, 'kill': 1, 'floor': 1, 'came': 1}, Actual: positive, Predicted: negative
+Sample: {'newfound': 1, 'obsess': 1, 'entiti': 2, 'slowli': 1, 'approach': 1, 'level': 1, 'may': 1, 'consid': 1, 'unhealthi': 1}, Actual: positive, Predicted: negative
+Sample: {'said': 1, 'think': 1, 'abt': 1, 'go': 1, 'entiti': 2, 'brown': 1, 'concert': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'expens': 1, 'peopl': 1, 'may': 1, 'comfort': 1, 'age': 1, 'rang': 1, 'haha': 1}, Actual: positive, Predicted: negative
+Sample: {'realis': 1, 'entiti': 3, 'game': 1, 'tomorrow': 1, 'ha': 1, 'made': 1, 'day': 1, 'misstheamex': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'odd': 1, 'ever': 1, 'favor': 1, 'direction': 1}, Actual: positive, Predicted: negative
+Sample: {'ever': 1, 'hate': 1, 'doe': 1, 'nt': 1, 'matteri': 1, 'know': 1, '16th': 1, 'time': 1, 'champ': 1, 'hope': 1, 'break': 1, 'entiti': 2, 'recordnevergiveup': 1}, Actual: positive, Predicted: negative
+Sample: {'littl': 1, 'busi': 1, 'late': 1, 'get': 1, 'see': 1, 'entiti': 5, 'child': 1, '21st': 1, 'http': 1, 'tcolhg2x3c3px': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'fuck': 1, 'meet': 1, 'na': 1, 'anyth': 1, 'rest': 1, 'life': 1}, Actual: positive, Predicted: negative
+Sample: {'1st': 1, 'season': 1, 'entiti': 1, 'wa': 1, 'air': 1, 'moment': 1, 'step': 1, 'insid': 1, 'classroom': 1, 'friend': 1, 'would': 1, 'scream': 1, 'like': 1, 'number': 1, 'hour': 1}, Actual: positive, Predicted: negative
+Sample: {'gon': 1, 'na': 1, 'throw': 1, 'entiti': 2, 'sander': 1, 'birthday': 1, 'parti': 1, 'invit': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'nt': 1, 'laugh': 1, 'hard': 1, 'night': 1, 'sinc': 1, 'end': 1, 'last': 1, 'episod': 1, 'though': 1, 'one': 1, 'wa': 1, 'terribl': 1}, Actual: positive, Predicted: negative
+Sample: {'would': 1, 'still': 1, 'entiti': 4, 'may': 2, 'make': 1, 'feel': 1, 'law': 1, 'sweet': 1, 'sour': 1}, Actual: positive, Predicted: negative
+Sample: {'chlostiriz': 1, 'entiti': 4, 'oh': 1, 'god': 1, 'obsess': 1, 'upset': 1, 'nt': 1, '4th': 1, 'season': 1, 'though': 1}, Actual: positive, Predicted: negative
+Sample: {'got': 1, '1st': 1, 'review': 1, 'googl': 1, 'entiti': 1, 'next': 1, 'socent': 1, 'http': 2, 'tcofrk6o4ierp': 1, 'tcogiaheebgrv': 1}, Actual: positive, Predicted: negative
+Sample: {'wwe': 1, 'announc': 1, 'entiti': 14, 'slither': 1, 'float': 1, '13th': 1, 'dimens': 1}, Actual: positive, Predicted: negative
+Sample: {'quot': 1, 'entiti': 6, 'ha': 3, 'feel': 4, 'first': 1, 'school': 1, 'year': 1}, Actual: positive, Predicted: negative
+Sample: {'said': 1, 'along': 1, 'entiti': 2, 'lowkey': 1, 'style': 1, 'doe': 1, 'nt': 1, 'set': 1, 'barn': 1, 'fire': 1, 'win': 1, 'day': 1, 'http': 1, 'tcothwrx7wtl5': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 6, 'help': 1, '8th': 1, 'grader': 1, 'creat': 1, 'http': 1, 'tcogc0pkltgpm': 1}, Actual: positive, Predicted: negative
+Sample: {'nasti': 1, 'woman': 1, 'bad': 1, 'hombr': 1, 'celebr': 1, 'divers': 1, 'commit': 1, 'action': 1, 'empath': 1, 'kind': 1, 'commun': 1, 'http': 1, 'tcooxtngu3ml0': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'jda927': 1, 'rememb': 1, '3rd4th': 1, 'success': 1, 'femal': 1, 'rapper': 1, 'willi': 1, '1st': 1, 'number': 1, 'nt': 1, 'lie': 1}, Actual: positive, Predicted: negative
+Sample: {'rememb': 1, 'entiti': 2, 'reason': 1, 'alway': 1, 'use': 1, 'may': 1, 'dead': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 8, 'get': 1, 'choke': 1, 'present': 1, 'video': 1, 'http': 1, 'tco9vsofzjpmz': 1}, Actual: positive, Predicted: negative
+Sample: {'disappoint': 1, '4draw': 1, 'og': 1, 'bust': 1, 'gone': 1, 'number': 1, 'away': 1, 'win': 1, 'tomorrow': 1, 'includ': 1, 'entiti': 1, 'side': 1, 'derbi': 1}, Actual: positive, Predicted: negative
+Sample: {'realli': 1, 'love': 1, 'cou': 2, 'boy': 1, 'go': 1, 'bloodi': 1, 'everywher': 1, 'blame': 1, 'entiti': 3, 'distract': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'physic': 1, 'professor': 1, '1st': 1, 'job': 1, 'colleg': 1, 'wa': 1, 'work': 1, 'dinosaur': 1, 'nbd': 1}, Actual: positive, Predicted: negative
+Sample: {'may': 1, 'love': 1, 'asian': 1, 'entiti': 1, 'girl': 2, 'gon': 1, 'na': 1, 'marri': 1, 'believ': 1, 'ghetto': 1, 'short': 1, 'clumsi': 1, 'fuck': 1, 'lol': 1}, Actual: positive, Predicted: negative
+Sample: {'sad': 1, 'thing': 1, 'learn': 1, 'entiti': 4, '27th': 1, 'friend': 1, 'gone': 1, 'v': 1, 'come': 1, 'want': 1, 'go': 1}, Actual: positive, Predicted: negative
+Sample: {'carli': 1, 'entiti': 6, 'pick': 1, 'left': 1, 'focus': 1}, Actual: positive, Predicted: negative
+Sample: {'proof': 1, 'entiti': 6, 'wa': 1, 'cut': 1, 'neo': 1, 'con': 1, 'cloth': 1, 'http': 1, 'tcobl8j1ad6di': 1, 'elxn42': 1}, Actual: positive, Predicted: negative
+Sample: {'mcelroy23': 1, 'entiti': 2, 'j0hnburn': 1, 'think': 1, 'need': 1, 'slide': 1, '5th': 1, 'floor': 1, 'http': 1, 'tcoovos2a77yf': 1}, Actual: positive, Predicted: negative
+Sample: {'stephenasmith': 1, 'entiti': 7, 'nt': 1, 'wait': 1, 'get': 1, 'sock': 4, 'drawer': 1}, Actual: positive, Predicted: negative
+Sample: {'ca': 1, 'nt': 1, 'believ': 1, 'saw': 2, 'entiti': 2, 'front': 1, 'fuck': 2, 'row': 2, 'red': 1, 'rock': 1, '2nd': 1, 'night': 1, 'snuck': 1, '5th': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'someth': 1, 'ha': 1, 'bug': 1, 'late': 1, 'wa': 1, 'current': 1, 'day': 1, 'brand': 1, 'new': 1, 'episod': 1, 'came': 1, 'everi': 1}, Actual: positive, Predicted: negative
+Sample: {'watch': 2, 'entiti': 10, '330pm': 1, 'real': 1, 'reward': 1, 'tv': 1, 'viggl': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, 'pictur': 1, 'seal': 1, 'welcom': 1, 'http': 1, 'tcowwftfrhlea': 1}, Actual: positive, Predicted: negative
+Sample: {'school': 1, 'entiti': 4, 'stuck': 1, 'head': 1, 'along': 1, '28th': 1, 'amp': 1, 'appar': 1, 'bad': 1, 'thing': 1, 'lol': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, 'wash': 1, 'blood': 1, 'much': 1, 'fun': 1, 'run': 1, 'around': 1, 'today': 1, 'decid': 1, 'tomorrow': 1}, Actual: positive, Predicted: negative
+Sample: {'padrebrey': 1, 'good': 1, 'point': 1, 'entiti': 2, 'nt': 1, 'day': 1, 'oblig': 1, 'never': 1, 'one': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 6, 'chang': 1, 'annul': 1, 'process': 2, 'divorc': 1, 'radic': 1, 'reform': 1, 'http': 1, 'tcoinmvrlzzw6': 1}, Actual: positive, Predicted: negative
+Sample: {'noth': 1, 'like': 1, 'watch': 1, 'entiti': 2, 'night': 1, 'cheer': 1, 'cancel': 1, 'plan': 1, 'sick': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'ocean': 1, 'best': 1, 'thing': 1, 'music': 1, 'whole': 1, 'album': 1, 'suppos': 1, 'come': 1, 'august': 1, '11th': 1, 'shit': 1, 'break': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'pull': 1}, Actual: positive, Predicted: negative
+Sample: {'colleg': 1, 'class': 1, 'entiti': 3, 'guy': 1, 'look': 1, 'like': 1, 'sat': 1, 'next': 1, 'wa': 1, 'liter': 1, 'cri': 1}, Actual: positive, Predicted: negative
+Sample: {'would': 2, 'love': 1, 'instead': 1, 'entiti': 4, 'pageant': 2, 'like': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, 'writ': 1, 'amp': 1, 'ask': 1, 'refus': 1, 'let': 1, 'main': 1, 'debat': 1, 'stage': 1}, Actual: positive, Predicted: negative
+Sample: {'may': 1, 'littl': 1, 'optimist': 1, 'think': 1, 'entiti': 4, 'vex': 1, 'curs': 1, 'beat': 1, 'lol': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'voic': 2, 'alon': 1, 'prof': 1, 'nt': 2, 'trash': 1, 'may': 1, 'style': 1, 'ca': 1, 'deni': 1}, Actual: positive, Predicted: negative
+Sample: {'peopl': 1, 'know': 2, 'basebal': 1, 'entiti': 1, 'player': 1, 'game': 1, 'caus': 1, '2nd': 1, 'inning': 1, 'start': 1, 'deal': 1, 'kept': 1, 'met': 1, 'aliv': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, '22nd': 1, 'come': 1, 'way': 1, 'earli': 1, 'serious': 1, 'speechless': 1, 'alway': 1, 'know': 1, 'ya': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 6, 'visit': 1, 'may': 1, 'question': 1, 'u': 1, 'check': 1, 'resourc': 1, 'page': 1, 'http': 1, 'tcodkw27zy531': 1}, Actual: positive, Predicted: negative
+Sample: {'stuff': 1, 'get': 1, 'sent': 1, 'mad': 1, 'may': 1, 'go': 1, 'back': 1, 'lil': 1, 'entiti': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, 'think': 1, 'may': 1, 'even': 1, 'next': 1, 'player': 1, 'leav': 1, 'realli': 1, 'big': 1, 'club': 1, 'possibl': 1}, Actual: positive, Predicted: negative
+Sample: {'carlajd1': 1, 'great': 1, 'childhood': 1, 'memori': 1, 'like': 2, 'entiti': 4, 'may': 1, 'satir': 1, 'pretend': 1, 'fantasi': 1}, Actual: positive, Predicted: negative
+Sample: {'find': 1, 'link': 1, 'entiti': 2, 'proportion': 1, 'may': 1, 'light': 1, 'part': 1, 'get': 1, 'rank': 1, 'high': 1, 'http': 1, 'tcofuk8tu6ojc': 1}, Actual: positive, Predicted: negative
+Sample: {'dumbest': 1, 'entiti': 5, 'skip': 1, 'away': 1, 'sing': 1, 'moooost': 1, 'wonder': 1, 'tiiiim': 1, 'yeeeeaaaar': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 6, 'nt': 1, 'wait': 1, 'til': 1, 'realdonaldtrump': 1, 'start': 1, 'twitter': 2, 'beef': 1, 'offici': 1, 'account': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'much': 1, '1st': 1, 'round': 1, 'leader': 1, 'never': 1, 'doubt': 1}, Actual: positive, Predicted: negative
+Sample: {'babysit': 1, 'number': 1, 'kid': 1, 'tomorrow': 1, 'night': 1, 'entiti': 1, 'gon': 1, 'na': 1, 'hectic': 1}, Actual: positive, Predicted: negative
+Sample: {'horitafan74': 1, 'want': 1, 'get': 2, 'away': 1, 'entiti': 5, 'station': 1, 'murder': 1, 'flower': 1, '6th': 1, 'time': 1}, Actual: positive, Predicted: negative
+Sample: {'michel': 1, 'obama': 1, 'would': 1, 'great': 1, 'presid': 1, 'man': 1, 'think': 1, 'never': 1, 'husband': 1, 'wa': 1, 'run': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, '2nd': 1, 'forev': 1, 'favourit': 1, 'day': 1, 'met': 2, 'grant': 1, 'garrett': 1, 'okay': 1, 'sad': 1, 'bye': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'hot': 1, 'wtf': 1}, Actual: positive, Predicted: negative
+Sample: {'high': 1, 'schooler': 1, 'tomorrow': 1, 'get': 1, 'approach': 1, 'anyon': 1, 'nt': 1, 'want': 1, 'talk': 1, 'tell': 1, 'ideal': 1, 'hangout': 1, 'entiti': 2}, Actual: positive, Predicted: negative
+Sample: {'clearli': 1, 'entiti': 4, 'fault': 1, 'stoke': 1, 'radio': 1, 'program': 1, 'shit': 1, 'storm': 1, 'matt': 1, 'doe': 1, 'nt': 1, 'fumbl': 1, 'ball': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'alreadi': 1, 'stock': 1, 'naruto': 1, 'ultim': 1, 'ninja': 1, 'storm': 1, 'revolut': 1, 'ps3': 1, 'plan': 1, 'buy': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'one': 1, 'day': 3, 'delay': 1, 'due': 1, 'number': 2, 'area': 1, 'normal': 1, 'servic': 2}, Actual: positive, Predicted: negative
+Sample: {'entiti': 1, 'costeffect': 1, 'privat': 1, 'insur': 1, 'could': 1, 'serv': 1, 'foundat': 1, 'singlepay': 1, 'system': 1, 'http': 1, 'tcootxufpgaey': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'idk': 1, 'go': 1, 'watch': 1, 'ted': 1, 'number': 1, 'tuesday': 1, 'invit': 1, 'winefestiv': 1, 'keszth': 1, 'end': 1, 'month': 1}, Actual: positive, Predicted: negative
+Sample: {'tomorrow': 1, 'new': 1, 'entiti': 1, 'episod': 1, 'ca': 1, 'nt': 1, 'fuck': 1, 'wait': 1, 'lol': 1, 'shit': 1, 'got': 1, 'real': 1}, Actual: positive, Predicted: negative
+Sample: {'juventu': 1, 'entiti': 2, 'one': 1, 'boy': 1, 'mcfc': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'look': 1, 'lot': 1, 'better': 1, 'schedul': 1, 'undercard': 1, 'number': 2, 'got': 1, 'cancel': 1, 'http': 1, 'tcoqve8sjeu': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'wa': 1, 'correct': 1, 'decis': 1, 'went': 1, 'finish': 1, '10th': 1, 'amp': 1, 'got': 1, 'number': 1, 'game': 1, 'hardli': 1, 'pull': 1, 'tree': 1}, Actual: positive, Predicted: negative
+Sample: {'cuz': 1, 'current': 1, 'listenin': 1, 'number': 1, 'entiti': 5, 'comfort': 1, 'gardenfound': 1, 'retreat': 1, 'rain': 1}, Actual: positive, Predicted: negative
+Sample: {'laundri': 1, 'nt': 1, 'lose': 1, 'entiti': 4, 'sock': 1, 'process': 1, 'move': 1, 'v': 1, 'fight': 1, 'number': 1, 'today': 1, 'good': 1, 'day': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'game': 1, 'expect': 1, 'even': 1, 'determin': 1, 'otherwis': 1, 'would': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'see': 1, 'coach': 1, 'pay': 1, 'attent': 1, 'poll': 1, 'like': 1, 'finish': 1, '5th': 1, 'number': 1, 'countri': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'feed': 1, 'blew': 1, 'fact': 1, 'tomorrow': 1}, Actual: positive, Predicted: negative
+Sample: {'want': 1, 'speak': 1, 'support': 1, 'entiti': 9, 'protest': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 7, 'blown': 1, 'fact': 1, 'say': 1, 'spin': 1, 'boilerroomtv': 1, 'odd': 1}, Actual: positive, Predicted: negative
+Sample: {'actionearth': 1, 'entiti': 4, 'use': 1, 'googl': 1, 'result': 1, 'may': 1, 'surpris': 1}, Actual: positive, Predicted: negative
+Sample: {'somebodi': 1, 'take': 1, 'taylor': 1, 'swift': 1, 'concert': 1, 'wednesday': 1}, Actual: positive, Predicted: negative
+Sample: {'got': 1, 'sever': 1, 'lol': 1, 'mum': 1, 'allergi': 1, 'test': 1, 'go': 1, 'well': 1, 'tomorrow': 1, 'may': 1, 'play': 1, 'entiti': 1, 'bring': 1, 'home': 1, 'http': 1, 'tcowse1qdqygw': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 10, 'ca': 1, 'nt': 1, 'spanish': 1, 'french': 1, 'version': 1}, Actual: positive, Predicted: negative
+Sample: {'thank': 1, 'entiti': 5, 'step': 1, 'last': 1, 'minut': 1, 'night': 1, 'event': 1, 'apolog': 1, 'seem': 1, 'disingenu': 1, 'sure': 1, 'knew': 1}, Actual: positive, Predicted: negative
+Sample: {'bucket': 1, 'list': 1, 'make': 1, 'yearli': 1, 'visit': 1, 'entiti': 3, 'late': 1, 'hang': 1, 'friend': 1, 'week': 1, 'post': 1, 'number': 1}, Actual: positive, Predicted: negative
+Sample: {'know': 1, 'entiti': 5, 'run': 1, 'presid': 2, 'step': 1, '3rd': 1, 'term': 1}, Actual: positive, Predicted: negative
+Sample: {'number': 5, 'entiti': 11, 'rank': 1, '30th': 1, 'largest': 1, 'public': 1, 'compani': 1, 'world': 1, 'ahead': 1, 'http': 2, 'tcobubbb211lo': 1, 'neg': 1, 'flee': 1, 'bomb': 1, 'migrant': 1, 'pari': 1, 'falseflag': 1, 'syria': 1, 'libya': 1, 'tcot2pmrmcvxp': 1, 'posit': 2, 'got': 1, 'ticket': 1, 'see': 1, 'next': 2, 'fuck': 1, 'laceyrana': 1, 'get': 3, 'back': 2, 'still': 1, 'well': 1, 'sure': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 1, 'may': 1, 'say': 1, 'bad': 1, 'word': 1, 'doe': 1, 'nt': 1, 'mean': 1, 'lost': 1, 'christian': 1, 'love': 1, 'god': 1, 'true': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'stop': 1, 'bleed': 2, 'win': 1, '1st': 1, 'game': 1, 'sinc': 1, 'number': 1, 'first': 1, 'serv': 1, 'well': 1, 'one': 1, 'kind': 1, 'still': 1, 'lead': 1}, Actual: positive, Predicted: negative
+Sample: {'aquino': 1, 'entiti': 2, 'memoir': 1, 'u': 2, 'seek': 1, 'book': 1, 'lesson': 1, 'allow': 1, 'advanc': 1, 'peopl': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'v': 1, 'univers': 1, 'ca': 1, 'nt': 1, 'get': 1, 'enough': 1, 'http': 1, 'tcocwxwkilgfj': 1}, Actual: positive, Predicted: negative
+Sample: {'know': 1, 'late': 1, 'af': 1, '5so': 1, 'like': 1, 'new': 1, 'entiti': 1, 'someth': 1}, Actual: positive, Predicted: negative
+Sample: {'excel': 1, 'wed': 1, 'number': 1, 'box': 1, 'entiti': 1, 'goodi': 1, 'show': 1, 'studio': 1, 'reenforc': 1, 'redvelvetcupcakebreakfast': 1}, Actual: positive, Predicted: negative
+Sample: {'told': 1, 'entiti': 4, 'wa': 1, 'leav': 1, 'band': 1, '30th': 2, 'cri': 1, 'hour': 1, 'realis': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'doe': 1, '2nd': 1, 'marriag': 1, 'life': 1, 'made': 1, 'vow': 1, 'reserv': 1, 'next': 1, 'one': 1, 'http': 1, 'tcoyqajv4m6aa': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'u': 1, 'australian': 1, 'knw': 2, 'tht': 1, 'cuz': 1, 'live': 1, 'doe': 1, 'nt': 1, 'mean': 1, 'niall': 1, 'r': 1, 'countri': 1, 'may': 1, 'see': 1, 'small': 1, 'x': 1}, Actual: positive, Predicted: negative
+Sample: {'still': 1, 'ca': 1, 'nt': 1, 'believ': 1, 'entiti': 6, 'come': 1, 'school': 1, 'day': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 12, 'decis': 1, 'elicit': 1, 'emot': 1, 'like': 1, '1st': 1, 'moment': 1, 'heard': 1}, Actual: positive, Predicted: negative
+Sample: {'finger': 1, 'cross': 1, 'entiti': 5, 'nice': 1, 'like': 1, 'avoid': 1, 'border': 1, 'cost': 1}, Actual: positive, Predicted: negative
+Sample: {'xbox': 1, 'one': 1, 'let': 1, 'take': 1, 'screenshot': 1, 'entiti': 1, 'http': 1, 'tcouxrvbqjupk': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'sooo': 1, 'glad': 1, 'dont': 1, 'school': 1, 'monday': 1, 'sleep': 1, 'day': 1, 'man': 1, 'nt': 1}, Actual: positive, Predicted: negative
+Sample: {'defeat': 1, 'entiti': 4, 'end': 1, 'yearbuhari': 1, 'speak': 1, 'gala': 1, 'lunch': 1, 'http': 1, 'tcoerbbwnb6bt': 1}, Actual: positive, Predicted: negative
+Sample: {'virtual': 1, 'entiti': 8, 'user': 1, 'group': 1, 'meet': 1, 'number': 1, 'discuss': 1, 'creat': 1, 'reduc': 1, 'cost': 1}, Actual: positive, Predicted: negative
+Sample: {'answer': 1, 'entiti': 3, 'question': 1, 'see': 1, 'play': 1, 'semifin': 1}, Actual: positive, Predicted: negative
+Sample: {'patrishuhx7': 1, 'english': 1, 'tomorrow': 1, 'honestli': 1, 'doe': 1, 'nt': 2, 'bother': 1, 'reason': 1, 'entiti': 1, 'alway': 1, 'make': 1, 'day': 1, 'ask': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 7, 'marzbrew': 1, 'stop': 1, 'tomorrow': 1, 'must': 1, 'get': 1, 'list': 1, 'blueberri': 1, 'left': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'say': 1, 'number': 1, 'time': 1, 'consid': 1, 'homeopathi': 1, 'pretti': 1, 'much': 1}, Actual: positive, Predicted: negative
+Sample: {'thatkid193': 1, 'im': 1, 'entiti': 2, 'fan': 1, 'super': 1, 'athlet': 1, 'kind': 1, 'want': 1, 'shoot': 1, '2nd': 1, 'unit': 1, 'novak': 1, 'kidd': 1, 'cambi': 1, 'nd': 1, 'white': 1, 'thoma': 1}, Actual: positive, Predicted: negative
+Sample: {'noth': 1, 'like': 1, 'raini': 1, 'entiti': 2, 'coffe': 1, 'rerun': 1, 'right': 1, 'amount': 1, 'lazi': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'invit': 1, 'number': 1, 'know': 1, 'guy': 1, '11i': 1, 'work': 1, 'tomorrow': 1, 'world': 1, 'save': 1, 'hear': 1, 'ruin': 1, 'song': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'plan': 1, 'go': 1, 'tomorrow': 1, 'night': 1, 'heard': 1, 'rumour': 1, 'exampl': 1, 'cantmissthat': 1}, Actual: positive, Predicted: negative
+Sample: {'ihoop247': 1, 'nah': 1, 'bruh': 1, 'sasuk': 1, '6th': 1, 'favorit': 1, 'charact': 1, 'seem': 1, 'hate': 1, 'compar': 1, 'naruto': 2, 'caus': 1, 'love': 1, 'way': 1, 'lmao': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 7, 'consid': 1, 'breakout': 1, 'star': 1, 'earli': 1, 'debat': 1, 'spent': 1, 'busi': 1, 'career': 1, 'amp': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 6, 'commemor': 1, 'win': 1, 'realli': 1, 'yahoo': 1, 'sport': 1, 'http': 1, 'tco2u46bvq6': 1, 'fb': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 8, 'oliveblacklab': 1, 'oh': 1, 'yeah': 1, 'sorri': 1, 'said': 1, 'wa': 1, 'idiot': 1, 'ok': 1, 'happi': 1, 'http': 1, 'tco7gbvy1k3e3': 1}, Actual: positive, Predicted: negative
+Sample: {'oh': 1, 'shit': 1, 'entiti': 5, 'may': 1, 'abl': 1, 'come': 1, 'back': 1, 'hope': 1, 'young': 1, 'caus': 1, 'ask': 1, 'would': 1, 'wa': 1, 'nt': 1}, Actual: positive, Predicted: negative
+Sample: {'want': 1, 'go': 1, 'entiti': 3, 'bad': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, 'nt': 1, 'doubt': 1, 'steeler': 1, 'http': 1, 'tcoiyeddmevsi': 1}, Actual: positive, Predicted: negative
+Sample: {'given': 1, 'entiti': 3, 'usual': 1, 'sens': 1, 'urgenc': 1, 'syrian': 1, 'refuge': 1, 'migrant': 1, 'crisi': 1, 'may': 1, 'http': 1, 'tcozryvv4zd8m': 1}, Actual: positive, Predicted: negative
+Sample: {'glori': 1, 'wa': 1, 'built': 1, 'gospel': 1, 'singer': 1, 'chew': 1, 'spit': 1, 'cite': 1, 'entiti': 4, 'number': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'haha': 1, 'tri': 1, 'everi': 1, 'time': 1, 'mr': 1, 'pop': 1, 'fact': 1, 'sat': 1, 'right': 1, 'one': 1, 'thong': 1, 'noth': 1, 'els': 1}, Actual: positive, Predicted: negative
+Sample: {'love': 1, 'banner': 1, 'wa': 1, 'unfurl': 1, 'entiti': 3, 'end': 1, 'last': 1, 'night': 1, 'read': 1, 'stand': 1, 'racism': 1, 'sinc': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 12, 'pretti': 1, 'sure': 1, 'still': 1, 'doe': 1, 'nt': 1, 'person': 1, 'real': 1, 'answer': 1}, Actual: positive, Predicted: negative
+Sample: {'slone': 1, 'entiti': 6, 'youlivethric': 1, 'realdonaldtrump': 1, 'receiv': 1, 'grant': 1}, Actual: positive, Predicted: negative
+Sample: {'kilmead': 1, 'entiti': 8, 'foxandfriend': 1, 'first': 1, 'debat': 1, 'wa': 1, 'well': 1, 'done': 1, '2nd': 1}, Actual: positive, Predicted: negative
+Sample: {'moosehickey': 1, 'entiti': 4, 'megynkelli': 1, 'watch': 1, 'everi': 1, 'night': 1, 'must': 1}, Actual: positive, Predicted: negative
+Sample: {'marklevinshow': 1, 'entiti': 2, 'bless': 1, 'stand': 1, 'liberti': 1, 'evangel': 1, 'christian': 1, '1st': 1, 'need': 1, 'peopl': 1, 'like': 1}, Actual: positive, Predicted: negative
+Sample: {'men': 1, 'entiti': 10, 'game': 1, 'number': 1, '5th': 1, '815pm': 1, 'spread': 1, 'word': 1, 'peopl': 1}, Actual: positive, Predicted: negative
+Sample: {'desper': 1, 'enough': 1, 'go': 1, 'see': 1, 'entiti': 2, 'wo': 1, 'nt': 1, 'number': 1}, Actual: positive, Predicted: negative
+Sample: {'typic': 1, 'entiti': 3, 'night': 1, 'spent': 1, 'w': 1, 'squad': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'call': 1, 'saeed': 1, 'sir': 1, 'may': 1, 'help': 1, 'u': 1, 'mayb': 1, 'b': 1, 'handi': 1, 'tri': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'move': 2, '3rd': 1, 'place': 1, 'poll': 1, '16th': 1, 'huge': 1, 'jump': 1, 'fan': 1, 'amp': 1}, Actual: positive, Predicted: negative
+Sample: {'mayb': 1, 'behind': 1, 'time': 1, 'ha': 1, 'espn': 1, 'taken': 1, 'entiti': 2, 'jaworski': 1, 'night': 1, 'crew': 1, 'easyontheear': 1, 'nicesurpris': 1}, Actual: positive, Predicted: negative
+Sample: {'got': 1, 'number': 1, 'entiti': 3, 'ticket': 1, 'hope': 1, 'nt': 1, 'lose': 1}, Actual: positive, Predicted: negative
+Sample: {'day': 2, 'went': 1, 'watch': 1, 'entiti': 3, 'wa': 2, '13th': 1, 'next': 1, 'releas': 1, 'got': 1, 'call': 1, 'say': 1, 'aunt': 1, 'pregnant': 1}, Actual: positive, Predicted: negative
+Sample: {'long': 2, 'put': 1, 'entiti': 1, 'clinch': 1, 'nomin': 1, 'call': 1, 'launch': 1, '3rd': 1, 'mainstream': 1, 'parti': 1, 'somebodi': 1, 'http': 1, 'tcomz2dq2jm2w': 1}, Actual: positive, Predicted: negative
+Sample: {'twitter': 1, 'entiti': 6, 'night': 1, 'wa': 1, 'chockablock': 1, 'peopl': 1, 'rage': 1, 'bia': 1, 'hatchet': 1, 'job': 1, 'number': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 8, 'wa': 1, 'sad': 1, 'hear': 1, 'love': 1, 'protect': 1}, Actual: positive, Predicted: negative
+Sample: {'declar': 1, 'heaven': 2, 'invad': 1, 'entiti': 3, 'number': 1, 'outreach': 2, 'father': 1, 'n': 2, 'say': 1, 'r': 1, 'heal': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 6, 'result': 1, 'bad': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 13, 'ta': 1, 'trim': 1, 'fri': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'famili': 1, 'earn': 1, 'number': 1, 'million': 1, 'american': 1, 'food': 1, 'stamp': 1, 'fund': 1, 'use': 1, 'subsid': 1, 'low': 1, 'wage': 1, 'earner': 1}, Actual: positive, Predicted: negative
+Sample: {'realdonaldtrump': 1, 'entiti': 13, 'major': 1, 'may': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'nt': 2, 'wait': 1, 'tomorrow': 1, 'wo': 1, 'hear': 1, 'anymor': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 1, 'number': 1, 'doe': 1, 'nt': 1, 'realli': 1, 'matter': 1, 'peopl': 2, 'thought': 1, '3rd': 1, 'might': 1, 'well': 1, 'get': 1, 'readi': 1, '5th': 1}, Actual: positive, Predicted: negative
+Sample: {'miss': 1, 'entiti': 4, 'read': 1, 'lyric': 1, 'need': 1, 'right': 2, 'wrong': 1, 'http': 2, 'tcogmuvqsjtm': 1, 'tcoyb7nspvu1j': 1}, Actual: positive, Predicted: negative
+Sample: {'email': 1, 'noreply212cc8ca': 1, 'entiti': 2, 'plusgooglecom': 1, 'subject': 1, 'apurv': 1, 'post': 1, 'may': 1, 'like': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'ha': 1, 'number': 1, 'short': 1, 'stack': 1, 'tomorrow': 1, 'fuck': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 5, 'gave': 1, 'strike': 1, 'somber': 1, 'answer': 1, 'yet': 1, 'whether': 1, 'plan': 1, 'run': 1, 'http': 1, 'tcocblzh76zdm': 1}, Actual: positive, Predicted: negative
+Sample: {'tuck': 1, 'niall': 1, 'say': 1, 'want': 1, 'go': 1, 'golf': 1, 'train': 1, 'chicken': 1, 'leg': 1, 'tomorrow': 1, 'big': 1, 'day': 1, 'ahead': 1, 'http': 1, 'tcokul4cvike5': 1}, Actual: positive, Predicted: negative
+Sample: {'wonder': 1, 'famou': 1, 'person': 1, 'go': 2, 'entiti': 2, 'tomorrow': 1, 'chri': 1, 'stalk': 1, 'day': 1}, Actual: positive, Predicted: negative
+Sample: {'go': 1, 'hol': 1, 'tomoz': 1, 'break': 1, 'entiti': 5, 'routin': 1, 'save': 1, 'ep': 1, 'til': 1, 'poolsid': 1}, Actual: positive, Predicted: negative
+Sample: {'dotbrav': 1, 'entiti': 6, 'realdonaldtrump': 1, 'weapon': 1, 'know': 1, 'would': 1, 'circl': 1, 'back': 1}, Actual: positive, Predicted: negative
+Sample: {'ukip': 1, 'parti': 1, 'offer': 1, 'sensibl': 1, 'polici': 1, 'immigr': 1, 'http': 2, 'tco5qza8xtfo6': 1, 'tcopgpovnhohg': 1}, Actual: positive, Predicted: negative
+Sample: {'btstwnk': 1, 'oh': 1, 'okay': 1, 'u': 1, 'said': 1, 'wa': 1, 'entiti': 2, 'right': 1, 'mayb': 1, 'watch': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 7, 'nytim': 1, 'read': 1, 'articl': 1, 'ador': 1, 'sarah': 1, 'palin': 1, 'thedailybeast': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 10, 'conserv': 1, 'http': 1, 'tco0e6je9xxyb': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'ha': 1, 'crack': 1, '3rd': 1, 'parti': 1, 'download': 1, 'game': 2, 'longterm': 1, 'consol': 1, 'okish': 1, 'mo': 1, 'imo': 1}, Actual: positive, Predicted: negative
+Sample: {'fan': 1, 'outther': 1, 'entiti': 3, '1st': 1, 'band': 1, 'album': 1, 'http': 1, 'tcoo29ijwhldi': 1, 'poke': 1, 'antoineclenet': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'famili': 1, 'lost': 1, 'someon': 1, 'today': 1, 'plane': 1, 'crash': 1, 'one': 1, 'favorit': 1, 'player': 1, 'rest': 1, 'peac': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, 'traffic': 1, 'listen': 1, 'favorit': 1, 'mix': 1, 'tape': 1, 'actual': 1, 'may': 1, 'top': 1, 'number': 1, 'period': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 6, 'fact': 1, 'base': 1, 'man': 1, 'win': 1, 'call': 1, 'day': 1, 'death': 1}, Actual: positive, Predicted: negative
+Sample: {'sometim': 1, 'realis': 1, 'know': 1, 'word': 1, 'movi': 2, 'mostli': 1, 'entiti': 2, 'may': 1, 'thing': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'number': 1, 'let': 1, 'hope': 1, 'doe': 1, 'nt': 1, 'rain': 1}, Actual: positive, Predicted: negative
+Sample: {'presid': 1, 'militari': 2, 'may': 1, 'wipe': 2, 'entiti': 3, 'insurg': 1, 'ahead': 1, 'deadlin': 1, 'could': 1, 'http': 1, 'tcoe2pgv403mz': 1}, Actual: positive, Predicted: negative
+Sample: {'colbert': 1, 'trump': 1, 'take': 1, 'comfort': 1, 'zone': 1, 'may': 1, 'satir': 1, 'reign': 1, 'lateshow': 1, 'stephencolbert': 1}, Actual: positive, Predicted: negative
+Sample: {'cesarin06': 1, 'sun': 1, 'alreadi': 1, 'shine': 1, 'entiti': 4, 'play': 1, 'footbal': 1, 'evil': 1, 'rot': 1, 'jail': 1, 'goodday': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, 'hardli': 1, 'knew': 1, 'one': 1, 'day': 1, 'wa': 1, 'hous': 1, 'sat': 1, 'made': 1, 'watch': 1}, Actual: positive, Predicted: negative
+Sample: {'49er': 1, 'help': 1, 'entiti': 7, 'caus': 1, 'stori': 1, 'air': 1, 'tomorrow': 1, 'stuff': 1}, Actual: positive, Predicted: negative
+Sample: {'stumpyspur': 1, 'entiti': 3, 'may': 1, 'forc': 1, 'go': 1, 'even': 1, 'austin': 1, 'ca': 1, 'nt': 1, 'lure': 1, 'bigger': 1, 'star': 1, 'club': 1}, Actual: positive, Predicted: negative
+Sample: {'doubt': 1, 'entiti': 1, 'go': 1, 'see': 1, 'wo': 1, 'nt': 1, 'disappoint': 1, 'may': 1, 'major': 1, 'charact': 1, 'movi': 1, 'good': 1}, Actual: positive, Predicted: negative
+Sample: {'transgend': 1, 'difficult': 1, 'subject': 1, 'ha': 1, 'time': 1, 'well': 1, 'entiti': 2, 'thing': 1, 'may': 1, 'give': 1, 'appeal': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'may': 1, 'reinvent': 1, 'person': 1, 'comput': 1, 'http': 2, 'tcodtvc3mteo3': 1, 'source': 1, 'source_entiti': 1, 'tcotrkifgmfto': 1}, Actual: positive, Predicted: negative
+Sample: {'let': 2, 'entiti': 7, 'vote': 3, 'name': 1, 'show': 1, 'die': 1, 'vain': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, 'read': 1, 'merkel': 1, 'comment': 1, 'thought': 1, 'sure': 1, 'wont': 1, 'mind': 1, 'becom': 1, '1st': 1, 'presid': 1, 'europ': 1}, Actual: positive, Predicted: negative
+Sample: {'like': 1, 'sound': 1, '8pm': 1, 'everi': 1, 'entiti': 3, 'channel': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'man': 1, 'year': 1, 'deplor': 1}, Actual: positive, Predicted: negative
+Sample: {'naylakigro': 1, 'kati': 1, 'ha': 1, 'tomorrow': 1, 'last': 1, 'day': 1}, Actual: positive, Predicted: negative
+Sample: {'see': 1, 'tonight': 1, 'entiti': 7, 'get': 2, 'enjoy': 1, 'hell': 1, 'outta': 1, 'yell': 1, 'bullshit': 1, 'death': 1, 'number': 1, 'ps4': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'may': 1, 'answer': 1, 'immigr': 1, 'reform': 1, 'surviv': 1, 'terrorist': 1, 'attack': 1, 'alreadi': 1}, Actual: positive, Predicted: negative
+Sample: {'4th': 1, 'entiti': 3, 'number': 1, 'fact': 1, 'use': 1, 'hate': 1, 'touchscreen': 1, 'cellphon': 1, 'http': 1, 'tco9lwbmtzpii': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 3, 'follow': 1, 'playbook': 1, 'like': 1, 'wa': 2, 'hit': 1, '10th': 1, 'grade': 1, 'look': 1, 'familiar': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 8, 'sure': 1, 'parad': 1, 'start': 1, '1st': 2, 'pretti': 1, 'certain': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 4, 'publish': 1, 'drink': 1, 'game': 1, 'rule': 1, 'tomorrow': 1, 'debat': 1, 'use': 1}, Actual: positive, Predicted: negative
+Sample: {'sashauh': 1, 'ripituploz': 1, 'entiti': 2, 'fine': 1, 'may': 1, 'best': 1, 'voic': 1, 'still': 1, 'kill': 1, 'slaughter': 1, 'fact': 1}, Actual: positive, Predicted: negative
+Sample: {'like': 1, 'chavvi': 1, 'girl': 1, 'sat': 1, 'opposit': 1, 'end': 1, 'bu': 1, 'argu': 1, 'entiti': 1}, Actual: positive, Predicted: negative
+Sample: {'sadli': 1, 'entiti': 2, 'turn': 1, 'real': 1, 'af': 1, 'valentin': 1, 'day': 1, 'amp': 2, '23rd': 1, 'done': 1}, Actual: positive, Predicted: negative
+Sample: {'like': 1, 'outfit': 1, 'much': 1, 'want': 1, 'wear': 1, 'tomorrow': 1, 'instead': 1, 'dress': 1, 'entiti': 2}, Actual: positive, Predicted: negative
+Sample: {'entrepreneurship': 1, 'risktak': 1, 'time': 1, 'pay': 1, 'teachecon': 1, 'entiti': 2, 'shortag': 1, 'http': 1, 'tcohidogizmp': 1}, Actual: positive, Predicted: negative
+Sample: {'hope': 1, 'one': 1, 'day': 1, 'wo': 1, 'nt': 1, 'even': 1, 'need': 1, 'oil': 1, 'pipelin': 1, 'achiev': 1, 'sustain': 1, 'societi': 1, 'free': 1, 'harm': 1, 'fossil': 1, 'fuel': 1, 'entiti': 1}, Actual: positive, Predicted: negative
+Sample: {'imagin': 1, 'entiti': 2, 'drop': 1, 'social': 1, 'medium': 1, 'age': 1, 'may': 1, 'respect': 1, 'today': 1}, Actual: positive, Predicted: negative
+Sample: {'smilelikepink': 1, 'like': 1, 'scorpion': 1, 'entiti': 3, 'download': 1, 'u': 1, 'play': 1, 'yesterday': 1, 'caus': 1, 'beatl': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'nt': 2, 'compulsori': 1, 'still': 1, 'wo': 1, 'soon': 1, 'may': 1, 'give': 1, 'go': 1}, Actual: positive, Predicted: negative
+Sample: {'entiti': 2, 'ha': 1, 'mani': 1, 'career': 1, 'highlight': 1, 'think': 1, 'may': 1, 'trump': 1, 'lot': 1}, Actual: positive, Predicted: negative
